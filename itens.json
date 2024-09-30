@@ -2177,5 +2177,74 @@
   ],
   "amuletos": [],
   "aneis": [],
-  "reliquias": []
+  "reliquias": [],
+  "classes": [
+    {
+      "nome": "",
+      "descricao": "",
+      "vantagem principal": "",
+      "skills": [
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        }
+      ],
+      "perks": [
+        {
+          "nome": "",
+          "tipo": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "tipo": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "tipo": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "tipo": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "tipo": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        }
+      ],
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    }
+  ],
+  "traits": [],
+  "stats": []
 }
