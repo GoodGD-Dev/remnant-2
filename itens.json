@@ -1864,15 +1864,15 @@
   "armaduras": [
     {
       "nome": "Academic's Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Academic's Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Academic's+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/academics_set_armor_sets_fextralife_wiki_guide_250px.png",
       "dlc": "Game Base"
     },
     {
-      "nome": " Bandit Set",
-      "tipo": "Armor Set",
+      "nome": "Bandit Set",
+      "tipo": "Light Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Bandit Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Bandit+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bandit_set_armor_remnant_2_wiki_guide_250px.png",
@@ -1880,7 +1880,7 @@
     },
     {
       "nome": "Bruiser Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Bruiser Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Bruiser+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bruiser_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1888,7 +1888,7 @@
     },
     {
       "nome": "Cultist Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Cultist Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Cultist+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cultist_set_armor_remnant_2_wiki_guide_250px.png",
@@ -1896,7 +1896,7 @@
     },
     {
       "nome": "Dendroid Set",
-      "tipo": "Armor Set",
+      "tipo": "Light Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Dendroid Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Dendroid+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dendroid_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1904,7 +1904,7 @@
     },
     {
       "nome": "Fae Royal Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Fae Royal Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost, unless you have at least 2 points in Strong Back which will allow you to wear this set with medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Fae+Royal+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_royal_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1912,7 +1912,7 @@
     },
     {
       "nome": "Field Medic Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Field Medic Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Field+Medic+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/field_medic_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1920,7 +1920,7 @@
     },
     {
       "nome": "High Noon Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. High Noon Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/High+Noon+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/high_noon_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1928,7 +1928,7 @@
     },
     {
       "nome": "Knotted Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Knotted Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Knotted+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/knotted_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1936,7 +1936,7 @@
     },
     {
       "nome": "Labyrinth Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Labyrinth Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Labyrinth+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/labyrinth_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1944,7 +1944,7 @@
     },
     {
       "nome": "Leto Mark I Set",
-      "tipo": "Armor Set",
+      "tipo": "Ultra Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Leto Mark I is an Ultra Heavy Armor Set, and will Flop instead of Dodge with a 75% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Leto+Mark+I+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leto_mark_i_set_armor_remnant_2_wiki_guide_250px.png",
@@ -1952,7 +1952,7 @@
     },
     {
       "nome": "Leto Mark II Set",
-      "tipo": "Armor Set",
+      "tipo": "Ultra Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Leto Mark II Set is an Ultra Heavy Armor Set, and will Flop instead of Dodge with a 75% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Leto+Mark+II+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leto_mark_ii_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1960,7 +1960,7 @@
     },
     {
       "nome": "Nightstalker Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Nightstalker Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Nightstalker+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightstalker_a_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1968,7 +1968,7 @@
     },
     {
       "nome": "Realmwalker Set",
-      "tipo": "Armor Set",
+      "tipo": "Light Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Realmwalker Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Realmwalker+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/realmwalker_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1976,7 +1976,7 @@
     },
     {
       "nome": "Red Widow Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Red Widow Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Red+Widow+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/red_widow_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1984,7 +1984,7 @@
     },
     {
       "nome": "Space Worker Set",
-      "tipo": "Armor Set",
+      "tipo": "Light Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Space Worker Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Space+Worker+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/space_worker_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -1992,7 +1992,7 @@
     },
     {
       "nome": "Survivor Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Survivor Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Survivor+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/survivor_overcoat_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2000,7 +2000,7 @@
     },
     {
       "nome": "Technician Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Technician Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Technician+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/technicia_helmet_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2008,7 +2008,7 @@
     },
     {
       "nome": "Trainer Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Trainer Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Trainer+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trainer_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2048,7 +2048,7 @@
     },
     {
       "nome": "Elder Set",
-      "tipo": "Armor Set",
+      "tipo": "Light Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Elder Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
       "link": "https://remnant2.wiki.fextralife.com/Elder+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/elder_set%C3%A7_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2056,7 +2056,7 @@
     },
     {
       "nome": "Radiant Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Radiant Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Radiant+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/radiant_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2064,7 +2064,7 @@
     },
     {
       "nome": "Void Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Void Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Void+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/void_set_armor_sets_fextralife_wiki_guide_250px.png",
@@ -2072,7 +2072,7 @@
     },
     {
       "nome": "Crimson Guard Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Crimson Guard Set is a heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost, unless you have at least 2 points in Strong Back which will allow you to wear this set with medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Crimson+Guard+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crimson_guard_remnant_2_wiki_250.png",
@@ -2080,7 +2080,7 @@
     },
     {
       "nome": "Zealot Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Zealot Set is a Medium Armor Set, so you will experience Normal Dodge with a 25% penalty on Stamina cost.",
       "link": "https://remnant2.wiki.fextralife.com/Zealot+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ritualist_remnant_2_wiki_250.png",
@@ -2088,7 +2088,7 @@
     },
     {
       "nome": "Battle Set",
-      "tipo": "Armor Set",
+      "tipo": "Medium Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Battle Set is a Medium Armor Set, so you will experience normal Dodge with a 25% penalty on Stamina cost",
       "link": "https://remnant2.wiki.fextralife.com/Battle+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/battle-set-remnant-2-forgotten-kingdom-wiki-guide-250px.png",
@@ -2096,7 +2096,7 @@
     },
     {
       "nome": "Disciple Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Disciple Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost, unless you have at least 2 points in Strong Back which will allow you to wear this set with medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Disciple+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disciple-set-remnant-2-forgotten-kingdom-wiki-guide-250px.png",
@@ -2160,7 +2160,7 @@
     },
     {
       "nome": "Nanoplated Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Nanoplated Set is a Light Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Nanoplated+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nanoplated_set_armor_set_remnant_2_wiki_guide_200px.png",
@@ -2168,7 +2168,7 @@
     },
     {
       "nome": "Phetyr Set",
-      "tipo": "Armor Set",
+      "tipo": "Heavy Armor Set",
       "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Phetyr Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
       "link": "https://remnant2.wiki.fextralife.com/Phetyr+Set",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/phetyr_armor_set_remnant_2_wiki_guide_200px.png",
