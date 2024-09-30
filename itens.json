@@ -925,6 +925,11 @@
   ],
   "mods": [
     {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    },
+    {
       "nome": "Astral Burst",
       "descricao": "Fires a short range burst of 7 star fragments which deal 35 damage each. Fragments bounce off walls up to 3 times, dealing 35% additional damage per bounce. Weakspot hits deal reduced damage. ",
       "link": "https://remnant2.wiki.fextralife.com/Astral+Burst",
@@ -1178,6 +1183,11 @@
     }
   ],
   "mutadores": [
+    {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    },
     {
       "Ranged": [
         {
@@ -1649,6 +1659,11 @@
   ],
   "armaduras": [
     {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    },
+    {
       "Light Armor Set": [
         {
           "nome": "Bandit Set",
@@ -1920,10 +1935,33 @@
       ]
     }
   ],
-  "amuletos": [],
-  "aneis": [],
-  "reliquias": [],
+  "amuletos": [
+    {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    }
+  ],
+  "aneis": [
+    {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    }
+  ],
+  "reliquias": [
+    {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    }
+  ],
   "classes": [
+    {
+      "The Awakened King": [],
+      "The Forgotten Kingdom": [],
+      "The Dark Horizon": []
+    },
     {
       "nome": "",
       "descricao": "",
