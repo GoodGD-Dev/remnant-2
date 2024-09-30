@@ -5,84 +5,96 @@
       "tipo": "Hand Gun",
       "descricao": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
       "link": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Double Barrel",
       "tipo": "Hand Gun",
       "descricao": "It's a bad leader what cant trust those beneath her to do what's right-who fears treachery behind every smile. Even if she's sometimes right, that ain't no way to live a life.",
       "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "MP60-R",
       "tipo": "Hand Gun",
       "descricao": "A small-caliber submachine gun best suited for close range skirmishes.",
       "link": "https://remnant2.wiki.fextralife.com/MP60-R",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Repeater Pistol",
       "tipo": "Hand Gun",
       "descricao": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
       "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Rupture Cannon",
       "tipo": "Hand Gun",
       "descricao": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
       "link": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Service Pistol",
       "tipo": "Hand Gun",
       "descricao": "Astandard issue military spec sidearm known for its reliability and accuracy.",
       "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Silverback Model 500",
       "tipo": "Hand Gun",
       "descricao": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
       "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Sureshot",
       "tipo": "Hand Gun",
       "descricao": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
       "link": "https://remnant2.wiki.fextralife.com/Sureshot",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Tech 22",
       "tipo": "Hand Gun",
       "descricao": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
       "link": "https://remnant2.wiki.fextralife.com/Tech+22",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Western Classic",
       "tipo": "Hand Gun",
       "descricao": "A classic six-shooter. Tough. Dependable.",
       "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Rusty Repeater",
       "tipo": "Hand Gun",
       "descricao": "An old antique pistol.",
       "link": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Repair Tool",
       "tipo": "Hand Gun",
       "descricao": "Fires a stream of nanomachines, dealing damage to enemies or healing allies for 3.15% of their Max Health per second. The nano-tech Turrets and Drones.",
       "link": "https://remnant2.wiki.fextralife.com/Repair+Tool",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
+      "dlc": "The Dark Horizon"
     },
     {
       "nome": "Cube Gun",
@@ -93,7 +105,8 @@
       "mod": "Cube Shield",
       "moddesc": "Cube Shield Generates a Cube Shield which absorbs up to 500 damage from incoming enemy projectiles. Lasts 15s. Reactivating fires the Cube Shield which damages enemies as it travels. Damage is increased if the Cube Shield has absorbed enemy projectile damage before firing. Mod Power Requirement: 1,000",
       "modlink": "https://remnant2.wiki.fextralife.com/Cube+Shield",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_shield_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_shield_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Enigma",
@@ -104,7 +117,8 @@
       "mod": "Chaos Driver",
       "moddesc": "Drives electrified rods which tether to other rods within 10m. Tethers deal 20 SHOCK damage per second. Targets embedded with a rod take 20 SHOCK damage per second. They take 20% additionally damage per extra rod in the target. Damage is increased by 1.5% if linked to another rod. Rods in the same target will not link.",
       "modlink": "https://remnant2.wiki.fextralife.com/Chaos+Driver",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chaos_driver_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chaos_driver_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Hellfire",
@@ -115,7 +129,8 @@
       "mod": "Explosive Shot",
       "moddesc": "Fires an explosive round that deals up to 175 damage within 9m.",
       "modlink": "https://remnant2.wiki.fextralife.com/Explosive+Shot",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/explosive_shot_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/explosive_shot_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Meridian",
@@ -126,7 +141,8 @@
       "mod": "Screamer",
       "moddesc": "Fire a high-powered rocket that deals up to 200 damage within 2.5m.",
       "modlink": "https://remnant2.wiki.fextralife.com/Screamer",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/screamer_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/screamer_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Nebula",
@@ -137,7 +153,8 @@
       "mod": "Nano Swarm",
       "moddesc": "Unleash a swarm of Nanomachines that seek after enemies within 20 meters and repeatedly attack dealing 6 ACID damage per hit and applying CORROSIVE, dealing 100 ACID damage over 10s. Lasts 15 seconds ",
       "modlink": "https://remnant2.wiki.fextralife.com/Nano+Swarm",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano_swarm_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano_swarm_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Rune Pistol",
@@ -148,7 +165,8 @@
       "mod": "Applies a Soul Brand to all enemies within 25m which lasts 25s. Enemies killed while bearing the Soul Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m, granting 10% of Max Health on contact. ",
       "moddesc": "Soul Brand",
       "modlink": "https://remnant2.wiki.fextralife.com/Soul+Brand",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_brand_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_brand_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Sorrow",
@@ -159,7 +177,8 @@
       "mod": "Eulogy",
       "moddesc": "Recalls bots which deal 30 damage when pulled from a target and when striking targets on their return. Recalled bolts grant 2% of Max HP. Recalled bolts can also overfill Sorrow by up to +5. Any additional bolts will be returned to reserves. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Eulogy",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/eulogy_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/eulogy_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Star Shot",
@@ -170,7 +189,8 @@
       "mod": "Big Bang",
       "moddesc": "Funnels all current Mod Charges into the next shot. Projectiles deal 65 direct damage and 65 Explosive damage in a 5m per Charge consumed. Explosion applies 75 BURNING damage over 10s per Charge consumed. Additional Charges consumed increase all damage by 5%. Max 5 Charges ",
       "modlink": "https://remnant2.wiki.fextralife.com/Big+Bang",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/big_bang_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/big_bang_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Meridian",
@@ -181,7 +201,8 @@
       "mod": "Deadpoint",
       "moddesc": "Fires a cluster bomb which detonates on impact across 2.5m. each cluster deals up to 150 damage per explosion within 3.5m",
       "modlink": "https://remnant2.wiki.fextralife.com/Deadpoint",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadpoint_weapon_mod_remnant2_wiki_guide65px.jpg"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadpoint_weapon_mod_remnant2_wiki_guide65px.jpg",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Rune Pistol",
@@ -192,7 +213,8 @@
       "mod": "Death Brand",
       "moddesc": "Applies Death Brand to all enemies within 25m. increasing incoming damage by 10%. Enemies killed while bearing the Death Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m. increasing Weakspot Damage dealt by 10% for 10s. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Death+Brand",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg",
+      "dlc": "Game Base"
     },
     {
       "nome": "Anguish",
@@ -203,7 +225,8 @@
       "mod": "Loath The Weak",
       "moddesc": "Rapidly fire volatile needles that explode after 1.5s dealing 30 explosive damage. Deals additional damage to low health targets.",
       "modlink": "https://remnant2.wiki.fextralife.com/Loath+The+Weak",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loath_the_weak_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loath_the_weak_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "The Awakened King"
     },
     {
       "nome": "Redeemer",
@@ -214,112 +237,128 @@
       "mod": "Aftermath",
       "moddesc": "On Relic Use, Redeemer stores the wielder's equipped Relic effect within the weapon as a launchable payload. Upon firing, the payload bursts across 4m when contacting a human ally, or lays dormant up to 15s until an ally gets close. Max 1 stored Relic which cannot be  modified.",
       "modlink": "https://remnant2.wiki.fextralife.com/Aftermath",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aftermath_weapon_mod_remnant2_wiki_guide200px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aftermath_weapon_mod_remnant2_wiki_guide200px.png",
+      "dlc": "The Dark Horizon"
     },
     {
       "nome": "AS-10 Bulldog",
       "tipo": "Long Gun",
       "descricao": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
       "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Blackmaw AR-47",
       "tipo": "Long Gun",
       "descricao": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
       "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Chicago Typewriter",
       "tipo": "Long Gun",
       "descricao": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
       "link": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Coach Gun",
       "tipo": "Long Gun",
       "descricao": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
       "link": "https://remnant2.wiki.fextralife.com/Coach+Gun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Crossbow",
       "tipo": "Long Gun",
       "descricao": "An accurate and deadly single-shot crossbow with a low sound profile.",
       "link": "https://remnant2.wiki.fextralife.com/Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Ford's Scattergun",
       "tipo": "Long Gun",
       "descricao": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
       "link": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Huntmaster M1",
       "tipo": "Long Gun",
       "descricao": "A high-powerfed long range bolt-action rifle with exceptional accuracy and a 2.5x magnification scope. Tap AIM to scope.",
       "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Pulse Rifle",
       "tipo": "Long Gun",
       "descricao": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
       "link": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Royal Hunting Bow",
       "tipo": "Long Gun",
       "descricao": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
       "link": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Rusty Lever Action",
       "tipo": "Long Gun",
       "descricao": "A well-worn lever-action rifle.",
       "link": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Widowmaker",
       "tipo": "Long Gun",
       "descricao": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
       "link": "https://remnant2.wiki.fextralife.com/Widowmaker",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Wrangler 1860",
       "tipo": "Long Gun",
       "descricao": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
       "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "XMG57 Bonesaw",
       "tipo": "Long Gun",
       "descricao": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
       "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Sparkfire Shotgun",
       "tipo": "Long Gun",
       "descricao": "Fires incendiary shells that apply BURNING which deals 30 FIRE damage over 3.0 seconds.",
       "link": "https://remnant2.wiki.fextralife.com/Sparkfire+Shotgun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png",
+      "dlc": "The Awakened King"
     },
     {
       "nome": "Trinity Crossbow",
       "tipo": "Long Gun",
       "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
       "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png"
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png",
+      "dlc": "The Forgotten Kingdom"
     },
     {
       "nome": "Aphelion",
@@ -330,7 +369,8 @@
       "mod": "Supernova",
       "moddesc": "Fires the compressed remains of a dying star. On contact or hit wit the primary fire, causes Supernova to explode for 150 FIRE Damage, and 350 BURNING Damage over 10s to all targets within 4m. Striking the Supernova with Aphelion's primary fire increases its explosion radius by 25% and damage by 50%, and spawns a massive shockwave that deals 300 FIRE damage and also applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
       "modlink": "https://remnant2.wiki.fextralife.com/Supernova",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supernova_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supernova_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Alpha-Omega",
@@ -341,7 +381,8 @@
       "mod": "Beta Ray",
       "moddesc": "Brands a target for 30s. Branded enemies that die leave a Brand at their location. Reloading or Swapping detonates Brands dealing 275 damage. Additional Brands (3 Max) on the same target deal 50% damage. Slain enemies return 5-15% of Ammo and Mod power to the weapon",
       "modlink": "https://remnant2.wiki.fextralife.com/Beta+Ray",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beta_ray_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beta_ray_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Crescent Moon",
@@ -352,7 +393,8 @@
       "mod": "Moonlight Barrage",
       "moddesc": "Empowers the Bow for 15s. Arrows apply Moonlight to enemies for 3s. Enemies struck by Crescent Moon while Moonlit release a Moon Essence which returns 1 arrow, heals 5% of Max Health, and grants 15% Fire and Reload Speed for 5s. Basic Shots automatically become Charged Shots. Perfect Shots fire two arrows.",
       "modlink": "https://remnant2.wiki.fextralife.com/Moonlight+Barrage",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/moonlight_barrage_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/moonlight_barrage_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Deceit",
@@ -363,7 +405,8 @@
       "mod": "Ouroboros",
       "moddesc": "Conjures 3 sword fragments that encircle the wielder for 30s. Performing a Melee Attacks lets loose a Fragment which taints the blood of targets, causing all attacks from Deceit to register as Weaspot hits for a short period of time. Charge Melee attack fires all remaining Fragments at once, but they taint blood for a shorter duration for each throw.",
       "modlink": "https://remnant2.wiki.fextralife.com/Ouroboros",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ouroboros_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ouroboros_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Merciless",
@@ -374,7 +417,8 @@
       "mod": "Bloodline",
       "moddesc": "Fires a devastating blast which penetrates through all enemies in its path. Deals 120 damage with a 25% Critical damage bonus, and 2x additional stagger. Bloodline damage increases by 50% for each enemy penetrated. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Bloodline",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodline_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodline_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Nightfall",
@@ -385,7 +429,8 @@
       "mod": "Dreadwalker",
       "moddesc": "Enter the Nightmare Realm. Nightfall gains infinite Ammo, a 25% Fire Rate increase, 10% Lifesteal, and becomes fully automatic. The wielder becomes significatly harder to hit while moving. Disables other weapons and Skills for the duration, or until Dreadwalker is deactivated. Lasts 10s. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Dreadwalker",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreadwalker_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreadwalker_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Plasma Cutter",
@@ -396,7 +441,8 @@
       "mod": "Heat Sink",
       "moddesc": "Forces open Plasma Cutter's heat vents dispersing all heat. While active, Plasma Cutter generates 50% less heat, and ramping damage cap is increased to 3x Damage. Overheats automatically when deactivated. Lasts 20s. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Heat+Sink",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heat_sink_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heat_sink_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Sagittarius",
@@ -407,7 +453,8 @@
       "mod": "Starfall",
       "moddesc": "Fires a powerful arrow which deals 30 damage and opens a 7m portal that rains down star fragments. Each fragment deals 50 damage within 4m. Lasts 6s. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Starfall",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starfall_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starfall_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Twisted Arbalest",
@@ -418,7 +465,8 @@
       "mod": "Guardian's Call",
       "moddesc": "Calls down a Guardian Sword on enemies struck by an Energy Disc. Swords deal 100 damage and 3x stagger within 5m. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Call",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_call_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_call_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Repulsor",
@@ -429,7 +477,8 @@
       "mod": "Banish",
       "moddesc": "Banishes enemies or allies into another dimension for 4s. When Banish ends, enemies take 1.25x the damage from the Repulsor's primary fire for 8s Powerful enemies won't be banished, but will take increased damage from any Repulsor while debuffed.",
       "modlink": "https://remnant2.wiki.fextralife.com/Banish",
-      "modimg": "?"
+      "modimg": "?",
+      "dlc": "Game Base"
     },
     {
       "nome": "Savior",
@@ -440,7 +489,8 @@
       "mod": "Shatterstar",
       "moddesc": "Imbues shots with White hot FIRE. Hits apply BURNING, dealing 100 FIRE damage over 10 seconds. Lasts 20s. Hitting an enemy cause shots to fragment, automatically targeting nearby enemies. Fragments strike for 50% of the initial damage dealt and apply BURNING.",
       "modlink": "https://remnant2.wiki.fextralife.com/Shatterstar",
-      "modimg": "?"
+      "modimg": "?",
+      "dlc": "Game Base"
     },
     {
       "nome": "Starkiller",
@@ -451,7 +501,8 @@
       "mod": "Gravity Core",
       "moddesc": "Fires a highly compressed sphere which draws in objects and deals 50 damage on impact. When colliding with a target, a large Gravity Well opens and draws in objects for 4s. When the Gravity Well expires, it deals 375 damage within 10m. Adds 250 damage per enemy and divides total damage among all enemies.",
       "modlink": "https://remnant2.wiki.fextralife.com/Gravity+Core",
-      "modimg": "?"
+      "modimg": "?",
+      "dlc": "Game Base"
     },
     {
       "nome": "Sporebloom",
@@ -462,7 +513,8 @@
       "mod": "Spore Shot",
       "moddesc": "Fires a rotten spore that releases a specialized gas cloud over 6m. Applies SLOW to enemies while dealing 15 damage per second for 7s. Grants HASTE to allies, which lasts 5s after leaving the cloud.",
       "modlink": "https://remnant2.wiki.fextralife.com/Spore+Shot",
-      "modimg": "?"
+      "modimg": "?",
+      "dlc": "Game Base"
     },
     {
       "nome": "Monarch",
@@ -473,7 +525,8 @@
       "mod": "Chain Of Command",
       "moddesc": "Harpoon Mode: Fire Harpoon to mark target causing primary fire to become Homing Rounds dealing 15% reduced damage. Enemies hit by Homing Rounds build Influence. Recasting exits Mode. When Influence fills, Monarch automatically reloads and creates a shockwave, and wielder becomes a Tyrant, gaining 20% Increased Damage and Infinite Reserves. Lasts 20s. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Chain+of+Command",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chain_of_command_weapon_mod_remnant2_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chain_of_command_weapon_mod_remnant2_wiki_guide_250px.png",
+      "dlc": "The Awakened King"
     },
     {
       "nome": "Monolith",
@@ -484,7 +537,8 @@
       "mod": "Sandstorm",
       "moddesc": "Launch a sphere of loam. Impact creates a 5m swirling storm of sand which seeks to center itself on an enemy and deals 225 Elemental damage per second. When Sandstorm‘s focused target dies, it will seek a new enemy within 10m. Lasts 15s.",
       "modlink": "https://remnant2.wiki.fextralife.com/Sandstorm",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sandstorm_weapon_mod_remnant2_the_forgotten_kingdom_200px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sandstorm_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+      "dlc": "The Forgotten Kingdom"
     },
     {
       "nome": "Polygun",
@@ -495,7 +549,8 @@
       "mod": "77 79 68",
       "moddesc": "84 79 71 71 76 69 32 67 79 77 66 65 84 32 70 73 82 73 78 71 32 77 79 68 69 83",
       "modlink": "#",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapon_mod_remnant2_the_forgotten_kingdom_75px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapon_mod_remnant2_the_forgotten_kingdom_75px.png",
+      "dlc": "The Forgotten Kingdom"
     },
     {
       "nome": "Thorn",
@@ -506,7 +561,8 @@
       "mod": "Deadwood",
       "moddesc": "Disables automatic BLOWBACK, while increasing Thorn's Reload Speed by 25%. and fire Rate by 15%. Reactivating the Mod will trigger an EMPOWERED BLOWBACK, which detonates all needles at oncefor 100% additional damage. Lasts 20s.",
       "modlink": "https://remnant2.wiki.fextralife.com/Deadwood",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadwood_weapon_mod_remnant2_the_forgotten_kingdom_200px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadwood_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+      "dlc": "The Forgotten Kingdom"
     },
     {
       "nome": "Genesis",
@@ -517,7 +573,8 @@
       "mod": "Mega Drive",
       "moddesc": "Activate while a valid target is in-sights, marking it with quantum Entanglement. All Genesis projectiles seek to the Entanglement target after initial impact, dealing 50% of Primary Fire damage.",
       "modlink": "https://remnant2.wiki.fextralife.com/Mega+Drive",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mega_drive_weapon_mod_remnant2_wiki_guide200px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mega_drive_weapon_mod_remnant2_wiki_guide200px.png",
+      "dlc": "The Dark Horizon"
     },
     {
       "nome": "Monorail",
@@ -528,7 +585,8 @@
       "mod": "Recoil Dampener",
       "moddesc": "Activation stabilizes Monorail, increasing Charge Speed by 25% and reducing Recoil and Sway by 75%. Lasts 20s. Additionally, for each 5% of the Charge Meter filled upon firing, gain 1% Critical Chance and Critical Damage. Max 20%.",
       "modlink": "https://remnant2.wiki.fextralife.com/Recoil+Dampener",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/recoil_dampener_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/recoil_dampener_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png",
+      "dlc": "The Dark Horizon"
     },
     {
       "nome": "Corrupted Aphelion",
@@ -539,7 +597,8 @@
       "mod": "Micronova",
       "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
       "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Deceit",
@@ -550,7 +609,8 @@
       "mod": "Windfall",
       "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
       "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Merciless",
@@ -561,7 +621,8 @@
       "mod": "Bloodshot",
       "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
       "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Arbalest",
@@ -572,7 +633,8 @@
       "mod": "Guardian's Fury",
       "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
       "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "Corrupted Savior",
@@ -583,18 +645,432 @@
       "mod": "Fusion Cannon",
       "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
       "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png"
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png",
+      "dlc": "Game Base"
     },
     {
       "nome": "",
-      "tipo": "Corrupted Long Gun",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
       "descricao": "",
       "link": "",
       "imagem": "",
       "mod": "",
       "moddesc": "",
       "modlink": "",
-      "modimg": ""
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
+    },
+    {
+      "nome": "",
+      "tipo": "Special Melee",
+      "descricao": "",
+      "link": "",
+      "imagem": "",
+      "mod": "",
+      "moddesc": "",
+      "modlink": "",
+      "modimg": "",
+      "dlc": "Game Base"
     }
   ],
   "mods": [],
