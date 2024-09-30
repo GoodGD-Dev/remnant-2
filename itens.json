@@ -1,1080 +1,991 @@
 {
   "armas": [
     {
-      "nome": "Bolt Driver",
-      "tipo": "Hand Gun",
-      "descricao": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
-      "link": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Double Barrel",
-      "tipo": "Hand Gun",
-      "descricao": "It's a bad leader what cant trust those beneath her to do what's right-who fears treachery behind every smile. Even if she's sometimes right, that ain't no way to live a life.",
-      "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "MP60-R",
-      "tipo": "Hand Gun",
-      "descricao": "A small-caliber submachine gun best suited for close range skirmishes.",
-      "link": "https://remnant2.wiki.fextralife.com/MP60-R",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Repeater Pistol",
-      "tipo": "Hand Gun",
-      "descricao": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
-      "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rupture Cannon",
-      "tipo": "Hand Gun",
-      "descricao": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Service Pistol",
-      "tipo": "Hand Gun",
-      "descricao": "Astandard issue military spec sidearm known for its reliability and accuracy.",
-      "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Silverback Model 500",
-      "tipo": "Hand Gun",
-      "descricao": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
-      "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Sureshot",
-      "tipo": "Hand Gun",
-      "descricao": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
-      "link": "https://remnant2.wiki.fextralife.com/Sureshot",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Tech 22",
-      "tipo": "Hand Gun",
-      "descricao": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
-      "link": "https://remnant2.wiki.fextralife.com/Tech+22",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Western Classic",
-      "tipo": "Hand Gun",
-      "descricao": "A classic six-shooter. Tough. Dependable.",
-      "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rusty Repeater",
-      "tipo": "Hand Gun",
-      "descricao": "An old antique pistol.",
-      "link": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Repair Tool",
-      "tipo": "Hand Gun",
-      "descricao": "Fires a stream of nanomachines, dealing damage to enemies or healing allies for 3.15% of their Max Health per second. The nano-tech Turrets and Drones.",
-      "link": "https://remnant2.wiki.fextralife.com/Repair+Tool",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "Cube Gun",
-      "tipo": "Special Hand Gun",
-      "descricao": "Projectiles return on hit or after reaching max range. Reloading retrieves shot projectiles. Max 5 fired projectiles. Infinite Ammo. Can overheat.",
-      "link": "https://remnant2.wiki.fextralife.com/Cube+Gun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_gun_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Cube Shield",
-      "moddesc": "Cube Shield Generates a Cube Shield which absorbs up to 500 damage from incoming enemy projectiles. Lasts 15s. Reactivating fires the Cube Shield which damages enemies as it travels. Damage is increased if the Cube Shield has absorbed enemy projectile damage before firing. Mod Power Requirement: 1,000",
-      "modlink": "https://remnant2.wiki.fextralife.com/Cube+Shield",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_shield_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Enigma",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires an electrical stream that jumps to nearby targets within 7.5m, dealing 30% reduced damage per jump. Applies OVERLOADED, dealing 30 SHOCK damage every 5 seconds for 5.2s.",
-      "link": "https://remnant2.wiki.fextralife.com/Enigma",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/enigma_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Chaos Driver",
-      "moddesc": "Drives electrified rods which tether to other rods within 10m. Tethers deal 20 SHOCK damage per second. Targets embedded with a rod take 20 SHOCK damage per second. They take 20% additionally damage per extra rod in the target. Damage is increased by 1.5% if linked to another rod. Rods in the same target will not link.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Chaos+Driver",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chaos_driver_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Hellfire",
-      "tipo": "Special Hand Gun",
-      "descricao": "Spews flames that apply BURNING which deals 250 FIRE damage over 10 seconds.",
-      "link": "https://remnant2.wiki.fextralife.com/Hellfire",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hellfire_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Explosive Shot",
-      "moddesc": "Fires an explosive round that deals up to 175 damage within 9m.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Explosive+Shot",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/explosive_shot_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Meridian",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires volatile grenades that explode on direct contact with enemies and deal AOE damage within 4m. Dormant grenades eventually explode and can also be shot to detonate early.",
-      "link": "https://remnant2.wiki.fextralife.com/Meridian",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/meridian_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Screamer",
-      "moddesc": "Fire a high-powered rocket that deals up to 200 damage within 2.5m.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Screamer",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/screamer_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Nebula",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires a stream of superhot ACID gas which applies the CORRODED effect, dealing 300 CORROSIVE Damage over 15s. Killing targets CORRODED by Nebula spawns a gas cloud which applies its on-hit effect. Gas clouds lasts 2s and can be refreshed.",
-      "link": "https://remnant2.wiki.fextralife.com/Nebula",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nebula_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Nano Swarm",
-      "moddesc": "Unleash a swarm of Nanomachines that seek after enemies within 20 meters and repeatedly attack dealing 6 ACID damage per hit and applying CORROSIVE, dealing 100 ACID damage over 10s. Lasts 15 seconds ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Nano+Swarm",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano_swarm_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rune Pistol",
-      "tipo": "Special Hand Gun",
-      "descricao": "A pistol infused with mysterious Fae magic. Rapidly fires 3-round bursts of energy. Trigger can be held to continuously fire.",
-      "link": "https://remnant2.wiki.fextralife.com/Rune+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rune_pistol_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Applies a Soul Brand to all enemies within 25m which lasts 25s. Enemies killed while bearing the Soul Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m, granting 10% of Max Health on contact. ",
-      "moddesc": "Soul Brand",
-      "modlink": "https://remnant2.wiki.fextralife.com/Soul+Brand",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_brand_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Sorrow",
-      "tipo": "Special Hand Gun",
-      "descricao": "The last vestiges of a fallen sister, this mystical crossbow pistol has the ability to recall its bolts to heal the wielder.",
-      "link": "https://remnant2.wiki.fextralife.com/Sorrow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sorrow_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Eulogy",
-      "moddesc": "Recalls bots which deal 30 damage when pulled from a target and when striking targets on their return. Recalled bolts grant 2% of Max HP. Recalled bolts can also overfill Sorrow by up to +5. Any additional bolts will be returned to reserves. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Eulogy",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/eulogy_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Star Shot",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires a fast moving projectile which explodes on contact. Explosion has no damage falloff.",
-      "link": "https://remnant2.wiki.fextralife.com/Star+Shot",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/star_shot_handgun_remnant2_wiki_guide_300px.png",
-      "mod": "Big Bang",
-      "moddesc": "Funnels all current Mod Charges into the next shot. Projectiles deal 65 direct damage and 65 Explosive damage in a 5m per Charge consumed. Explosion applies 75 BURNING damage over 10s per Charge consumed. Additional Charges consumed increase all damage by 5%. Max 5 Charges ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Big+Bang",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/big_bang_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Meridian",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires rocket that deals AOE damage within 2m. Charging the weapon can load additional rockets.  (Max 3). Cannot Weakspot",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Meridian",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_meridian_weapons_remnant2_wiki_guide250px.png",
-      "mod": "Deadpoint",
-      "moddesc": "Fires a cluster bomb which detonates on impact across 2.5m. each cluster deals up to 150 damage per explosion within 3.5m",
-      "modlink": "https://remnant2.wiki.fextralife.com/Deadpoint",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadpoint_weapon_mod_remnant2_wiki_guide65px.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Rune Pistol",
-      "tipo": "Special Hand Gun",
-      "descricao": "A pistol infused with erroneous properties. Fires energy, allowing the trigger to be held for continuous fire.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Rune+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_rune_pistol_weapons_remnant2_wiki_guide250px.png",
-      "mod": "Death Brand",
-      "moddesc": "Applies Death Brand to all enemies within 25m. increasing incoming damage by 10%. Enemies killed while bearing the Death Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m. increasing Weakspot Damage dealt by 10% for 10s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Death+Brand",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Anguish",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires heated bits of molten slag. Can be charged to fire a single explosive rod at the cost of causing damage to the wielder while charging.",
-      "link": "https://remnant2.wiki.fextralife.com/Anguish",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anguish_hand_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Loath The Weak",
-      "moddesc": "Rapidly fire volatile needles that explode after 1.5s dealing 30 explosive damage. Deals additional damage to low health targets.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Loath+The+Weak",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loath_the_weak_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Redeemer",
-      "tipo": "Special Hand Gun",
-      "descricao": "Fires a tight grouping of World Stone slugs. Hits rip away a small portion of the enemy, sending it to another realm. Incapable of standard Mod Generation.",
-      "link": "https://remnant2.wiki.fextralife.com/Redeemer",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/redeemer_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
-      "mod": "Aftermath",
-      "moddesc": "On Relic Use, Redeemer stores the wielder's equipped Relic effect within the weapon as a launchable payload. Upon firing, the payload bursts across 4m when contacting a human ally, or lays dormant up to 15s until an ally gets close. Max 1 stored Relic which cannot be  modified.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Aftermath",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aftermath_weapon_mod_remnant2_wiki_guide200px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "AS-10 Bulldog",
-      "tipo": "Long Gun",
-      "descricao": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
-      "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Blackmaw AR-47",
-      "tipo": "Long Gun",
-      "descricao": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
-      "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Chicago Typewriter",
-      "tipo": "Long Gun",
-      "descricao": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
-      "link": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Coach Gun",
-      "tipo": "Long Gun",
-      "descricao": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
-      "link": "https://remnant2.wiki.fextralife.com/Coach+Gun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Crossbow",
-      "tipo": "Long Gun",
-      "descricao": "An accurate and deadly single-shot crossbow with a low sound profile.",
-      "link": "https://remnant2.wiki.fextralife.com/Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Ford's Scattergun",
-      "tipo": "Long Gun",
-      "descricao": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Huntmaster M1",
-      "tipo": "Long Gun",
-      "descricao": "A high-powerfed long range bolt-action rifle with exceptional accuracy and a 2.5x magnification scope. Tap AIM to scope.",
-      "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Pulse Rifle",
-      "tipo": "Long Gun",
-      "descricao": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
-      "link": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Royal Hunting Bow",
-      "tipo": "Long Gun",
-      "descricao": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
-      "link": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rusty Lever Action",
-      "tipo": "Long Gun",
-      "descricao": "A well-worn lever-action rifle.",
-      "link": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Widowmaker",
-      "tipo": "Long Gun",
-      "descricao": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
-      "link": "https://remnant2.wiki.fextralife.com/Widowmaker",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Wrangler 1860",
-      "tipo": "Long Gun",
-      "descricao": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "XMG57 Bonesaw",
-      "tipo": "Long Gun",
-      "descricao": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
-      "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Sparkfire Shotgun",
-      "tipo": "Long Gun",
-      "descricao": "Fires incendiary shells that apply BURNING which deals 30 FIRE damage over 3.0 seconds.",
-      "link": "https://remnant2.wiki.fextralife.com/Sparkfire+Shotgun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Trinity Crossbow",
-      "tipo": "Long Gun",
-      "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
-      "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Aphelion",
-      "tipo": "Special Long Gun",
-      "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
-      "link": "https://remnant2.wiki.fextralife.com/Aphelion",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aphelion_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Supernova",
-      "moddesc": "Fires the compressed remains of a dying star. On contact or hit wit the primary fire, causes Supernova to explode for 150 FIRE Damage, and 350 BURNING Damage over 10s to all targets within 4m. Striking the Supernova with Aphelion's primary fire increases its explosion radius by 25% and damage by 50%, and spawns a massive shockwave that deals 300 FIRE damage and also applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Supernova",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supernova_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Alpha-Omega",
-      "tipo": "Special Long Gun",
-      "descricao": "After charging, fires an accurate high-damage rail which penetrates any target. Each successful hit reduces the charge time by 0.1s and increases damage by 10% for 1.5s. Stacks 5x.",
-      "link": "https://remnant2.wiki.fextralife.com/Alpha-Omega",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alpha_omega_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Beta Ray",
-      "moddesc": "Brands a target for 30s. Branded enemies that die leave a Brand at their location. Reloading or Swapping detonates Brands dealing 275 damage. Additional Brands (3 Max) on the same target deal 50% damage. Slain enemies return 5-15% of Ammo and Mod power to the weapon",
-      "modlink": "https://remnant2.wiki.fextralife.com/Beta+Ray",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beta_ray_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Crescent Moon",
-      "tipo": "Special Long Gun",
-      "descricao": "The moon gives Fae their strength..or so the stories say. In truth, the Fae give Fae their strength, and the moon is but one inspiration.",
-      "link": "https://remnant2.wiki.fextralife.com/Crescent+Moon",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crescent_moon_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Moonlight Barrage",
-      "moddesc": "Empowers the Bow for 15s. Arrows apply Moonlight to enemies for 3s. Enemies struck by Crescent Moon while Moonlit release a Moon Essence which returns 1 arrow, heals 5% of Max Health, and grants 15% Fire and Reload Speed for 5s. Basic Shots automatically become Charged Shots. Perfect Shots fire two arrows.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Moonlight+Barrage",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/moonlight_barrage_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Deceit",
-      "tipo": "Special Long Gun",
-      "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire",
-      "link": "https://remnant2.wiki.fextralife.com/Deceit",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deceit_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Ouroboros",
-      "moddesc": "Conjures 3 sword fragments that encircle the wielder for 30s. Performing a Melee Attacks lets loose a Fragment which taints the blood of targets, causing all attacks from Deceit to register as Weaspot hits for a short period of time. Charge Melee attack fires all remaining Fragments at once, but they taint blood for a shorter duration for each throw.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Ouroboros",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ouroboros_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Merciless",
-      "tipo": "Special Long Gun",
-      "descricao": "Fires tooth-like flechettes. When weapon reticle is fully compressed, flechettes apply 200 BLEEDING Damage over 10s.",
-      "link": "https://remnant2.wiki.fextralife.com/Merciless",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/merciless_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Bloodline",
-      "moddesc": "Fires a devastating blast which penetrates through all enemies in its path. Deals 120 damage with a 25% Critical damage bonus, and 2x additional stagger. Bloodline damage increases by 50% for each enemy penetrated. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Bloodline",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodline_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Nightfall",
-      "tipo": "Special Long Gun",
-      "descricao": "A device forged of pure evil. Fires hardened bone shards at bonus stagger. Semi-automatic with a medium kick.",
-      "link": "https://remnant2.wiki.fextralife.com/Nightfall",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightfall_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Dreadwalker",
-      "moddesc": "Enter the Nightmare Realm. Nightfall gains infinite Ammo, a 25% Fire Rate increase, 10% Lifesteal, and becomes fully automatic. The wielder becomes significatly harder to hit while moving. Disables other weapons and Skills for the duration, or until Dreadwalker is deactivated. Lasts 10s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Dreadwalker",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreadwalker_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Plasma Cutter",
-      "tipo": "Special Long Gun",
-      "descricao": "An energy-based cutting tool that increases damage when focused ona target. Can overheat.",
-      "link": "https://remnant2.wiki.fextralife.com/Plasma+Cutter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/plasma_cutter_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Heat Sink",
-      "moddesc": "Forces open Plasma Cutter's heat vents dispersing all heat. While active, Plasma Cutter generates 50% less heat, and ramping damage cap is increased to 3x Damage. Overheats automatically when deactivated. Lasts 20s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Heat+Sink",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heat_sink_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Sagittarius",
-      "tipo": "Special Long Gun",
-      "descricao": "A high-powered Bow which deals bonus damage to Weakspots. Can be charged for increased effect. Perfect release after Charge for maximum damage",
-      "link": "https://remnant2.wiki.fextralife.com/Sagittarius",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2//sagittarius_long_gun_remnant2_wiki_guide_175px.png",
-      "mod": "Starfall",
-      "moddesc": "Fires a powerful arrow which deals 30 damage and opens a 7m portal that rains down star fragments. Each fragment deals 50 damage within 4m. Lasts 6s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Starfall",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starfall_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Twisted Arbalest",
-      "tipo": "Special Long Gun",
-      "descricao": "A strange device which fires a bouncing Energy Disc that can hit up to 5 enemies in close proximity. Damage is reduced with each bounce.",
-      "link": "https://remnant2.wiki.fextralife.com/Twisted+Arbalest",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2//twisted_arbalest_long_gun_remnant2_wiki_guide_175px.png",
-      "mod": "Guardian's Call",
-      "moddesc": "Calls down a Guardian Sword on enemies struck by an Energy Disc. Swords deal 100 damage and 3x stagger within 5m. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Call",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_call_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Repulsor",
-      "tipo": "Special Long Gun",
-      "descricao": "Converted from experimental Dreamer tech, ideal for mid-range combat. Weapon becomes more accurate the longer AIM is held.",
-      "link": "https://remnant2.wiki.fextralife.com/Repulsor",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repulsor_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Banish",
-      "moddesc": "Banishes enemies or allies into another dimension for 4s. When Banish ends, enemies take 1.25x the damage from the Repulsor's primary fire for 8s Powerful enemies won't be banished, but will take increased damage from any Repulsor while debuffed.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Banish",
-      "modimg": "?",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Savior",
-      "tipo": "Special Long Gun",
-      "descricao": "A old Fusion Rifle refactored to store and violently release energy in each shot. Can be charged for more damage. Perfect release after Charge for maximum damage.",
-      "link": "https://remnant2.wiki.fextralife.com/Savior",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/savior_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Shatterstar",
-      "moddesc": "Imbues shots with White hot FIRE. Hits apply BURNING, dealing 100 FIRE damage over 10 seconds. Lasts 20s. Hitting an enemy cause shots to fragment, automatically targeting nearby enemies. Fragments strike for 50% of the initial damage dealt and apply BURNING.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Shatterstar",
-      "modimg": "?",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Starkiller",
-      "tipo": "Special Long Gun",
-      "descricao": "Alien rifle that shoots high velocity beams which penetrate enemies. Equipped with a 2.5x magnification scope. Double Tap AIM to Scope.",
-      "link": "https://remnant2.wiki.fextralife.com/Starkiller",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starkiller_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Gravity Core",
-      "moddesc": "Fires a highly compressed sphere which draws in objects and deals 50 damage on impact. When colliding with a target, a large Gravity Well opens and draws in objects for 4s. When the Gravity Well expires, it deals 375 damage within 10m. Adds 250 damage per enemy and divides total damage among all enemies.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Gravity+Core",
-      "modimg": "?",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Sporebloom",
-      "tipo": "Special Long Gun",
-      "descricao": "An exceptionally powerful single—shot weapon that deals bonus stagger damage. Must reload after each round fired.",
-      "link": "https://remnant2.wiki.fextralife.com/Sporebloom",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sporebloom_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Spore Shot",
-      "moddesc": "Fires a rotten spore that releases a specialized gas cloud over 6m. Applies SLOW to enemies while dealing 15 damage per second for 7s. Grants HASTE to allies, which lasts 5s after leaving the cloud.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Spore+Shot",
-      "modimg": "?",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Monarch",
-      "tipo": "Special Long Gun",
-      "descricao": "An once-beautiful weapon, rumored to corrupt its wielder with absolute power.",
-      "link": "https://remnant2.wiki.fextralife.com/Monarch",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monarch_long_gun_remnant2_wiki_guide_300px.png",
-      "mod": "Chain Of Command",
-      "moddesc": "Harpoon Mode: Fire Harpoon to mark target causing primary fire to become Homing Rounds dealing 15% reduced damage. Enemies hit by Homing Rounds build Influence. Recasting exits Mode. When Influence fills, Monarch automatically reloads and creates a shockwave, and wielder becomes a Tyrant, gaining 20% Increased Damage and Infinite Reserves. Lasts 20s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Chain+of+Command",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chain_of_command_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Monolith",
-      "tipo": "Special Long Gun",
-      "descricao": "Fires concentrated sand. Sustained primary fire and Sandstorm hits apply EXPOSED for 1s. Max 15s. EXPOSED: Target receives 15% additional damage from all sources.",
-      "link": "https://remnant2.wiki.fextralife.com/Monolith",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monolith_long_gun_weapon_remnant2_the_forgotten_kingdom_350px.png",
-      "mod": "Sandstorm",
-      "moddesc": "Launch a sphere of loam. Impact creates a 5m swirling storm of sand which seeks to center itself on an enemy and deals 225 Elemental damage per second. When Sandstorm‘s focused target dies, it will seek a new enemy within 10m. Lasts 15s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Sandstorm",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sandstorm_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Polygun",
-      "tipo": "Special Long Gun",
-      "descricao": "(description changes every time you open inventory)",
-      "link": "https://remnant2.wiki.fextralife.com/Polygun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapons_remnant2_wiki_guide300px.png",
-      "mod": "77 79 68",
-      "moddesc": "84 79 71 71 76 69 32 67 79 77 66 65 84 32 70 73 82 73 78 71 32 77 79 68 69 83",
-      "modlink": "#",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapon_mod_remnant2_the_forgotten_kingdom_75px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Thorn",
-      "tipo": "Special Long Gun",
-      "descricao": "Fires homing needles which deal 5 Explosive Damage after sticking for 2s. When 5 needles are stuck in a target at once, BLOWBACK triggers, dealing 50 Explosive Damage instead.",
-      "link": "https://remnant2.wiki.fextralife.com/Thorn",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/thorn_weapons_remnant2_wiki_guide300px.png",
-      "mod": "Deadwood",
-      "moddesc": "Disables automatic BLOWBACK, while increasing Thorn's Reload Speed by 25%. and fire Rate by 15%. Reactivating the Mod will trigger an EMPOWERED BLOWBACK, which detonates all needles at oncefor 100% additional damage. Lasts 20s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Deadwood",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadwood_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Genesis",
-      "tipo": "Special Long Gun",
-      "descricao": "N'Erudian tool with low energy reserves that generates energy bolts. Charging turbines generates additional projectiles. Max 5.",
-      "link": "https://remnant2.wiki.fextralife.com/Genesis",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/genesis_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
-      "mod": "Mega Drive",
-      "moddesc": "Activate while a valid target is in-sights, marking it with quantum Entanglement. All Genesis projectiles seek to the Entanglement target after initial impact, dealing 50% of Primary Fire damage.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Mega+Drive",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mega_drive_weapon_mod_remnant2_wiki_guide200px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "Monorail",
-      "tipo": "Special Long Gun",
-      "descricao": "A mysterious relic that fires super-dense penetrating rails. Can be charged to unleash violent levels of energy. Warning: Overcharging may have catastrophic results.",
-      "link": "https://remnant2.wiki.fextralife.com/Monorail",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monorail_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
-      "mod": "Recoil Dampener",
-      "moddesc": "Activation stabilizes Monorail, increasing Charge Speed by 25% and reducing Recoil and Sway by 75%. Lasts 20s. Additionally, for each 5% of the Charge Meter filled upon firing, gain 1% Critical Chance and Critical Damage. Max 20%.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Recoil+Dampener",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/recoil_dampener_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "Corrupted Aphelion",
-      "tipo": "Corrupted Long Gun",
-      "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Aphelion",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_aphelion_weapons_remnant2_fextralife_wiki_guide.250px.png",
-      "mod": "Micronova",
-      "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Deceit",
-      "tipo": "Corrupted Long Gun",
-      "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Deceit",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_deceite_weapons_remnant2_wiki_guide250px.png",
-      "mod": "Windfall",
-      "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Merciless",
-      "tipo": "Corrupted Long Gun",
-      "descricao": "Fires high-powered nails. Limited magazine size.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Merciless",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_merciless_weapons_remnant2_wiki_guide250px.png",
-      "mod": "Bloodshot",
-      "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Arbalest",
-      "tipo": "Corrupted Long Gun",
-      "descricao": "Fully automatic mechanisms launch a bouncing Energy Disc that can hit up to 2 enemies in close proximity. Damage is reduced after bouncing.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Arbalest",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-arbalest-weapons-remnant-2-wiki-guide.png",
-      "mod": "Guardian's Fury",
-      "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Corrupted Savior",
-      "tipo": "Corrupted Long Gun",
-      "descricao": "Black crystal weapon which increases Fire Rate as mod power is generated. Mod power slowly drains after 10s of not dealing damage.",
-      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Savior",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-savior-weapons-remnant-2-wiki-guide.png",
-      "mod": "Fusion Cannon",
-      "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Blade of Adventure",
-      "tipo": "Melee",
-      "descricao": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
-      "link": "https://remnant2.wiki.fextralife.com/Blade+of+Adventure",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_adventure_melee_weapon_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Blade of Gul",
-      "tipo": "Melee",
-      "descricao": "A short, but thick sword, used by Gul Warriors. It's compact design makes for swift yet hard-hitting blows. An excellent close-range option.",
-      "link": "https://remnant2.wiki.fextralife.com/Blade+of+Gul",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_gul_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Bone Chopper",
-      "tipo": "Melee",
-      "descricao": "A razor-sharp hand axe. Excellent for separating flesh from bone. Charge for double attacks.",
-      "link": "https://remnant2.wiki.fextralife.com/Bone+Chopper",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bone_chopper_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Decayed Claws",
-      "tipo": "Melee",
-      "descricao": "Makeshift claws fashioned from decayed root and rusted metal.",
-      "link": "https://remnant2.wiki.fextralife.com/Decayed+Claws",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/decayed_claws.jpg",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Edge of the Forest",
-      "tipo": "Melee",
-      "descricao": "An elegant, yet light blade, designed to bring beauty to bloodshed. Unstoppable in the hands of a master swordsman.",
-      "link": "https://remnant2.wiki.fextralife.com/Edge+of+the+Forest",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/edge_of_the_forest_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Iron Greatsword",
-      "tipo": "Melee",
-      "descricao": "A giant broadsword made from flattened railroad tracks. Dozens of ridges cut in the side for causing irreparable damage.",
-      "link": "https://remnant2.wiki.fextralife.com/Iron+Greatsword",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/iron_greatsword_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Knuckle Dusters",
-      "tipo": "Melee",
-      "descricao": "Steel knuckles with rusty sawblade tips, designed to boost Unarmed damage.",
-      "link": "https://remnant2.wiki.fextralife.com/Knuckle+Dusters",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/knuckle_dusters_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Labyrinth Staff",
-      "tipo": "Melee",
-      "descricao": "Basic Strikes generate 10% additional Mod Power. Charge Attacks perform an AOE which strikes all enemies within 2m, dealing 75 Damage. AOE Damage generates 50% additional Mod Power.",
-      "link": "https://remnant2.wiki.fextralife.com/Labyrinth+Staff",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/labyrinth_staff_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Ornate Blade",
-      "tipo": "Melee",
-      "descricao": "An intricately-forged elongated sword. Designed to keep stronger enemies at bay, while remaining light enough for agile maneuvers.",
-      "link": "https://remnant2.wiki.fextralife.com/Ornate+Blade",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_blade_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Ornate Flail",
-      "tipo": "Melee",
-      "descricao": "An intricately-forged mace with uniquely designed airways. Allows smaller wielders to get the mace up to speed much quicker.",
-      "link": "https://remnant2.wiki.fextralife.com/Ornate+Flail",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_flail_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rebellion Spear",
-      "tipo": "Melee",
-      "descricao": "A spear perfect for staying at a distance. Has excellent range, great recovery, and focused direct damage for one on one combat.",
-      "link": "https://remnant2.wiki.fextralife.com/Rebellion+Spear",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rebellion_spear_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Royal Broadsword",
-      "tipo": "Melee",
-      "descricao": "Standard issue Greatsword for the Empress's Royal Guards. Razor-sharp edges, extremely heavy, yet perfectly balanced.",
-      "link": "https://remnant2.wiki.fextralife.com/Royal+Broadsword",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_broadsword_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Rusted Claws",
-      "tipo": "Melee",
-      "descricao": "A pair of old-canine training bracers converted into deadly claws. Used for slashing and ripping.",
-      "link": "https://remnant2.wiki.fextralife.com/Rusted+Claws",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_claws_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Scrap Hammer",
-      "tipo": "Melee",
-      "descricao": "A large, heavy warhammer cobbled together from engine components. It is a slow- but-devastating weapon meant to destroy anything it hits.",
-      "link": "https://remnant2.wiki.fextralife.com/Scrap+Hammer",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hammer_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Scrap Hatchet",
-      "tipo": "Melee",
-      "descricao": "A common chopping tool that has been repurposed for combat. Rapidly cycles attacks from right to left. Charge attacks strike twice.",
-      "link": "https://remnant2.wiki.fextralife.com/Scrap+Hatchet",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hatchet_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Scrap Staff",
-      "tipo": "Melee",
-      "descricao": "A staff made from old plumbing parts used for controlling wide swaths in front of the wielder.",
-      "link": "https://remnant2.wiki.fextralife.com/Scrap+Staff",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_staff_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Steel Flail",
-      "tipo": "Melee",
-      "descricao": "An unorthodox weapon meant to convert momentum into destruction. Some attacks can continuously chain overhead swings.",
-      "link": "https://remnant2.wiki.fextralife.com/Steel+Flail",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_flail_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Steel Scythe",
-      "tipo": "Melee",
-      "descricao": "A ruthless threshing device.",
-      "link": "https://remnant2.wiki.fextralife.com/Steel+Scythe",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_scythe_melee_weapon_remnant2_wiki_guide_300px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Shovel",
-      "tipo": "Melee",
-      "descricao": "It's a shovel",
-      "link": "https://remnant2.wiki.fextralife.com/Shovel",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shovel_melee_weapon_remnant2_wiki_guide300px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Atom Smasher",
-      "tipo": "Special Melee",
-      "descricao": "A powerful crushing device that harnesses rocket technology to increase smashing force.",
-      "link": "https://remnant2.wiki.fextralife.com/Atom+Smasher",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atom_smasher_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Accelerator",
-      "moddesc": "Charge Melee Attacks increase the speed of all Melee Attacks by 10% for 5s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Accelerator",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/accelerator_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Assassin's Dagger",
-      "tipo": "Special Melee",
-      "descricao": "Lightweight. Silent. Deadly. It's rumored that the blade is meant to bestow a slow, agonizing death.",
-      "link": "https://remnant2.wiki.fextralife.com/Assassin's+Dagger",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/assassins_dagger_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Bloodthirst",
-      "moddesc": "Damage increases by +25% against BLEEDING enemies, and +25% when attacking from behind. Charge Attacks deal 100 BLEEDING damage over 10s ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Bloodthirst",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodthirst_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Atom Splitter",
-      "tipo": "Special Melee",
-      "descricao": "Molecules to atoms, atoms to protons, protons to quarks--down and down into the fundamental quanticles of the universe. The deeper one goes, the more one understands how much one does not understand.",
-      "link": "https://remnant2.wiki.fextralife.com/Atom+Splitter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atom_splitter_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Fission Strike",
-      "moddesc": "On Neutral Evade Attacks Atom Splitter achieves Nuclear Fission, releasing a wave of charged particles which deals 151.5 Damage to targets within 10m. Charged Neutral Evade Attacks increase range by 3x and Damage by 25% ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Fission+Strike",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fission_strike_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Dreamcatcher",
-      "tipo": "Special Melee",
-      "descricao": "There is an ethereal lightness to this weapon, as though it were made of paper or breath. Though it strikes its foes forcibly enough.",
-      "link": "https://remnant2.wiki.fextralife.com/Dreamcatcher",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreamcatcher_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Dreamwave",
-      "moddesc": "After dealing 250 damage, Charge Attack will release a Dreamwave, flowing outwards 20m and returning to caster. Dreamwave applies SLOW to all enemies for 10s and grants a Stack of REVERIE for each enemy affected. Each Stack grants +2% to All Damage and +2% Movement Speed, which lasts 15s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Dreamwave",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreamwave_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Feral Judgement",
-      "tipo": "Special Melee",
-      "descricao": "A pair of gauntlets with sharp crystal blades that strike with vicious speed and velocity.",
-      "link": "https://remnant2.wiki.fextralife.com/Feral+Judgement",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feral_judgement_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Death Sentence",
-      "moddesc": "Dealing Melee Damage 6 times over 10s empowers Feral Judgement. When empowered, Neutral Backdash Charge Attacks apply Death Sentence. After 1.5s of being sentenced, the enemy will suffer 10 Phantom Strikes, dealing X25 Damage each. Deals 25% additional damage to BLEEDING enemies. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Death+Sentence",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_sentence_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Godsplitter",
-      "tipo": "Special Melee",
-      "descricao": "An expertly balanced blade that is the product of advanced Fae metallurgy.",
-      "link": "https://remnant2.wiki.fextralife.com/Godsplitter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/godsplitter_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Fracture",
-      "moddesc": "Charge Attacks taint the blood of targets, causing all attacks from Godsplitter to register as Weakspot hits for 3s seconds. Duration increases with additional fragments. Max 35s. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Fracture",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fracture_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Hero's Sword",
-      "tipo": "Special Melee",
-      "descricao": "An ancient, quick, and versatile blade suited for many situations. Charge attacks cast a projectile for dealing melee damage at range.",
-      "link": "https://remnant2.wiki.fextralife.com/Hero's+Sword",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heroes_sword_melee_weapon_remnant2_wiki_guide_250px.png",
-      "mod": "Energy Wave",
-      "moddesc": "Charge attacks use 35 stamina to release an energy wave projectile allowing the wielder to strike enemies from much farther away. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Energy+Wave",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/energy_wave_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Huntress Spear",
-      "tipo": "Special Melee",
-      "descricao": "Melee charged attacks apply CORROSION, dealing 100 ACID damage over 5s.",
-      "link": "https://remnant2.wiki.fextralife.com/Huntress+Spear",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntress_spear_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Athibar (Javelin)",
-      "moddesc": "Charge attacks use 25 stamina to throw the spear, which returns to the wielder's hand. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Athibar",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/athibar_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Nightshade",
-      "tipo": "Special Melee",
-      "descricao": "Fast striking claws with a high Critical Hit Chance. Neutral Dodge grants the power  of Lifesteal.",
-      "link": "https://remnant2.wiki.fextralife.com/Nightshade",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightshade_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Beyond The Veil",
-      "moddesc": "Neutral Evade turns to mist, granting Nightshade 5% base damage as Lifesteal for 5s. Perfect Dodge doubles duration. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Beyond+The+Veil",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beyond_the_veil_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Red Doe Staff",
-      "tipo": "Special Melee",
-      "descricao": "A magical stave rumored to contain a healing spirit within. Strikes with wide swings.",
-      "link": "https://remnant2.wiki.fextralife.com/Red+Doe+Staff",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/red_doe_staff_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Lifeline",
-      "moddesc": "After dealing 250 damage, the next charge attack causes the spirit of the RED DOE to stampede forward, dealing 160 damage to enemies and regenerating 10% Health to allies in its path. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Lifeline",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lifeline_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Spectral Blade",
-      "tipo": "Special Melee",
-      "descricao": "A super-heated laser sword with an infinitely sharp edge. Perfect for cutting... anything.",
-      "link": "https://remnant2.wiki.fextralife.com/Spectral+Blade",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spectral_blade_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Whirlwind",
-      "moddesc": "Neutral Backdash Charge creates a Whirlwind of slashes which strike all enemies within 8m for 75 damage. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Whirlwind",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/whirlwind_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Stonebreaker",
-      "tipo": "Special Melee",
-      "descricao": "A massive Greatsword which contains the harnessed magic of a corrupted Guardian. Can summon small shockwaves.",
-      "link": "https://remnant2.wiki.fextralife.com/Stonebreaker",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stonebreaker_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Faultline",
-      "moddesc": "Charge to fire off ground-based shockwaves which deal 115 damage. Costs 35 Stamina ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Faultline",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faultline_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Gas Giant",
-      "tipo": "Special Melee",
-      "descricao": "Dealing damage unleashes the dormant Toxic Gas within the head. When infused, Basic Attacks apply CORRODED for 5s.",
-      "link": "https://remnant2.wiki.fextralife.com/Gas+Giant",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gas_giant_special_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Dying Breath",
-      "moddesc": "When infused, Neural Backdash Charge Attack explodes in a 3m. AOE and leaves an ACID Cloud which last for 15s.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Dying+Breath",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dying_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Smolder",
-      "tipo": "Special Melee",
-      "descricao": "A scorched blade imbued with FIRE.",
-      "link": "https://remnant2.wiki.fextralife.com/Smolder",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/smolder_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Blaze",
-      "moddesc": "Charge Melee Attacks apply BURNING which deals 200 FIRE damage over 5s",
-      "modlink": "https://remnant2.wiki.fextralife.com/Blaze",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blaze_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "World's Edge",
-      "tipo": "Special Melee",
-      "descricao": "A glowing Greatsword forged from shards of a shattered Worldstone. Charge attacks cast waves.",
-      "link": "https://remnant2.wiki.fextralife.com/World's+Edge",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/worlds_edge_remnant2_fextralife_wiki_guide_200px.png",
-      "mod": "Horizon Strike",
-      "moddesc": "Charge Attacks release a wide horizontal projectile that penetrates through multiple enemies dealing 116 damage.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Horizon+Strike",
-      "modimg": "#",
-      "dlc": "Game Base"
-    },
-    {
-      "nome": "Abyssal Hook",
-      "tipo": "Special Melee",
-      "descricao": "A hammer-like anchor that swings with an exceptionally irregular ferocity.",
-      "link": "https://remnant2.wiki.fextralife.com/Abyssal+Hook",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/abyssal_hook_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Fathomless Deep",
-      "moddesc": "Charged Melee Hits grant Fathomless Deep which increases Melee Staggern by 10% per stack for 5s. Max 3 attacks. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Fathomless+Deep",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fathomless_deep_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Ritualist Scythe",
-      "tipo": "Special Melee",
-      "descricao": "An evil-fueled reaping tool that deals additional damage to suffering targets",
-      "link": "https://remnant2.wiki.fextralife.com/Ritualist+Scythe",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ritualist_scythe_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Reaver",
-      "moddesc": "Increases Melee Damage by 10% if the target is suffering from a Negative Status Effect. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Reaver",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reaver_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Wrathbringer",
-      "tipo": "Special Melee",
-      "descricao": "A massive hammer infused with the souls of deceased Dran. Its dormant power can be awakened by taking damage.",
-      "link": "https://remnant2.wiki.fextralife.com/Wrathbringer",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrathbringer_melee_weapon_remnant2_wiki_guide_300px.png",
-      "mod": "Awakening",
-      "moddesc": "Incoming damage grants Awakening which increases Melee Damage by 5% per stack for 10s. Max 10 stacks. ",
-      "modlink": "https://remnant2.wiki.fextralife.com/Awakening",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/awakening_weapon_mod_remnant2_wiki_guide_250px.png",
-      "dlc": "The Awakened King"
-    },
-    {
-      "nome": "Crystal Staff",
-      "tipo": "Special Melee",
-      "descricao": "The staff hums with energy. A destructive power within yearns to be released.",
-      "link": "https://remnant2.wiki.fextralife.com/Crystal+Staff",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crystal_staff_weapons_remnant2_wiki_guide300px.png",
-      "mod": "Power Stone",
-      "moddesc": "Charged Melee empowers the staff for 10s, causing melee attacks to launch an energy bolt that seeks enemies within 30m, dealing 50 SHOCK Damage and grants 1 stack of POWER STONE. Max 10 stacks. While empowered, Charged Melee calls a 6m shockwave dealing 75 SHOCK damage and ends POWER STONE. For each POWER STONE stack built when ended, release 1 energy bolt that seeks a random enemy and applies OVERLOAD for 10s",
-      "modlink": "https://remnant2.wiki.fextralife.com/Power+Stone",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_stone_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Mirage",
-      "tipo": "Special Melee",
-      "descricao": "The mace whirs as if living harmonics hold its shape. When swung. a breath of sand tethers to the rock crown for extended reach and lethal momentum.",
-      "link": "https://remnant2.wiki.fextralife.com/Mirage",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mirage_melee_weapon_remnant2_the_forgotten_kingdom_350px.png",
-      "mod": "Cyclone",
-      "moddesc": "Maintaining an overhead Charged Melee forms a 5m cyclone, dealing 35 damage per second and pulls enemies forward the wielder. Each Cyclone hit applies EXPOSED for 3s. Max 15s. EXPOSED: Target receives 15% additional damage from all sources",
-      "modlink": "https://remnant2.wiki.fextralife.com/Cyclone",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cyclone_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
-      "dlc": "The Forgotten Kingdom"
-    },
-    {
-      "nome": "Black Greatsword",
-      "tipo": "Special Melee",
-      "descricao": "A massive weapon of pure destruction. Attacks can be enhanced by Charging at the cost of Stamina over time. Increases Encumbrance by 15.",
-      "link": "https://remnant2.wiki.fextralife.com/Black+Greatsword",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_greatsword_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
-      "mod": "Indomitable Strike",
-      "moddesc": "Charged Attacks become INDOMITABLE INDOMITABLE: Grants 15% Damage Reduction, converts all damage taken to Grey Health, and prevents wielder from being staggered. Charging increases maximum damage by up to 350%",
-      "modlink": "https://remnant2.wiki.fextralife.com/Indomitable+Strike",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/indomitable_strike_weapon_mod_remnant2_wiki_guide200px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "Dark Matter Gauntlets",
-      "tipo": "Special Melee",
-      "descricao": "The gauntlets harness the power of a neutron star and a black hole. When merged, cosmic forces are unleashed.",
-      "link": "https://remnant2.wiki.fextralife.com/Dark+Matter+Gauntlets",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dark_matter_gauntlets_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
-      "mod": "Kilonova",
-      "moddesc": "Charged Melee empowers the Gauntlets for 15s, increases Standard Melee Damage by 25% and causing Charged Melee Attacks to release 8m penetrating blasts. Each blast reduces the duration. While empowered, performing a Charged Melee Attack during a Neutral Backdash gathers power for up to 5s, then fires a DARKNESS BEAM that deals 125 Melee Damage every 0.5s. The beam duration equals its time charge, then ends Kilonova after firing",
-      "modlink": "https://remnant2.wiki.fextralife.com/Kilonova",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kilonova_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png",
-      "dlc": "The Dark Horizon"
-    },
-    {
-      "nome": "Harvester Scythe",
-      "tipo": "Special Melee",
-      "descricao": "Harvester automaton limb fitted with a plasma torch. The system breach of a Drzyr phantom initiated jettisoned protocols, trapping strange properties within the makeshift weapon.",
-      "link": "https://remnant2.wiki.fextralife.com/Harvester+Scythe",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scythe_harvester_weapons_remnant2_the_dark_horizon_wiki_guide_175px.png",
-      "mod": "Phantom Blade",
-      "moddesc": "Charged melee attacks release a Phantom that trails behind the host weapon, dealing 35% of the Harvester Scythe's damage. Each hit of the Phantom Blade increases Melee Attack Speed and Melee Charge Speed by 6% for 5s. Max 5 stacks.",
-      "modlink": "https://remnant2.wiki.fextralife.com/Phantom+Blade",
-      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/phantom_blade_weapon_mod_remnant2_wiki_guide200px.png",
-      "dlc": "The Dark Horizon"
+      "Hand Guns": [
+        {
+          "nome": "Bolt Driver",
+          "descricao": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
+          "link": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Double Barrel",
+          "descricao": "It's a bad leader what cant trust those beneath her to do what's right-who fears treachery behind every smile. Even if she's sometimes right, that ain't no way to live a life.",
+          "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "MP60-R",
+          "descricao": "A small-caliber submachine gun best suited for close range skirmishes.",
+          "link": "https://remnant2.wiki.fextralife.com/MP60-R",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Repeater Pistol",
+          "descricao": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
+          "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rupture Cannon",
+          "descricao": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
+          "link": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Service Pistol",
+          "descricao": "Astandard issue military spec sidearm known for its reliability and accuracy.",
+          "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Silverback Model 500",
+          "descricao": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
+          "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Sureshot",
+          "descricao": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
+          "link": "https://remnant2.wiki.fextralife.com/Sureshot",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Tech 22",
+          "descricao": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
+          "link": "https://remnant2.wiki.fextralife.com/Tech+22",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Western Classic",
+          "descricao": "A classic six-shooter. Tough. Dependable.",
+          "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rusty Repeater",
+          "descricao": "An old antique pistol.",
+          "link": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Repair Tool",
+          "descricao": "Fires a stream of nanomachines, dealing damage to enemies or healing allies for 3.15% of their Max Health per second. The nano-tech Turrets and Drones.",
+          "link": "https://remnant2.wiki.fextralife.com/Repair+Tool",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png",
+          "dlc": "The Dark Horizon"
+        }
+      ],
+      "Special Hand Guns": [
+        {
+          "nome": "Cube Gun",
+          "descricao": "Projectiles return on hit or after reaching max range. Reloading retrieves shot projectiles. Max 5 fired projectiles. Infinite Ammo. Can overheat.",
+          "link": "https://remnant2.wiki.fextralife.com/Cube+Gun",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_gun_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Cube Shield",
+          "moddesc": "Cube Shield Generates a Cube Shield which absorbs up to 500 damage from incoming enemy projectiles. Lasts 15s. Reactivating fires the Cube Shield which damages enemies as it travels. Damage is increased if the Cube Shield has absorbed enemy projectile damage before firing. Mod Power Requirement: 1,000",
+          "modlink": "https://remnant2.wiki.fextralife.com/Cube+Shield",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube_shield_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Enigma",
+          "descricao": "Fires an electrical stream that jumps to nearby targets within 7.5m, dealing 30% reduced damage per jump. Applies OVERLOADED, dealing 30 SHOCK damage every 5 seconds for 5.2s.",
+          "link": "https://remnant2.wiki.fextralife.com/Enigma",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/enigma_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Chaos Driver",
+          "moddesc": "Drives electrified rods which tether to other rods within 10m. Tethers deal 20 SHOCK damage per second. Targets embedded with a rod take 20 SHOCK damage per second. They take 20% additionally damage per extra rod in the target. Damage is increased by 1.5% if linked to another rod. Rods in the same target will not link.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Chaos+Driver",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chaos_driver_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Hellfire",
+          "descricao": "Spews flames that apply BURNING which deals 250 FIRE damage over 10 seconds.",
+          "link": "https://remnant2.wiki.fextralife.com/Hellfire",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hellfire_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Explosive Shot",
+          "moddesc": "Fires an explosive round that deals up to 175 damage within 9m.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Explosive+Shot",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/explosive_shot_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Meridian",
+          "descricao": "Fires volatile grenades that explode on direct contact with enemies and deal AOE damage within 4m. Dormant grenades eventually explode and can also be shot to detonate early.",
+          "link": "https://remnant2.wiki.fextralife.com/Meridian",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/meridian_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Screamer",
+          "moddesc": "Fire a high-powered rocket that deals up to 200 damage within 2.5m.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Screamer",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/screamer_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Nebula",
+          "descricao": "Fires a stream of superhot ACID gas which applies the CORRODED effect, dealing 300 CORROSIVE Damage over 15s. Killing targets CORRODED by Nebula spawns a gas cloud which applies its on-hit effect. Gas clouds lasts 2s and can be refreshed.",
+          "link": "https://remnant2.wiki.fextralife.com/Nebula",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nebula_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Nano Swarm",
+          "moddesc": "Unleash a swarm of Nanomachines that seek after enemies within 20 meters and repeatedly attack dealing 6 ACID damage per hit and applying CORROSIVE, dealing 100 ACID damage over 10s. Lasts 15 seconds ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Nano+Swarm",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano_swarm_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rune Pistol",
+          "descricao": "A pistol infused with mysterious Fae magic. Rapidly fires 3-round bursts of energy. Trigger can be held to continuously fire.",
+          "link": "https://remnant2.wiki.fextralife.com/Rune+Pistol",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rune_pistol_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Applies a Soul Brand to all enemies within 25m which lasts 25s. Enemies killed while bearing the Soul Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m, granting 10% of Max Health on contact. ",
+          "moddesc": "Soul Brand",
+          "modlink": "https://remnant2.wiki.fextralife.com/Soul+Brand",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_brand_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Sorrow",
+          "descricao": "The last vestiges of a fallen sister, this mystical crossbow pistol has the ability to recall its bolts to heal the wielder.",
+          "link": "https://remnant2.wiki.fextralife.com/Sorrow",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sorrow_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Eulogy",
+          "moddesc": "Recalls bots which deal 30 damage when pulled from a target and when striking targets on their return. Recalled bolts grant 2% of Max HP. Recalled bolts can also overfill Sorrow by up to +5. Any additional bolts will be returned to reserves. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Eulogy",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/eulogy_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Star Shot",
+          "descricao": "Fires a fast moving projectile which explodes on contact. Explosion has no damage falloff.",
+          "link": "https://remnant2.wiki.fextralife.com/Star+Shot",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/star_shot_handgun_remnant2_wiki_guide_300px.png",
+          "mod": "Big Bang",
+          "moddesc": "Funnels all current Mod Charges into the next shot. Projectiles deal 65 direct damage and 65 Explosive damage in a 5m per Charge consumed. Explosion applies 75 BURNING damage over 10s per Charge consumed. Additional Charges consumed increase all damage by 5%. Max 5 Charges ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Big+Bang",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/big_bang_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Meridian",
+          "descricao": "Fires rocket that deals AOE damage within 2m. Charging the weapon can load additional rockets.  (Max 3). Cannot Weakspot",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Meridian",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_meridian_weapons_remnant2_wiki_guide250px.png",
+          "mod": "Deadpoint",
+          "moddesc": "Fires a cluster bomb which detonates on impact across 2.5m. each cluster deals up to 150 damage per explosion within 3.5m",
+          "modlink": "https://remnant2.wiki.fextralife.com/Deadpoint",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadpoint_weapon_mod_remnant2_wiki_guide65px.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Rune Pistol",
+          "descricao": "A pistol infused with erroneous properties. Fires energy, allowing the trigger to be held for continuous fire.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Rune+Pistol",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_rune_pistol_weapons_remnant2_wiki_guide250px.png",
+          "mod": "Death Brand",
+          "moddesc": "Applies Death Brand to all enemies within 25m. increasing incoming damage by 10%. Enemies killed while bearing the Death Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m. increasing Weakspot Damage dealt by 10% for 10s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Death+Brand",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Anguish",
+          "descricao": "Fires heated bits of molten slag. Can be charged to fire a single explosive rod at the cost of causing damage to the wielder while charging.",
+          "link": "https://remnant2.wiki.fextralife.com/Anguish",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anguish_hand_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Loath The Weak",
+          "moddesc": "Rapidly fire volatile needles that explode after 1.5s dealing 30 explosive damage. Deals additional damage to low health targets.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Loath+The+Weak",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loath_the_weak_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Redeemer",
+          "descricao": "Fires a tight grouping of World Stone slugs. Hits rip away a small portion of the enemy, sending it to another realm. Incapable of standard Mod Generation.",
+          "link": "https://remnant2.wiki.fextralife.com/Redeemer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/redeemer_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+          "mod": "Aftermath",
+          "moddesc": "On Relic Use, Redeemer stores the wielder's equipped Relic effect within the weapon as a launchable payload. Upon firing, the payload bursts across 4m when contacting a human ally, or lays dormant up to 15s until an ally gets close. Max 1 stored Relic which cannot be  modified.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Aftermath",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aftermath_weapon_mod_remnant2_wiki_guide200px.png",
+          "dlc": "The Dark Horizon"
+        }
+      ],
+      "Long Guns": [
+        {
+          "nome": "AS-10 Bulldog",
+          "descricao": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
+          "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Blackmaw AR-47",
+          "descricao": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
+          "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Chicago Typewriter",
+          "descricao": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
+          "link": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Coach Gun",
+          "descricao": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
+          "link": "https://remnant2.wiki.fextralife.com/Coach+Gun",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Crossbow",
+          "descricao": "An accurate and deadly single-shot crossbow with a low sound profile.",
+          "link": "https://remnant2.wiki.fextralife.com/Crossbow",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Ford's Scattergun",
+          "descricao": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
+          "link": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Huntmaster M1",
+          "descricao": "A high-powerfed long range bolt-action rifle with exceptional accuracy and a 2.5x magnification scope. Tap AIM to scope.",
+          "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Pulse Rifle",
+          "descricao": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
+          "link": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Royal Hunting Bow",
+          "descricao": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
+          "link": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rusty Lever Action",
+          "descricao": "A well-worn lever-action rifle.",
+          "link": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Widowmaker",
+          "descricao": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
+          "link": "https://remnant2.wiki.fextralife.com/Widowmaker",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Wrangler 1860",
+          "descricao": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
+          "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "XMG57 Bonesaw",
+          "descricao": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
+          "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Sparkfire Shotgun",
+          "descricao": "Fires incendiary shells that apply BURNING which deals 30 FIRE damage over 3.0 seconds.",
+          "link": "https://remnant2.wiki.fextralife.com/Sparkfire+Shotgun",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Trinity Crossbow",
+          "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
+          "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png",
+          "dlc": "The Forgotten Kingdom"
+        }
+      ],
+      "Special Long Guns": [
+        {
+          "nome": "Aphelion",
+          "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
+          "link": "https://remnant2.wiki.fextralife.com/Aphelion",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aphelion_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Supernova",
+          "moddesc": "Fires the compressed remains of a dying star. On contact or hit wit the primary fire, causes Supernova to explode for 150 FIRE Damage, and 350 BURNING Damage over 10s to all targets within 4m. Striking the Supernova with Aphelion's primary fire increases its explosion radius by 25% and damage by 50%, and spawns a massive shockwave that deals 300 FIRE damage and also applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Supernova",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supernova_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Alpha-Omega",
+          "descricao": "After charging, fires an accurate high-damage rail which penetrates any target. Each successful hit reduces the charge time by 0.1s and increases damage by 10% for 1.5s. Stacks 5x.",
+          "link": "https://remnant2.wiki.fextralife.com/Alpha-Omega",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alpha_omega_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Beta Ray",
+          "moddesc": "Brands a target for 30s. Branded enemies that die leave a Brand at their location. Reloading or Swapping detonates Brands dealing 275 damage. Additional Brands (3 Max) on the same target deal 50% damage. Slain enemies return 5-15% of Ammo and Mod power to the weapon",
+          "modlink": "https://remnant2.wiki.fextralife.com/Beta+Ray",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beta_ray_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Crescent Moon",
+          "descricao": "The moon gives Fae their strength..or so the stories say. In truth, the Fae give Fae their strength, and the moon is but one inspiration.",
+          "link": "https://remnant2.wiki.fextralife.com/Crescent+Moon",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crescent_moon_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Moonlight Barrage",
+          "moddesc": "Empowers the Bow for 15s. Arrows apply Moonlight to enemies for 3s. Enemies struck by Crescent Moon while Moonlit release a Moon Essence which returns 1 arrow, heals 5% of Max Health, and grants 15% Fire and Reload Speed for 5s. Basic Shots automatically become Charged Shots. Perfect Shots fire two arrows.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Moonlight+Barrage",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/moonlight_barrage_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Deceit",
+          "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire",
+          "link": "https://remnant2.wiki.fextralife.com/Deceit",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deceit_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Ouroboros",
+          "moddesc": "Conjures 3 sword fragments that encircle the wielder for 30s. Performing a Melee Attacks lets loose a Fragment which taints the blood of targets, causing all attacks from Deceit to register as Weaspot hits for a short period of time. Charge Melee attack fires all remaining Fragments at once, but they taint blood for a shorter duration for each throw.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Ouroboros",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ouroboros_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Merciless",
+          "descricao": "Fires tooth-like flechettes. When weapon reticle is fully compressed, flechettes apply 200 BLEEDING Damage over 10s.",
+          "link": "https://remnant2.wiki.fextralife.com/Merciless",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/merciless_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Bloodline",
+          "moddesc": "Fires a devastating blast which penetrates through all enemies in its path. Deals 120 damage with a 25% Critical damage bonus, and 2x additional stagger. Bloodline damage increases by 50% for each enemy penetrated. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Bloodline",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodline_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Nightfall",
+          "descricao": "A device forged of pure evil. Fires hardened bone shards at bonus stagger. Semi-automatic with a medium kick.",
+          "link": "https://remnant2.wiki.fextralife.com/Nightfall",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightfall_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Dreadwalker",
+          "moddesc": "Enter the Nightmare Realm. Nightfall gains infinite Ammo, a 25% Fire Rate increase, 10% Lifesteal, and becomes fully automatic. The wielder becomes significatly harder to hit while moving. Disables other weapons and Skills for the duration, or until Dreadwalker is deactivated. Lasts 10s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Dreadwalker",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreadwalker_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Plasma Cutter",
+          "descricao": "An energy-based cutting tool that increases damage when focused ona target. Can overheat.",
+          "link": "https://remnant2.wiki.fextralife.com/Plasma+Cutter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/plasma_cutter_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Heat Sink",
+          "moddesc": "Forces open Plasma Cutter's heat vents dispersing all heat. While active, Plasma Cutter generates 50% less heat, and ramping damage cap is increased to 3x Damage. Overheats automatically when deactivated. Lasts 20s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Heat+Sink",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heat_sink_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Sagittarius",
+          "descricao": "A high-powered Bow which deals bonus damage to Weakspots. Can be charged for increased effect. Perfect release after Charge for maximum damage",
+          "link": "https://remnant2.wiki.fextralife.com/Sagittarius",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2//sagittarius_long_gun_remnant2_wiki_guide_175px.png",
+          "mod": "Starfall",
+          "moddesc": "Fires a powerful arrow which deals 30 damage and opens a 7m portal that rains down star fragments. Each fragment deals 50 damage within 4m. Lasts 6s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Starfall",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starfall_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Twisted Arbalest",
+          "descricao": "A strange device which fires a bouncing Energy Disc that can hit up to 5 enemies in close proximity. Damage is reduced with each bounce.",
+          "link": "https://remnant2.wiki.fextralife.com/Twisted+Arbalest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2//twisted_arbalest_long_gun_remnant2_wiki_guide_175px.png",
+          "mod": "Guardian's Call",
+          "moddesc": "Calls down a Guardian Sword on enemies struck by an Energy Disc. Swords deal 100 damage and 3x stagger within 5m. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Call",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_call_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Repulsor",
+          "descricao": "Converted from experimental Dreamer tech, ideal for mid-range combat. Weapon becomes more accurate the longer AIM is held.",
+          "link": "https://remnant2.wiki.fextralife.com/Repulsor",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repulsor_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Banish",
+          "moddesc": "Banishes enemies or allies into another dimension for 4s. When Banish ends, enemies take 1.25x the damage from the Repulsor's primary fire for 8s Powerful enemies won't be banished, but will take increased damage from any Repulsor while debuffed.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Banish",
+          "modimg": "?",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Savior",
+          "descricao": "A old Fusion Rifle refactored to store and violently release energy in each shot. Can be charged for more damage. Perfect release after Charge for maximum damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Savior",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/savior_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Shatterstar",
+          "moddesc": "Imbues shots with White hot FIRE. Hits apply BURNING, dealing 100 FIRE damage over 10 seconds. Lasts 20s. Hitting an enemy cause shots to fragment, automatically targeting nearby enemies. Fragments strike for 50% of the initial damage dealt and apply BURNING.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Shatterstar",
+          "modimg": "?",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Starkiller",
+          "descricao": "Alien rifle that shoots high velocity beams which penetrate enemies. Equipped with a 2.5x magnification scope. Double Tap AIM to Scope.",
+          "link": "https://remnant2.wiki.fextralife.com/Starkiller",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/starkiller_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Gravity Core",
+          "moddesc": "Fires a highly compressed sphere which draws in objects and deals 50 damage on impact. When colliding with a target, a large Gravity Well opens and draws in objects for 4s. When the Gravity Well expires, it deals 375 damage within 10m. Adds 250 damage per enemy and divides total damage among all enemies.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Gravity+Core",
+          "modimg": "?",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Sporebloom",
+          "descricao": "An exceptionally powerful single—shot weapon that deals bonus stagger damage. Must reload after each round fired.",
+          "link": "https://remnant2.wiki.fextralife.com/Sporebloom",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sporebloom_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Spore Shot",
+          "moddesc": "Fires a rotten spore that releases a specialized gas cloud over 6m. Applies SLOW to enemies while dealing 15 damage per second for 7s. Grants HASTE to allies, which lasts 5s after leaving the cloud.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Spore+Shot",
+          "modimg": "?",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Monarch",
+          "descricao": "An once-beautiful weapon, rumored to corrupt its wielder with absolute power.",
+          "link": "https://remnant2.wiki.fextralife.com/Monarch",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monarch_long_gun_remnant2_wiki_guide_300px.png",
+          "mod": "Chain Of Command",
+          "moddesc": "Harpoon Mode: Fire Harpoon to mark target causing primary fire to become Homing Rounds dealing 15% reduced damage. Enemies hit by Homing Rounds build Influence. Recasting exits Mode. When Influence fills, Monarch automatically reloads and creates a shockwave, and wielder becomes a Tyrant, gaining 20% Increased Damage and Infinite Reserves. Lasts 20s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Chain+of+Command",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chain_of_command_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Monolith",
+          "descricao": "Fires concentrated sand. Sustained primary fire and Sandstorm hits apply EXPOSED for 1s. Max 15s. EXPOSED: Target receives 15% additional damage from all sources.",
+          "link": "https://remnant2.wiki.fextralife.com/Monolith",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monolith_long_gun_weapon_remnant2_the_forgotten_kingdom_350px.png",
+          "mod": "Sandstorm",
+          "moddesc": "Launch a sphere of loam. Impact creates a 5m swirling storm of sand which seeks to center itself on an enemy and deals 225 Elemental damage per second. When Sandstorm‘s focused target dies, it will seek a new enemy within 10m. Lasts 15s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Sandstorm",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sandstorm_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+          "dlc": "The Forgotten Kingdom"
+        },
+        {
+          "nome": "Polygun",
+          "descricao": "(description changes every time you open inventory)",
+          "link": "https://remnant2.wiki.fextralife.com/Polygun",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapons_remnant2_wiki_guide300px.png",
+          "mod": "77 79 68",
+          "moddesc": "84 79 71 71 76 69 32 67 79 77 66 65 84 32 70 73 82 73 78 71 32 77 79 68 69 83",
+          "modlink": "#",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/polygun_weapon_mod_remnant2_the_forgotten_kingdom_75px.png",
+          "dlc": "The Forgotten Kingdom"
+        },
+        {
+          "nome": "Thorn",
+          "descricao": "Fires homing needles which deal 5 Explosive Damage after sticking for 2s. When 5 needles are stuck in a target at once, BLOWBACK triggers, dealing 50 Explosive Damage instead.",
+          "link": "https://remnant2.wiki.fextralife.com/Thorn",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/thorn_weapons_remnant2_wiki_guide300px.png",
+          "mod": "Deadwood",
+          "moddesc": "Disables automatic BLOWBACK, while increasing Thorn's Reload Speed by 25%. and fire Rate by 15%. Reactivating the Mod will trigger an EMPOWERED BLOWBACK, which detonates all needles at oncefor 100% additional damage. Lasts 20s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Deadwood",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadwood_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+          "dlc": "The Forgotten Kingdom"
+        },
+        {
+          "nome": "Genesis",
+          "descricao": "N'Erudian tool with low energy reserves that generates energy bolts. Charging turbines generates additional projectiles. Max 5.",
+          "link": "https://remnant2.wiki.fextralife.com/Genesis",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/genesis_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+          "mod": "Mega Drive",
+          "moddesc": "Activate while a valid target is in-sights, marking it with quantum Entanglement. All Genesis projectiles seek to the Entanglement target after initial impact, dealing 50% of Primary Fire damage.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Mega+Drive",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mega_drive_weapon_mod_remnant2_wiki_guide200px.png",
+          "dlc": "The Dark Horizon"
+        },
+        {
+          "nome": "Monorail",
+          "descricao": "A mysterious relic that fires super-dense penetrating rails. Can be charged to unleash violent levels of energy. Warning: Overcharging may have catastrophic results.",
+          "link": "https://remnant2.wiki.fextralife.com/Monorail",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/monorail_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+          "mod": "Recoil Dampener",
+          "moddesc": "Activation stabilizes Monorail, increasing Charge Speed by 25% and reducing Recoil and Sway by 75%. Lasts 20s. Additionally, for each 5% of the Charge Meter filled upon firing, gain 1% Critical Chance and Critical Damage. Max 20%.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Recoil+Dampener",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/recoil_dampener_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png",
+          "dlc": "The Dark Horizon"
+        }
+      ],
+      "Corrupted Long Guns": [
+        {
+          "nome": "Corrupted Aphelion",
+          "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Aphelion",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_aphelion_weapons_remnant2_fextralife_wiki_guide.250px.png",
+          "mod": "Micronova",
+          "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Deceit",
+          "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Deceit",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_deceite_weapons_remnant2_wiki_guide250px.png",
+          "mod": "Windfall",
+          "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Merciless",
+          "descricao": "Fires high-powered nails. Limited magazine size.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Merciless",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_merciless_weapons_remnant2_wiki_guide250px.png",
+          "mod": "Bloodshot",
+          "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Arbalest",
+          "descricao": "Fully automatic mechanisms launch a bouncing Energy Disc that can hit up to 2 enemies in close proximity. Damage is reduced after bouncing.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Arbalest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-arbalest-weapons-remnant-2-wiki-guide.png",
+          "mod": "Guardian's Fury",
+          "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Corrupted Savior",
+          "descricao": "Black crystal weapon which increases Fire Rate as mod power is generated. Mod power slowly drains after 10s of not dealing damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Savior",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-savior-weapons-remnant-2-wiki-guide.png",
+          "mod": "Fusion Cannon",
+          "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png",
+          "dlc": "Game Base"
+        }
+      ],
+      "Melee Weapons": [
+        {
+          "nome": "Blade of Adventure",
+          "descricao": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
+          "link": "https://remnant2.wiki.fextralife.com/Blade+of+Adventure",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_adventure_melee_weapon_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Blade of Gul",
+          "descricao": "A short, but thick sword, used by Gul Warriors. It's compact design makes for swift yet hard-hitting blows. An excellent close-range option.",
+          "link": "https://remnant2.wiki.fextralife.com/Blade+of+Gul",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_gul_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Bone Chopper",
+          "descricao": "A razor-sharp hand axe. Excellent for separating flesh from bone. Charge for double attacks.",
+          "link": "https://remnant2.wiki.fextralife.com/Bone+Chopper",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bone_chopper_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Decayed Claws",
+          "descricao": "Makeshift claws fashioned from decayed root and rusted metal.",
+          "link": "https://remnant2.wiki.fextralife.com/Decayed+Claws",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/decayed_claws.jpg",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Edge of the Forest",
+          "descricao": "An elegant, yet light blade, designed to bring beauty to bloodshed. Unstoppable in the hands of a master swordsman.",
+          "link": "https://remnant2.wiki.fextralife.com/Edge+of+the+Forest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/edge_of_the_forest_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Iron Greatsword",
+          "descricao": "A giant broadsword made from flattened railroad tracks. Dozens of ridges cut in the side for causing irreparable damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Iron+Greatsword",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/iron_greatsword_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Knuckle Dusters",
+          "descricao": "Steel knuckles with rusty sawblade tips, designed to boost Unarmed damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Knuckle+Dusters",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/knuckle_dusters_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Labyrinth Staff",
+          "descricao": "Basic Strikes generate 10% additional Mod Power. Charge Attacks perform an AOE which strikes all enemies within 2m, dealing 75 Damage. AOE Damage generates 50% additional Mod Power.",
+          "link": "https://remnant2.wiki.fextralife.com/Labyrinth+Staff",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/labyrinth_staff_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Ornate Blade",
+          "descricao": "An intricately-forged elongated sword. Designed to keep stronger enemies at bay, while remaining light enough for agile maneuvers.",
+          "link": "https://remnant2.wiki.fextralife.com/Ornate+Blade",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_blade_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Ornate Flail",
+          "descricao": "An intricately-forged mace with uniquely designed airways. Allows smaller wielders to get the mace up to speed much quicker.",
+          "link": "https://remnant2.wiki.fextralife.com/Ornate+Flail",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_flail_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rebellion Spear",
+          "descricao": "A spear perfect for staying at a distance. Has excellent range, great recovery, and focused direct damage for one on one combat.",
+          "link": "https://remnant2.wiki.fextralife.com/Rebellion+Spear",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rebellion_spear_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Royal Broadsword",
+          "descricao": "Standard issue Greatsword for the Empress's Royal Guards. Razor-sharp edges, extremely heavy, yet perfectly balanced.",
+          "link": "https://remnant2.wiki.fextralife.com/Royal+Broadsword",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_broadsword_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Rusted Claws",
+          "descricao": "A pair of old-canine training bracers converted into deadly claws. Used for slashing and ripping.",
+          "link": "https://remnant2.wiki.fextralife.com/Rusted+Claws",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_claws_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Scrap Hammer",
+          "descricao": "A large, heavy warhammer cobbled together from engine components. It is a slow- but-devastating weapon meant to destroy anything it hits.",
+          "link": "https://remnant2.wiki.fextralife.com/Scrap+Hammer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hammer_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Scrap Hatchet",
+          "descricao": "A common chopping tool that has been repurposed for combat. Rapidly cycles attacks from right to left. Charge attacks strike twice.",
+          "link": "https://remnant2.wiki.fextralife.com/Scrap+Hatchet",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hatchet_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Scrap Staff",
+          "descricao": "A staff made from old plumbing parts used for controlling wide swaths in front of the wielder.",
+          "link": "https://remnant2.wiki.fextralife.com/Scrap+Staff",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_staff_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Steel Flail",
+          "descricao": "An unorthodox weapon meant to convert momentum into destruction. Some attacks can continuously chain overhead swings.",
+          "link": "https://remnant2.wiki.fextralife.com/Steel+Flail",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_flail_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Steel Scythe",
+          "descricao": "A ruthless threshing device.",
+          "link": "https://remnant2.wiki.fextralife.com/Steel+Scythe",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_scythe_melee_weapon_remnant2_wiki_guide_300px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Shovel",
+          "descricao": "It's a shovel",
+          "link": "https://remnant2.wiki.fextralife.com/Shovel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shovel_melee_weapon_remnant2_wiki_guide300px.png",
+          "dlc": "The Forgotten Kingdom"
+        }
+      ],
+      "Special Melee Weapons": [
+        {
+          "nome": "Atom Smasher",
+          "descricao": "A powerful crushing device that harnesses rocket technology to increase smashing force.",
+          "link": "https://remnant2.wiki.fextralife.com/Atom+Smasher",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atom_smasher_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Accelerator",
+          "moddesc": "Charge Melee Attacks increase the speed of all Melee Attacks by 10% for 5s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Accelerator",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/accelerator_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Assassin's Dagger",
+          "descricao": "Lightweight. Silent. Deadly. It's rumored that the blade is meant to bestow a slow, agonizing death.",
+          "link": "https://remnant2.wiki.fextralife.com/Assassin's+Dagger",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/assassins_dagger_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Bloodthirst",
+          "moddesc": "Damage increases by +25% against BLEEDING enemies, and +25% when attacking from behind. Charge Attacks deal 100 BLEEDING damage over 10s ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Bloodthirst",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodthirst_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Atom Splitter",
+          "descricao": "Molecules to atoms, atoms to protons, protons to quarks--down and down into the fundamental quanticles of the universe. The deeper one goes, the more one understands how much one does not understand.",
+          "link": "https://remnant2.wiki.fextralife.com/Atom+Splitter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atom_splitter_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Fission Strike",
+          "moddesc": "On Neutral Evade Attacks Atom Splitter achieves Nuclear Fission, releasing a wave of charged particles which deals 151.5 Damage to targets within 10m. Charged Neutral Evade Attacks increase range by 3x and Damage by 25% ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Fission+Strike",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fission_strike_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Dreamcatcher",
+          "descricao": "There is an ethereal lightness to this weapon, as though it were made of paper or breath. Though it strikes its foes forcibly enough.",
+          "link": "https://remnant2.wiki.fextralife.com/Dreamcatcher",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreamcatcher_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Dreamwave",
+          "moddesc": "After dealing 250 damage, Charge Attack will release a Dreamwave, flowing outwards 20m and returning to caster. Dreamwave applies SLOW to all enemies for 10s and grants a Stack of REVERIE for each enemy affected. Each Stack grants +2% to All Damage and +2% Movement Speed, which lasts 15s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Dreamwave",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dreamwave_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Feral Judgement",
+          "descricao": "A pair of gauntlets with sharp crystal blades that strike with vicious speed and velocity.",
+          "link": "https://remnant2.wiki.fextralife.com/Feral+Judgement",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feral_judgement_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Death Sentence",
+          "moddesc": "Dealing Melee Damage 6 times over 10s empowers Feral Judgement. When empowered, Neutral Backdash Charge Attacks apply Death Sentence. After 1.5s of being sentenced, the enemy will suffer 10 Phantom Strikes, dealing X25 Damage each. Deals 25% additional damage to BLEEDING enemies. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Death+Sentence",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_sentence_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Godsplitter",
+          "descricao": "An expertly balanced blade that is the product of advanced Fae metallurgy.",
+          "link": "https://remnant2.wiki.fextralife.com/Godsplitter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/godsplitter_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Fracture",
+          "moddesc": "Charge Attacks taint the blood of targets, causing all attacks from Godsplitter to register as Weakspot hits for 3s seconds. Duration increases with additional fragments. Max 35s. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Fracture",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fracture_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Hero's Sword",
+          "descricao": "An ancient, quick, and versatile blade suited for many situations. Charge attacks cast a projectile for dealing melee damage at range.",
+          "link": "https://remnant2.wiki.fextralife.com/Hero's+Sword",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heroes_sword_melee_weapon_remnant2_wiki_guide_250px.png",
+          "mod": "Energy Wave",
+          "moddesc": "Charge attacks use 35 stamina to release an energy wave projectile allowing the wielder to strike enemies from much farther away. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Energy+Wave",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/energy_wave_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Huntress Spear",
+          "descricao": "Melee charged attacks apply CORROSION, dealing 100 ACID damage over 5s.",
+          "link": "https://remnant2.wiki.fextralife.com/Huntress+Spear",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntress_spear_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Athibar (Javelin)",
+          "moddesc": "Charge attacks use 25 stamina to throw the spear, which returns to the wielder's hand. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Athibar",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/athibar_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Nightshade",
+          "descricao": "Fast striking claws with a high Critical Hit Chance. Neutral Dodge grants the power  of Lifesteal.",
+          "link": "https://remnant2.wiki.fextralife.com/Nightshade",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightshade_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Beyond The Veil",
+          "moddesc": "Neutral Evade turns to mist, granting Nightshade 5% base damage as Lifesteal for 5s. Perfect Dodge doubles duration. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Beyond+The+Veil",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/beyond_the_veil_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Red Doe Staff",
+          "descricao": "A magical stave rumored to contain a healing spirit within. Strikes with wide swings.",
+          "link": "https://remnant2.wiki.fextralife.com/Red+Doe+Staff",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/red_doe_staff_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Lifeline",
+          "moddesc": "After dealing 250 damage, the next charge attack causes the spirit of the RED DOE to stampede forward, dealing 160 damage to enemies and regenerating 10% Health to allies in its path. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Lifeline",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lifeline_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Spectral Blade",
+          "descricao": "A super-heated laser sword with an infinitely sharp edge. Perfect for cutting... anything.",
+          "link": "https://remnant2.wiki.fextralife.com/Spectral+Blade",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spectral_blade_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Whirlwind",
+          "moddesc": "Neutral Backdash Charge creates a Whirlwind of slashes which strike all enemies within 8m for 75 damage. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Whirlwind",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/whirlwind_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Stonebreaker",
+          "descricao": "A massive Greatsword which contains the harnessed magic of a corrupted Guardian. Can summon small shockwaves.",
+          "link": "https://remnant2.wiki.fextralife.com/Stonebreaker",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stonebreaker_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Faultline",
+          "moddesc": "Charge to fire off ground-based shockwaves which deal 115 damage. Costs 35 Stamina ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Faultline",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faultline_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Gas Giant",
+          "descricao": "Dealing damage unleashes the dormant Toxic Gas within the head. When infused, Basic Attacks apply CORRODED for 5s.",
+          "link": "https://remnant2.wiki.fextralife.com/Gas+Giant",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gas_giant_special_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Dying Breath",
+          "moddesc": "When infused, Neural Backdash Charge Attack explodes in a 3m. AOE and leaves an ACID Cloud which last for 15s.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Dying+Breath",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dying_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Smolder",
+          "descricao": "A scorched blade imbued with FIRE.",
+          "link": "https://remnant2.wiki.fextralife.com/Smolder",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/smolder_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Blaze",
+          "moddesc": "Charge Melee Attacks apply BURNING which deals 200 FIRE damage over 5s",
+          "modlink": "https://remnant2.wiki.fextralife.com/Blaze",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blaze_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "World's Edge",
+          "descricao": "A glowing Greatsword forged from shards of a shattered Worldstone. Charge attacks cast waves.",
+          "link": "https://remnant2.wiki.fextralife.com/World's+Edge",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/worlds_edge_remnant2_fextralife_wiki_guide_200px.png",
+          "mod": "Horizon Strike",
+          "moddesc": "Charge Attacks release a wide horizontal projectile that penetrates through multiple enemies dealing 116 damage.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Horizon+Strike",
+          "modimg": "#",
+          "dlc": "Game Base"
+        },
+        {
+          "nome": "Abyssal Hook",
+          "descricao": "A hammer-like anchor that swings with an exceptionally irregular ferocity.",
+          "link": "https://remnant2.wiki.fextralife.com/Abyssal+Hook",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/abyssal_hook_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Fathomless Deep",
+          "moddesc": "Charged Melee Hits grant Fathomless Deep which increases Melee Staggern by 10% per stack for 5s. Max 3 attacks. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Fathomless+Deep",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fathomless_deep_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Ritualist Scythe",
+          "descricao": "An evil-fueled reaping tool that deals additional damage to suffering targets",
+          "link": "https://remnant2.wiki.fextralife.com/Ritualist+Scythe",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ritualist_scythe_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Reaver",
+          "moddesc": "Increases Melee Damage by 10% if the target is suffering from a Negative Status Effect. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Reaver",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reaver_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Wrathbringer",
+          "descricao": "A massive hammer infused with the souls of deceased Dran. Its dormant power can be awakened by taking damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Wrathbringer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrathbringer_melee_weapon_remnant2_wiki_guide_300px.png",
+          "mod": "Awakening",
+          "moddesc": "Incoming damage grants Awakening which increases Melee Damage by 5% per stack for 10s. Max 10 stacks. ",
+          "modlink": "https://remnant2.wiki.fextralife.com/Awakening",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/awakening_weapon_mod_remnant2_wiki_guide_250px.png",
+          "dlc": "The Awakened King"
+        },
+        {
+          "nome": "Crystal Staff",
+          "descricao": "The staff hums with energy. A destructive power within yearns to be released.",
+          "link": "https://remnant2.wiki.fextralife.com/Crystal+Staff",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crystal_staff_weapons_remnant2_wiki_guide300px.png",
+          "mod": "Power Stone",
+          "moddesc": "Charged Melee empowers the staff for 10s, causing melee attacks to launch an energy bolt that seeks enemies within 30m, dealing 50 SHOCK Damage and grants 1 stack of POWER STONE. Max 10 stacks. While empowered, Charged Melee calls a 6m shockwave dealing 75 SHOCK damage and ends POWER STONE. For each POWER STONE stack built when ended, release 1 energy bolt that seeks a random enemy and applies OVERLOAD for 10s",
+          "modlink": "https://remnant2.wiki.fextralife.com/Power+Stone",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_stone_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+          "dlc": "The Forgotten Kingdom"
+        },
+        {
+          "nome": "Mirage",
+          "descricao": "The mace whirs as if living harmonics hold its shape. When swung. a breath of sand tethers to the rock crown for extended reach and lethal momentum.",
+          "link": "https://remnant2.wiki.fextralife.com/Mirage",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mirage_melee_weapon_remnant2_the_forgotten_kingdom_350px.png",
+          "mod": "Cyclone",
+          "moddesc": "Maintaining an overhead Charged Melee forms a 5m cyclone, dealing 35 damage per second and pulls enemies forward the wielder. Each Cyclone hit applies EXPOSED for 3s. Max 15s. EXPOSED: Target receives 15% additional damage from all sources",
+          "modlink": "https://remnant2.wiki.fextralife.com/Cyclone",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cyclone_weapon_mod_remnant2_the_forgotten_kingdom_200px.png",
+          "dlc": "The Forgotten Kingdom"
+        },
+        {
+          "nome": "Black Greatsword",
+          "descricao": "A massive weapon of pure destruction. Attacks can be enhanced by Charging at the cost of Stamina over time. Increases Encumbrance by 15.",
+          "link": "https://remnant2.wiki.fextralife.com/Black+Greatsword",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_greatsword_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+          "mod": "Indomitable Strike",
+          "moddesc": "Charged Attacks become INDOMITABLE INDOMITABLE: Grants 15% Damage Reduction, converts all damage taken to Grey Health, and prevents wielder from being staggered. Charging increases maximum damage by up to 350%",
+          "modlink": "https://remnant2.wiki.fextralife.com/Indomitable+Strike",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/indomitable_strike_weapon_mod_remnant2_wiki_guide200px.png",
+          "dlc": "The Dark Horizon"
+        },
+        {
+          "nome": "Dark Matter Gauntlets",
+          "descricao": "The gauntlets harness the power of a neutron star and a black hole. When merged, cosmic forces are unleashed.",
+          "link": "https://remnant2.wiki.fextralife.com/Dark+Matter+Gauntlets",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dark_matter_gauntlets_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+          "mod": "Kilonova",
+          "moddesc": "Charged Melee empowers the Gauntlets for 15s, increases Standard Melee Damage by 25% and causing Charged Melee Attacks to release 8m penetrating blasts. Each blast reduces the duration. While empowered, performing a Charged Melee Attack during a Neutral Backdash gathers power for up to 5s, then fires a DARKNESS BEAM that deals 125 Melee Damage every 0.5s. The beam duration equals its time charge, then ends Kilonova after firing",
+          "modlink": "https://remnant2.wiki.fextralife.com/Kilonova",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kilonova_weapon_mod_remnant2_the_dark_horizon_wiki_guide_250px.png",
+          "dlc": "The Dark Horizon"
+        },
+        {
+          "nome": "Harvester Scythe",
+          "descricao": "Harvester automaton limb fitted with a plasma torch. The system breach of a Drzyr phantom initiated jettisoned protocols, trapping strange properties within the makeshift weapon.",
+          "link": "https://remnant2.wiki.fextralife.com/Harvester+Scythe",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scythe_harvester_weapons_remnant2_the_dark_horizon_wiki_guide_175px.png",
+          "mod": "Phantom Blade",
+          "moddesc": "Charged melee attacks release a Phantom that trails behind the host weapon, dealing 35% of the Harvester Scythe's damage. Each hit of the Phantom Blade increases Melee Attack Speed and Melee Charge Speed by 6% for 5s. Max 5 stacks.",
+          "modlink": "https://remnant2.wiki.fextralife.com/Phantom+Blade",
+          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/phantom_blade_weapon_mod_remnant2_wiki_guide200px.png",
+          "dlc": "The Dark Horizon"
+        }
+      ]
     }
   ],
   "mods": [
@@ -1526,7 +1437,6 @@
     },
     {
       "nome": "Dervish",
-      "tipo": "Melee",
       "descricao": "Increases Melee Damage by 20% for 10s when activating a Skill. Level 10: Base Damage Dealt reduce skill cooldowns by 5%.",
       "link": "https://remnant2.wiki.fextralife.com/Dervish",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dervish_mutator_remnant2_wiki_guide_200px.png",
@@ -1534,7 +1444,6 @@
     },
     {
       "nome": "Disengange",
-      "tipo": "Melee",
       "descricao": "Melee Strikes increase the damage of the next Backdash Evade Attack by 4%. Max 5 Stacks. Lasts 7.5s. Level 10: Perfect Neutral Evades grants 5 stacks",
       "link": "https://remnant2.wiki.fextralife.com/Disengange",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disengage_mutator_remnant2_wiki_guide_200px.png",
@@ -1542,7 +1451,6 @@
     },
     {
       "nome": "Edgelord",
-      "tipo": "Melee",
       "descricao": "Increases Melee Charge Speed by 15% and Melee Attack Speed by 10%. Level 10: Gain 3% of based Charged Melee Damage dealt as Lifesteal.",
       "link": "https://remnant2.wiki.fextralife.com/Edgelord",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/edgelord_icon_remnant_2_wiki_200.png",
@@ -1550,7 +1458,6 @@
     },
     {
       "nome": "Latency",
-      "tipo": "Melee",
       "descricao": "Melee Weapons with special abilities which become readied by dealing melee damage require 10% less damage to charge. Level 10: Increase the potency of readied Melee Special abilities by 25%.",
       "link": "https://remnant2.wiki.fextralife.com/Latency",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/latency_icon_remnant_2_wiki_200.png",
@@ -1558,7 +1465,6 @@
     },
     {
       "nome": "Misfortune",
-      "tipo": "Melee",
       "descricao": "Increase Melee damage by 6% for each unique Negative Status the target is suffering from. Level 10: Melee Attacks apply SLOW for 3s.",
       "link": "https://remnant2.wiki.fextralife.com/Misfortune",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/misfortune_mutator_remnant2_wiki_guide_200px.png",
@@ -1566,7 +1472,6 @@
     },
     {
       "nome": "Opportunist",
-      "tipo": "Melee",
       "descricao": "Perfect Dodge activates OPPORTUNITY which increases Melee Critical Chance of the next 2s by 50% for 3s. Level 10: While OPPORTUNITY is active, any dodge or combat slide refreshes the duration.",
       "link": "https://remnant2.wiki.fextralife.com/Opportunist",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/opportunist_icon_remnant_2_wiki_200.png",
@@ -1574,7 +1479,6 @@
     },
     {
       "nome": "Overdrive",
-      "tipo": "Melee",
       "descricao": "Melee Critical Hits increase Melee Critical Chance by 5% for 7.5s. stacking up to 5 times. Level 10: Melee Critical Strikes deal 20% additional damage.",
       "link": "https://remnant2.wiki.fextralife.com/Overdrive",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/overdrive_mutator_remnant2_wiki_guide_200px.png",
@@ -1582,7 +1486,6 @@
     },
     {
       "nome": "Reinvigorate",
-      "tipo": "Melee",
       "descricao": "Reduces the Stamina Cost of all Charged Melee Attacks by 25%. Level 10: Melee Charge Attacks gain 15% additional damage and 10% Critical Chance.",
       "link": "https://remnant2.wiki.fextralife.com/Reinvigorate",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reinvigorate_mutator_remnant2_wiki_guide_200px.png",
@@ -1590,7 +1493,6 @@
     },
     {
       "nome": "Resentment",
-      "tipo": "Melee",
       "descricao": "Gain 15% Melee Damage when Grey Health is present. Level 10: Reduces Stagger by 1 when using any Melee Attack",
       "link": "https://remnant2.wiki.fextralife.com/Resentment",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/resentment_mutator_remnant2_wiki_guide_200px.png",
@@ -1598,7 +1500,6 @@
     },
     {
       "nome": "Shielded Strike",
-      "tipo": "Melee",
       "descricao": "Melee Attacks grants a Shield for 3% of Max Health for 5s. Max 30% Shield. Level 10: Charged Melee Attacks deal 25% additional melee damage based on current Shield amount.",
       "link": "https://remnant2.wiki.fextralife.com/Shield+Strike",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shield_breaker_mutator_remnant2_wiki_guide_200px.png",
@@ -1606,7 +1507,6 @@
     },
     {
       "nome": "Shocker",
-      "tipo": "Melee",
       "descricao": "Empowers weapon after 3 hits. While empowered. the next Charged Melee hit strikes all enemies within 10m with SHOCK Damage. Level 10: The SHOCK Damage now applies OVERLOADED dealing 100 damage over 5.05s.",
       "link": "https://remnant2.wiki.fextralife.com/Shocker",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shocker_icon_remnant_2_wiki_200.png",
@@ -1614,7 +1514,6 @@
     },
     {
       "nome": "Steadfast",
-      "tipo": "Melee",
       "descricao": "Charged Melee Attacks cannot be interrupted and gain 5% damage reduction from all sources. Level 10: All damage taken during Charged Melee Attack is converted to Grey Health.",
       "link": "https://remnant2.wiki.fextralife.com/Steadfast",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steadfast_mutator_remnant2_wiki_guide_200px.png",
@@ -1622,7 +1521,6 @@
     },
     {
       "nome": "Stormbringer",
-      "tipo": "Melee",
       "descricao": "Increases the Status Effect Damage applied by Melee Attacks by 25%. Level 10: Charged Melee Attacks lower enemy's Resistance to All Status Damage by 10%. Lasts 10s.",
       "link": "https://remnant2.wiki.fextralife.com/Stormbringer",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stormbringer_icon_remnant_2_wiki_200.png",
@@ -1630,7 +1528,6 @@
     },
     {
       "nome": "Striker",
-      "tipo": "Melee",
       "descricao": "Melee Hits increase Melee Damage by 3% for 10s Max 5 Stacks. Level 10: Increases Movement Speed by 3% per stack.",
       "link": "https://remnant2.wiki.fextralife.com/Striker",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/striker_mutator_remnant2_wiki_guide_200px.png",
@@ -1638,7 +1535,6 @@
     },
     {
       "nome": "Transference",
-      "tipo": "Melee",
       "descricao": "Melee Hits generate 5% Ammo Reserves for both Firearms. Cooldown 10s. Level 10: When a Firearm reserve is full, melee Strikes increase Reload Speed by 50% after Ammo transfer",
       "link": "https://remnant2.wiki.fextralife.com/Transference",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/transference_mutator_remnant2_wiki_guide_200px.png",
@@ -1646,7 +1542,6 @@
     },
     {
       "nome": "Vampire Blade",
-      "tipo": "Melee",
       "descricao": "Increases Melee Damage by 10% while within 10m of a BLEEDING entity. Level 10: Melee Hits vs BLEEDING targets will Lifesteal 3% of base damage dealt.",
       "link": "https://remnant2.wiki.fextralife.com/Vampire+Blade",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vampire_blade_mutator_remnant2_wiki_guide_200px.png",
@@ -1654,7 +1549,6 @@
     },
     {
       "nome": "Vengeful Strike",
-      "tipo": "Melee",
       "descricao": "Increases Melee damage by 25% when below 50% Max Health. Level 10: Increases Melee Critical Chance by 15% when below 50% Max Health.",
       "link": "https://remnant2.wiki.fextralife.com/Vengeful+Strike",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vengeful_striker_mutator_remnant2_wiki_guide_200px.png",
@@ -1662,7 +1556,6 @@
     },
     {
       "nome": "Weaponlord",
-      "tipo": "Melee",
       "descricao": "Basic Melee Attacks increase the next Charge Attack by 7%. Max 3 Stacks. Level 10: At Max Stacks, the next Charge Attack gains 100% Critical Chance.",
       "link": "https://remnant2.wiki.fextralife.com/Weaponlord",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/weaponlord_mutator_remnant2_wiki_guide_200px.png",
@@ -1710,7 +1603,6 @@
     },
     {
       "nome": "Executor",
-      "tipo": "Melee",
       "descricao": "Charged Melee Attacks increase the duration of Negative Status Effects on enemies by 10% of the original duration. Cannot exceed original max duration. Level 10: Increases Melee Charge Speed and Melee Attack Speed by 5% per entity within 20m with a Negative Status Effect. Max 4 stacks.",
       "link": "https://remnant2.wiki.fextralife.com/Executor",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/executor_mutator_remnant2_wiki_guide_200px.png",
@@ -1718,7 +1610,6 @@
     },
     {
       "nome": "Guts",
-      "tipo": "Melee",
       "descricao": "increases Melee Critical Chance by 5% when Grey Health is present. Level 10: Increases Melee Critical Damage by 0.5% for every 1% of Grey Health.",
       "link": "https://remnant2.wiki.fextralife.com/Guts",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guts_mutator_remnant2_wiki_guide_200px.png",
@@ -1726,7 +1617,6 @@
     },
     {
       "nome": "Tainted Blade",
-      "tipo": "Melee",
       "descricao": "Increases Melee Damage by 5% per stack of CORRODED on the target. Level 10: Charged Melee Attacks apply CORRODED, dealing 250 ACID Damage over 10s.",
       "link": "https://remnant2.wiki.fextralife.com/Tainted+Blade",
       "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tainted_blade_mutator_remnant2_wiki_guide_200px.png",
