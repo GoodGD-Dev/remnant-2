@@ -2644,6 +2644,870 @@
     {
       "Game Base": [
         {
+          "nome": "Acid Stone",
+          "descricao": "Increases ACID damage by 15% and ACID Resistance by 20.",
+          "link": "https://remnant2.wiki.fextralife.com/Acid+Stone",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/acid_stone_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Ahanae Crystal",
+          "descricao": "Deal 5% additional damage for each Status Effect the target is suffering from",
+          "link": "https://remnant2.wiki.fextralife.com/Ahanae+Crystal",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anahae_crystal_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Akari War Band",
+          "descricao": "Perfect Dodges increase Critical Chance by 10% and Critical Damage by 10% for 15s.",
+          "link": "https://remnant2.wiki.fextralife.com/Akari+War+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/akari_war_band_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Alchemy Stone",
+          "descricao": "Increases base Lifesteal by 6% while suffering from a negative STATUS or BLIGHT Effect.",
+          "link": "https://remnant2.wiki.fextralife.com/Alchemy+Stone",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alchemy_stone_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Alumni Ring",
+          "descricao": "Increases all Elemental damage dealt by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Alumni+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alumini_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Amber Moonstone",
+          "descricao": "When the wearer's Health drops below 35%, all incoming damage is reduced by 25% and the wearer becomes immune to Temporary Status Effects.",
+          "link": "https://remnant2.wiki.fextralife.com/Amber+Moonstone",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/amber_moonstone_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Anastasija's Inspiration",
+          "descricao": "When receiving healing effects, gain HASTE for 10s.",
+          "link": "https://remnant2.wiki.fextralife.com/Anastasija's+Inspiration",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anastajias_inspiration_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Archer's Crest",
+          "descricao": "Increases Projectile Speed by 20% and Decreases Weapon Charge Time by 25%.",
+          "link": "https://remnant2.wiki.fextralife.com/Archer's+Crest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/archers_crest_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Assassin's Seal",
+          "descricao": "Reduces enemy Awareness Range by 25%. Increases all damage dealt to enemies not targeting wearer by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Assassin's+Seal",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/assassins_seal_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Band Band",
+          "descricao": "Increases Speed of Revive and being Revived by 35%. Increases Downed Health and Downed Movement Speed by 100%.",
+          "link": "https://remnant2.wiki.fextralife.com/Band+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_band_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Band of Accord",
+          "descricao": "Ammo acquired on pickup is increased by 50% per ally also wearing this ring and is shared with other allies.",
+          "link": "https://remnant2.wiki.fextralife.com/Band+of+Accord",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_of_accord_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Berserker's Crest",
+          "descricao": "Increases Melee Charge Speed by 10% and reduces Melee Stamina Cost by 30%.",
+          "link": "https://remnant2.wiki.fextralife.com/Berserker's+Crest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/berserkers_crest_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Bisected Ring",
+          "descricao": "Gain Infinite Stamina. All damage received is increased by 15%.",
+          "link": "https://remnant2.wiki.fextralife.com/Bisected+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bisected_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Black Cat Band",
+          "descricao": "When taking fatal damage, instead of dying, the wearer's Health will drop to 1, and Movement Speed will increase by 25% for 10s. 2m cooldown.",
+          "link": "https://remnant2.wiki.fextralife.com/Black+Cat+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_cat_band_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Black Pawn Stamp",
+          "descricao": "Reduces Cooldowns of Skills by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Black+Pawn+Stamp",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_pawn_stamp_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Blackout Ring",
+          "descricao": "Increases Reload Speed by 3%. for every 20% of Magazine missing.",
+          "link": "https://remnant2.wiki.fextralife.com/Blackout+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackout_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Blasting Cap Ring",
+          "descricao": "Increases Explosive damage by 15%.",
+          "link": "https://remnant2.wiki.fextralife.com/Blasting+Cap+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blasting_cap_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Blessed Ring",
+          "descricao": "After receiving a benefit from a Relic, gain 2 Stacks of BULWARK for 30s.",
+          "link": "https://remnant2.wiki.fextralife.com/Blessed+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blessed_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Blood Jewel",
+          "descricao": "Charged Melee Attacks apply BLEEDING, dealing 460 BLEED damage over 20s.",
+          "link": "https://remnant2.wiki.fextralife.com/Blood+Jewel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_jewel_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Blood Tinged Ring",
+          "descricao": "Gain 2 Health Regeneration per second when within 25m of a BLEEDING entity.",
+          "link": "https://remnant2.wiki.fextralife.com/Blood+Tinged+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_tinged_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Booster Ring",
+          "descricao": "Increases all Status Resistances by 25.",
+          "link": "https://remnant2.wiki.fextralife.com/Booster+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/booster_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Braided Thorns",
+          "descricao": "Increases Critical Chance by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Braided+Thorns",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/braided_thorns_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Audacious",
+          "descricao": "Decreases all healing by 50%. Perfect Dodges heal for 25% of Max Health.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Audacious",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_audacious_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Destroyer",
+          "descricao": "Decreases Ideal Range of all Firearms by 35%. Increases all damage dealt by 15%.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Destroyer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_destroyer_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Divine",
+          "descricao": "All damage dealt by wearer is reduced by 15%. 30% of self healing applies to allies.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Divine",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_divine_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Follower",
+          "descricao": "Reduces Fire Rate by 15%. Increases Mod Power Generation by 30%.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Follower",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_follower_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Gambler",
+          "descricao": "Disables Weakspots. Increases Critical Chance by 10% and Critical Damage by 15%.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Gambler",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_gambler_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Mariner",
+          "descricao": "Increases Skill Cooldowns by 15%. Generate 15% additional Mod Power for each Skill on Cooldown.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mariner",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mariner_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Rebel",
+          "descricao": "Reduces Relic Use Speed by 25%. Reduces Skill Cooldowns by 15%.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Rebel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_rebel_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Stargazer",
+          "descricao": "Reduces Skill Cooldowns by 15%. Activating a Skill costs 15% Health.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Stargazer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_stargazer_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Burden of the Warlock",
+          "descricao": "Reduces Mod Power Requirement by 15%. Activating a Mod costs 15% Health as Grey Health. Activation cannot kill wearer.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Warlock",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_warlock_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Captain's Insignia",
+          "descricao": "Increases Revive Speed and Relic Consume Speed by 25% per downed or dead ally. Max 2 stacks.",
+          "link": "https://remnant2.wiki.fextralife.com/Captain's+Insignia",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/captains_insignia_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Cataloger's Jewel",
+          "descricao": "Automatically generates 10 Mod Power per second.",
+          "link": "https://remnant2.wiki.fextralife.com/Cataloger's+Jewel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/catalogers_jewel_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Celerity Stone",
+          "descricao": "Increases Consumable and Relic Use Speed by 25%.",
+          "link": "https://remnant2.wiki.fextralife.com/Celerity+Stone",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/celerity_stone_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Compulsion Loop",
+          "descricao": "After killing an enemy, gain 5% Fire Rate and Melee Attack Speed for 10s. Stacks 3x.",
+          "link": "https://remnant2.wiki.fextralife.com/Compulsion+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/compulsion_loop_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Conservation Seal",
+          "descricao": "For every 10% of Health missing  (Max 50%) gain 10% chance to not consume Relic and 5% increased Relic Efficacy on next use.",
+          "link": "https://remnant2.wiki.fextralife.com/Conservation+Seal",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conservation_seal_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Constant Variable Ring",
+          "descricao": "Increases Ranged damage up to 20% based on current Weapon's Overheat value.",
+          "link": "https://remnant2.wiki.fextralife.com/Constant+Variable+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/constant_variable_rings_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dead King's Memento",
+          "descricao": "Increases Health by 15.",
+          "link": "https://remnant2.wiki.fextralife.com/Dead+King's+Memento",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dead_kings_memento_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Deceiver's Band",
+          "descricao": "After performing a Slide, gain 15% Evade Speed and 10% Movement Speed for 12s.",
+          "link": "https://remnant2.wiki.fextralife.com/Deceiver's+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deceivers_band_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Deep Pocket Ring",
+          "descricao": "Increases Ammo Reserves by 35%.",
+          "link": "https://remnant2.wiki.fextralife.com/Deep+Pocket+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deep_pocket_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Defensive Action Loop",
+          "descricao": "While reloading, and for 3s after reload completes, incoming damage is reduced by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Defensive+Action+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/defensive_action_loop_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dense Silicon Ring",
+          "descricao": "Gain 200% of Health Regenerated as Mod Power.",
+          "link": "https://remnant2.wiki.fextralife.com/Dense+Silicon+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dense_silicon_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Devoured Loop",
+          "descricao": "Critical Hits have 1% chance to reset Skill Cooldowns. Can only occur once every 10s. Increases all incoming damage by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Devoured+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/devoured_loop_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Drakestone Pearl",
+          "descricao": "Enables Stamina Regeneration during Melee Attacks at 20% of the normal rate.",
+          "link": "https://remnant2.wiki.fextralife.com/Drakestone+Pearl",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drakestone_pearl_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dran Memento",
+          "descricao": "Increases Max Stamina by 20 and reduces Encumbrance by 5.",
+          "link": "https://remnant2.wiki.fextralife.com/Dran+Memento",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_memento_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dran Scavenger Ring",
+          "descricao": "Collecting Scrap, Iron, and Ammo pickups regenerates 50% of Max Health and increases all damage dealt by 8% for 30s.",
+          "link": "https://remnant2.wiki.fextralife.com/Dran+Scavenger+Sigil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_scavenger_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dread Font",
+          "descricao": "Increases Grey Health Regeneration rate by 2 per second.",
+          "link": "https://remnant2.wiki.fextralife.com/Dread+Font",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dread_font_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Drzyr Sniper Sigil",
+          "descricao": "Increases the minimum damage at Max Falloff Range from 20% to 40%.",
+          "link": "https://remnant2.wiki.fextralife.com/Drzyr+Sniper+Sigil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drzyr_sniper_sigil_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dull Steel Ring",
+          "descricao": "Enhances evade roll by 1 weight class.",
+          "link": "https://remnant2.wiki.fextralife.com/Bright+Steel+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bright_steel_ring_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Dying Ember",
+          "descricao": "Gain 6% of base Melee damage dealt as Lifesteal.",
+          "link": "https://remnant2.wiki.fextralife.com/Dying+Ember",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dying_ember_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Embrace of Sha'Hala",
+          "descricao": "Wearer gains 7.5% incoming damage reduction for each Negative Status Effect or Blight they are suffering from. Max 2 stacks. ",
+          "link": "https://remnant2.wiki.fextralife.com/Embrace+of+Sha'Hala",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/embrace_of_sha_hala_rings_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Encrypted Ring",
+          "descricao": "Using a Mod regenerates 20% of Max Health over 10s. Can stack up to 30s.",
+          "link": "https://remnant2.wiki.fextralife.com/Encrypted+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/encrypted_loop_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Endaira's Endless Loop",
+          "descricao": "After Sprinting for 1s, the wearer gains 2 Health Regeneration per second until they stop Sprinting.",
+          "link": "https://remnant2.wiki.fextralife.com/Endaira's+Endless+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/endairas_endless_loop_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Excess Coil",
+          "descricao": "Activating a Skill grants a Shield for 25% of Max Health. Cannot stack with itself. Lasts 10s.",
+          "link": "https://remnant2.wiki.fextralife.com/Excess+Coil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/excess_coil_rings_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "SALVAR AQUI",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        },
+        {
           "nome": "",
           "descricao": "",
           "link": "",
