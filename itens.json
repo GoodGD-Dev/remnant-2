@@ -3668,13 +3668,158 @@
       ],
       "The Forgotten Kingdom": [
         {
+          "nome": "Burden of the Mesmer",
+          "descricao": "Reduces Max Health by 20%. Increases All Damage by 1% for every 5% of the wearer's total Damage Reduction.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mesmer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mesmer_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Matriarch's Ring",
+          "descricao": "Perfect Dodge reduces Charge Melee Stamina Cost by 100% for 7s",
+          "link": "https://remnant2.wiki.fextralife.com/Matriarch's+Ring",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/matriarchsring_ring_remnant2_wiki_guide_icon200px.png"
+        },
+        {
+          "nome": "Ravager's Bargain",
+          "descricao": "Increases All Damage and Critical Chance by 5% while BLEEDING",
+          "link": "https://remnant2.wiki.fextralife.com/Ravager's+Bargain",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ravagers_bargain_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Token of Favor",
+          "descricao": "Increases All damage by 5%. Gain 10% Critical Chance against EXPOSED targets.",
+          "link": "https://remnant2.wiki.fextralife.com/Token+of+Favor",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/token_of_favor_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Tear of Lydusa",
+          "descricao": "Increases Healing and Lifesteal Efficacy by 20%. Reduces Healing Efficacy bonus by 1.5% for each 10% of missing Relic Capacity.",
+          "link": "https://remnant2.wiki.fextralife.com/Tear+of+Lydusa",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tear_of_lydusa_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Rally Band",
+          "descricao": "Melee Strikes convert Grey Health into Health. Each melee strike converts up to 10% of Max Health.",
+          "link": "https://remnant2.wiki.fextralife.com/Rally+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rally_band_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Thalos Eyelet",
+          "descricao": "Grants 1 stack of BULWARK and 2 Stamina Regen per second for each BULWARK stack. Increases BULWARK maximum stacks to 6.",
+          "link": "https://remnant2.wiki.fextralife.com/Thalos+Eyelet",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/thalos_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Mark of the Destroyer",
+          "descricao": "Perfect Dodge triggers a 3m AOE blast that deals 310 Explosive Damage",
+          "link": "https://remnant2.wiki.fextralife.com/Mark+of+the+Destroyer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mark_of_the_destroyer_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Feathery Binding",
+          "descricao": "Increases projectile speed by 15% and decreases Weapon Charge Time by 10%. Bonus is doubled when HASTE is active.",
+          "link": "https://remnant2.wiki.fextralife.com/Feathery+Binding",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feathery_binding_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Gul Signet",
+          "descricao": "Increases Damage Reduction by 10%. Each Weight Class above LIGHT reduces Damage Reduction bonus by 2.5% (up to 3x).",
+          "link": "https://remnant2.wiki.fextralife.com/Gul+Signet",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gulsignet_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Ring of Spirits",
+          "descricao": "Increases Mod Generation by 3% for each active consumable. Max 5 stacks.",
+          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Spirits",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_spirit_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Bloodless King's Vow",
+          "descricao": "Gain 4% of base Ranged Damage dealt as Lifesteal.",
+          "link": "https://remnant2.wiki.fextralife.com/Bloodless+King's+Vow",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodless_kings_vow_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Burden of the Mason",
+          "descricao": "Impairs Dodges by 1 Weight Class. Increases Melee damage by 35% of the wearer total Damage Reduction.",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mason",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mason_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Pan War Band",
+          "descricao": "Increases Movement Speed and Reload Speed by 3% and Fire Rate by 2% for each ally wearing this ring.",
+          "link": "https://remnant2.wiki.fextralife.com/Pan+War+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pan_war_band_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Black Spinel",
+          "descricao": "Applying a Negative Status Effect grants 2% Max Health per second for 3s. Applying or refreshing a Negative Status Effect while buff is active will increase the duration by 1.5s. Max 15s.",
+          "link": "https://remnant2.wiki.fextralife.com/Black+Spinel",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackspinel_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Dark Sea Armada Crest",
+          "descricao": "On Relic Use, increases All elemental Damage dealt by 15% for 15s.",
+          "link": "https://remnant2.wiki.fextralife.com/Dark+Sea+Armada+Crest",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/darksea_armada_crest_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Conjurer's Circle",
+          "descricao": "When wearer's Summon enters the battlefield, conjure a 5m Summoning Circle. Allies in the Summoning Circle have their Stagger Level reduced by 1 and generate 5 Grey Health per second. Lasts 10s. Can only happen once every 10s after expiring.",
+          "link": "https://remnant2.wiki.fextralife.com/Conjurer's+Circle",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conjurers_circle_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Closed Loop",
+          "descricao": "Gain 5% of Max Health as a SHIELD for 10s after a Charged Shot. Accumulation resets after 10s of inaction. Max 25% SHIELD.",
+          "link": "https://remnant2.wiki.fextralife.com/Closed+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/closed_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Floodlit Diamond",
+          "descricao": "Increases Weakspot Damage by 12% bonus is doubled against EXPOSED targets.",
+          "link": "https://remnant2.wiki.fextralife.com/Floodlit+Diamond",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/floodit_diamond_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Kolket Eyelet",
+          "descricao": "Grants 1 stack of Bulwark. Increases Health Regeneration by 0.3 per second for each stack of Bulwark.",
+          "link": "https://remnant2.wiki.fextralife.com/Kolket+Eyelet",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kolket_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Leaking Gemstone",
+          "descricao": "Allows 20% of Mod power Generation to continue during an active mod. ",
+          "link": "https://remnant2.wiki.fextralife.com/Leaking+Gemstone",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leaking_spirit_stone_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Sealed Resin Loop",
+          "descricao": "Melee attacks can be cancelled mid action by Dodging.",
+          "link": "https://remnant2.wiki.fextralife.com/Sealed+Resin+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sealed_resin_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Ring of Ordnance",
+          "descricao": "Allows Heavy Weapon Ammo to gradually regenerate while in both Heavy Carry or turret modes. Doubles the stowed Ammo Regeneration Rate of Heavy Weapons.",
+          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ordnance",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ordance_ring_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Soul Feast",
+          "descricao": "When human, companion or minion is downed or killed, reduce skill Cooldowns by 8%.",
+          "link": "https://remnant2.wiki.fextralife.com/Soul+Feast",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soulfeast_ring_remnant2_the_forgotten_kingdom_200px.png"
+        }
+      ],
+      "The Dark Horizon": [
+        {
           "nome": "",
           "descricao": "",
           "link": "",
           "imagem": ""
         }
-      ],
-      "The Dark Horizon": []
+      ]
     }
   ],
   "reliquias": [
