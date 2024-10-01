@@ -3814,17 +3814,204 @@
       ],
       "The Dark Horizon": [
         {
-          "nome": "",
-          "descricao": "",
-          "link": "",
-          "imagem": ""
+          "nome": "Wired Inhibitor",
+          "descricao": "Applying a Negative Status Effect on an enemy also applies SLOW for 1s. Applying or  refreshing additional Negative Statuses will increase the duration by 1s. Max 5s.",
+          "link": "https://remnant2.wiki.fextralife.com/Wired+Inhibitor",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wiredinhibitor_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Transient Cord",
+          "descricao": "On Relic Use, increases Critical Chance by 10% and Critical Damage by 10% for 15s. Reduce bonus by 1% once every 1.5s. ",
+          "link": "https://remnant2.wiki.fextralife.com/Transient+Cord",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/transient_cord_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Disaster Converter",
+          "descricao": "When wearer's Health drops below 25%, gain a SHIELD for 50% of total current Grey Health for 10s. Max 50% SHIELD. Does not stack with itself.",
+          "link": "https://remnant2.wiki.fextralife.com/Disaster+Converter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disaster_converter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Ring Of Phantom Pain",
+          "descricao": "Missing Health is converted to 10 Grey Health per second. Reduces Grey Health Regeneration by 90%",
+          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Phantom+Pain",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_phantom_pain_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Breach Accelerator",
+          "descricao": "Increases Movement Speed and Physical Damage by 5%. Bonus is doubled when HASTE is active",
+          "link": "https://remnant2.wiki.fextralife.com/Breach+Accelerator",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/breach_accelerator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Burden of the Excavator",
+          "descricao": "Explosions cannot Critical Hit. Increases Explosive Damage by 35%",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Excavator",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_excavator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Burden of the Protector",
+          "descricao": "Reduces incoming SHIELD Duration by 50%. Increases SHIELD Amount by 15%",
+          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Protector",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_protector_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Bypass Primer",
+          "descricao": "On Perfect Dodge, reload current Firearm",
+          "link": "https://remnant2.wiki.fextralife.com/Bypass+Primer",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bypass_primer_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Clear Halo",
+          "descricao": "After 10s of not being damaged, generate a SHIELD for 10% of Max Health over 2s.",
+          "link": "https://remnant2.wiki.fextralife.com/Clear+Halo",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/clear_halo_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Combat Shield Generator",
+          "descricao": "While in combat, Crouching or Combat Slide generates a stationary 3m x 1.5m Energy Shield with 300 Health which blocks enemy projectiles. Lasts 10s or until broken by damage. Can only happen once every 10s after expiring.",
+          "link": "https://remnant2.wiki.fextralife.com/Combat+Shield+Generator",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/combat_shield_generator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Custodian's Bastion",
+          "descricao": "Increases Armor by 1 per 2% of active SHIELD. Max 100 Bonus Armor.",
+          "link": "https://remnant2.wiki.fextralife.com/Custodian's+Bastion",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/custodians_bastion_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Demolition Coil",
+          "descricao": "Unarmed Charged Melee Attacks explode when hitting an Enemy, dealing 30% additional Explosive Damage over 1.5m",
+          "link": "https://remnant2.wiki.fextralife.com/Demolition+Coil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/demolition_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Detonating Cord",
+          "descricao": "On Relic Use, increases Explosive Damage by 10% for 15s and casts a 3m Explosive AOE which deals 100 Base Damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Detonating+Cord",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/detonator_ranged_mutators_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Empowering Loop",
+          "descricao": "Increases Ranged Damage by 15%. Slows Firearm Charge Time by 10% and reduces Fire Rate by 10%. ",
+          "link": "https://remnant2.wiki.fextralife.com/Empowering+Loop",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/empowering_loop_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Feeding Tube",
+          "descricao": "While in combat, auto-consume the compatible item in the first quick-slot every 30s: Increases Consumable and Relic Use Speed by 10%. Not compatible with Concoctions, Grenades and some Unique Consumables.",
+          "link": "https://remnant2.wiki.fextralife.com/Feeding+Tube",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feeding_tube_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Force Multiplier",
+          "descricao": "Overcharging Charge Weapons grants 1.05x Weapon Damage Per 0.5s while Charge is held beyond Perfect Release Window. Max 1.3x.",
+          "link": "https://remnant2.wiki.fextralife.com/Force+Multiplier",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/force_multiplier_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Impact Augment",
+          "descricao": "When a single source of Enemy Damage exceeds 15% of Max Health, increases All Damage dealt by 3% for 10s. Max 5 stacks.",
+          "link": "https://remnant2.wiki.fextralife.com/Impact+Augment",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/impact_augment_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Infinity Pocket",
+          "descricao": "Reloading an Empty Magazine refills 10% of the stowed weapon's Max Ammo. When stowed weapon is full, the refill amount applies to the primary weapon instead.",
+          "link": "https://remnant2.wiki.fextralife.com/Infinity+Pocket",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/infinity_pocket_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Mortal Coil",
+          "descricao": "Increases All Damage dealt by 1% for every 2% of the wearer's total Lifesteal. Max 20% All Damage.",
+          "link": "https://remnant2.wiki.fextralife.com/Mortal+Coil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mortal_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Nanofiber Strand",
+          "descricao": "Increases SHIELD Amount by 10%.",
+          "link": "https://remnant2.wiki.fextralife.com/Nanofiber+Strand",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nanofiber_strand_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Nightmare Sigil",
+          "descricao": "On Perfect Dodge, increases base Lifesteal by 5% for 10s.",
+          "link": "https://remnant2.wiki.fextralife.com/Nightmare+Sigil",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightmare_sigil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Ring of Ashes",
+          "descricao": "Stowed weapons generate 15 Mod Power per second.",
+          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ashes",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ashes_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Ring Of Bones",
+          "descricao": "On Relic Use, increases All Damage by 10% for 15s.",
+          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Bones",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_bones_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Security Half-Measure",
+          "descricao": "On Relic Use, sacrifices 15% of Max Health and grants a SHIELD for 10% of the wearer's Max Health to allies within 8m. Conversion cannot kill wearer. Lasts 15s.",
+          "link": "https://remnant2.wiki.fextralife.com/Security+Half-Measure",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/security_half_measure_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Shield Alternator",
+          "descricao": "Activating a Mod that costs 100 Mod Power or greater, generates a SHIELD for 20% of Max Health. Lasts 15s. Cannot stack with itself",
+          "link": "https://remnant2.wiki.fextralife.com/Shield+Alternator",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shield_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Siphon Filter",
+          "descricao": "Increases All Damage dealt by an amount equal to an active HASTE bonus. Grants HASTE when within 15m of an entity suffering from SLOW.",
+          "link": "https://remnant2.wiki.fextralife.com/Siphon+Filter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphon_filter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Spirit Alternator",
+          "descricao": "Incoming SHIELD grants 150% of the SHIELD generated as Mod Power",
+          "link": "https://remnant2.wiki.fextralife.com/Spirit+Alternator",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Stone of Revelation",
+          "descricao": "Increases Mod Generation and Mod Damage by 5%. Bonus is doubled against EXPOSED targets",
+          "link": "https://remnant2.wiki.fextralife.com/Stone+of+Revelation",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_revelation_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Strand of Sinew",
+          "descricao": "Slows Firearm Charge Time by 30% and increases Ranged Charge Damage by 20%.",
+          "link": "https://remnant2.wiki.fextralife.com/Strand+of+Sinew",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strand_of_sinew_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Symbol of Royalty",
+          "descricao": "On Perfect Dodge, grants 1 stack of BULWARK for 10s. Max 3 stacks",
+          "link": "https://remnant2.wiki.fextralife.com/Symbol+of+Royalty",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/symbol_of_royalty_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Tolerance Band",
+          "descricao": "Decreases Firearm Charge Time by 10% and increases Perfect Charge Window for applicable ranged weaponry",
+          "link": "https://remnant2.wiki.fextralife.com/Tolerance+Band",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tolerance_band_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
         }
       ]
     }
   ],
   "reliquias": [
     {
-      "Game Base": [],
+      "Game Base": [
+        {
+          "nome": "",
+          "descricao": "",
+          "link": "",
+          "imagem": ""
+        }
+      ],
       "The Awakened King": [],
       "The Forgotten Kingdom": [],
       "The Dark Horizon": []
