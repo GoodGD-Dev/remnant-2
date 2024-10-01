@@ -179,17 +179,22 @@
               "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loath_the_weak_weapon_mod_remnant2_wiki_guide_250px.png"
             }
           ],
-          "The Forgotten Kingdom": [
+          "The Forgotten Kingdom": [],
+          "The Dark Horizon": [
             {
-              "nome": "Trinity Crossbow",
-              "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
-              "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
-              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png"
+              "nome": "Redeemer",
+              "descricao": "Fires a tight grouping of World Stone slugs. Hits rip away a small portion of the enemy, sending it to another realm. Incapable of standard Mod Generation.",
+              "link": "https://remnant2.wiki.fextralife.com/Redeemer",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/redeemer_weapons_remnant2_the_dark_horizon_wiki_guide_300px.png",
+              "mod": "Aftermath",
+              "moddesc": "On Relic Use, Redeemer stores the wielder's equipped Relic effect within the weapon as a launchable payload. Upon firing, the payload bursts across 4m when contacting a human ally, or lays dormant up to 15s until an ally gets close. Max 1 stored Relic which cannot be modified.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Aftermath",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/aftermath_weapon_mod_remnant2_wiki_guide200px.png"
             }
-          ],
-          "The Dark Horizon": []
+          ]
         }
       ],
+      "Long Guns": [],
       "Special Long Guns": [
         {
           "Game Base": [
@@ -392,7 +397,7 @@
           ]
         }
       ],
-      "Corrupted Long Guns": [
+      "Corrupted Hand Guns": [
         {
           "Game Base": [
             {
@@ -414,61 +419,100 @@
               "moddesc": "Applies Death Brand to all enemies within 25m. increasing incoming damage by 10%. Enemies killed while bearing the Death Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m. increasing Weakspot Damage dealt by 10% for 10s. ",
               "modlink": "https://remnant2.wiki.fextralife.com/Death+Brand",
               "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg"
+            },
+            {
+              "nome": "Corrupted Cube Gun",
+              "descricao": "Fusion charged auto-cannon generates cubes which penetrate. Infinite ammo capacity. Can overheat. Cannot score Weakspot hits.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Cube+Gun",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-cube-gun-weapons-remnant-2-wiki-guide.png",
+              "mod": "Cube Room",
+              "moddesc": "Conjures a 5m anomalous Cube Room which grants allies an increase of 75% Heat Decay Rate, reduces Heat Generation per round when firing weapons that Overheat by 20%, and automatically generates missing reserve ammo per second. Lasts 15s.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Cube+Room",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube-room-weapon-mod-remnant-2-wiki-guide.png"
+            },
+            {
+              "nome": "Corrupted Nebula",
+              "descricao": "Semi-automatic laser weapon. Weakspot hits and kills create a Nano-bot for 8s that seeks enemies within 20m and repeatedly attacks dealing 6 - 12 ACID damage per hit. Max 5 Nano-bots.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Nebula",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-nebula-weapons-remnant-2-wiki-guide.png",
+              "mod": "Nano Phase",
+              "moddesc": "Detonate active Nano-bots, each dealing 100 - 200 ACID damage plus an additional 25 - 50 ACID damage per Nano-bot detonated to enemies within 2m and applies CORRODED, dealing 50 - 100 damage over 10s per Nano-bot detonated.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Nano+Phase",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano-phase-weapon-mod-remnant-2-wiki-guide.png"
+            },
+            {
+              "nome": "Corrupted Sorrow",
+              "descricao": "Innately cannot harm allies. Fires bolt that anchor to targets for 6s. Max 10 bolts anchored at once.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Sorrow",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-sorrow-weapons-remnant-2-wiki-guide.png",
+              "mod": "Will of the Wisp",
+              "moddesc": "Launches a Wisp that uniquely seeks to one anchored primary fire bolt location. Bolts anchored to enemies deal 100 - 300 damage per Wisp. Bolds anchored to allies heal 10% Max Health per Wisp. Bolts are consumed when impacted by a Wisp. ",
+              "modlink": "https://remnant2.wiki.fextralife.com/Will+of+the+Wisp",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/will-of-the-wisp-weapon-mod-remnant-2-wiki-guide.png"
             }
           ],
           "The Awakened King": [],
           "The Forgotten Kingdom": [],
           "The Dark Horizon": []
-        },
+        }
+      ],
+      "Corrupted Long Guns": [
         {
-          "nome": "Corrupted Aphelion",
-          "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
-          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Aphelion",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_aphelion_weapons_remnant2_fextralife_wiki_guide.250px.png",
-          "mod": "Micronova",
-          "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
-          "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
-          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg"
-        },
-        {
-          "nome": "Corrupted Deceit",
-          "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire.",
-          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Deceit",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_deceite_weapons_remnant2_wiki_guide250px.png",
-          "mod": "Windfall",
-          "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
-          "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
-          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg"
-        },
-        {
-          "nome": "Corrupted Merciless",
-          "descricao": "Fires high-powered nails. Limited magazine size.",
-          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Merciless",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_merciless_weapons_remnant2_wiki_guide250px.png",
-          "mod": "Bloodshot",
-          "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
-          "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
-          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg"
-        },
-        {
-          "nome": "Corrupted Arbalest",
-          "descricao": "Fully automatic mechanisms launch a bouncing Energy Disc that can hit up to 2 enemies in close proximity. Damage is reduced after bouncing.",
-          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Arbalest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-arbalest-weapons-remnant-2-wiki-guide.png",
-          "mod": "Guardian's Fury",
-          "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
-          "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
-          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png"
-        },
-        {
-          "nome": "Corrupted Savior",
-          "descricao": "Black crystal weapon which increases Fire Rate as mod power is generated. Mod power slowly drains after 10s of not dealing damage.",
-          "link": "https://remnant2.wiki.fextralife.com/Corrupted+Savior",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-savior-weapons-remnant-2-wiki-guide.png",
-          "mod": "Fusion Cannon",
-          "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
-          "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
-          "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png"
+          "Game Base": [
+            {
+              "nome": "Corrupted Aphelion",
+              "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Aphelion",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_aphelion_weapons_remnant2_fextralife_wiki_guide.250px.png",
+              "mod": "Micronova",
+              "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg"
+            },
+            {
+              "nome": "Corrupted Deceit",
+              "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Deceit",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_deceite_weapons_remnant2_wiki_guide250px.png",
+              "mod": "Windfall",
+              "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
+              "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg"
+            },
+            {
+              "nome": "Corrupted Merciless",
+              "descricao": "Fires high-powered nails. Limited magazine size.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Merciless",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_merciless_weapons_remnant2_wiki_guide250px.png",
+              "mod": "Bloodshot",
+              "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg"
+            },
+            {
+              "nome": "Corrupted Arbalest",
+              "descricao": "Fully automatic mechanisms launch a bouncing Energy Disc that can hit up to 2 enemies in close proximity. Damage is reduced after bouncing.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Arbalest",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-arbalest-weapons-remnant-2-wiki-guide.png",
+              "mod": "Guardian's Fury",
+              "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png"
+            },
+            {
+              "nome": "Corrupted Savior",
+              "descricao": "Black crystal weapon which increases Fire Rate as mod power is generated. Mod power slowly drains after 10s of not dealing damage.",
+              "link": "https://remnant2.wiki.fextralife.com/Corrupted+Savior",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-savior-weapons-remnant-2-wiki-guide.png",
+              "mod": "Fusion Cannon",
+              "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
+              "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
+              "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png"
+            }
+          ],
+          "The Awakened King": [],
+          "The Forgotten Kingdom": [],
+          "The Dark Horizon": []
         }
       ],
       "Melee Weapons": [
