@@ -4797,5 +4797,168 @@
       ]
     }
   ],
-  "stats": []
+  "stats": [
+    {
+      "general attributes": [
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": "",
+          "tipos": [
+            {
+              "nome": "",
+              "valor": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "valor": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "valor": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "valor": "",
+              "descricao": ""
+            }
+          ]
+        }
+      ],
+      "atk/def attributes": [
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        }
+      ],
+      "other attributes": [
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        },
+        {
+          "nome": "",
+          "descricao": ""
+        }
+      ],
+      "effects": [
+        {
+          "negative": [
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            }
+          ],
+          "blights": [
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": "",
+              "other type": [
+                {
+                  "nome": "",
+                  "descricao": ""
+                }
+              ]
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            }
+          ],
+          "positive": [
+            {
+              "nome": "",
+              "descricao": ""
+            },
+            {
+              "nome": "",
+              "descricao": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
