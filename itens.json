@@ -4533,6 +4533,269 @@
       ]
     }
   ],
-  "traits": [],
+  "traits": [
+    {
+      "core": [
+        {
+          "nome": "Endurance",
+          "descricao": "Increases Maximum Stamina",
+          "link": "https://remnant2.wiki.fextralife.com/Endurance",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/endurance_core_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Expertise",
+          "descricao": "Reduces Skill Cooldowns",
+          "link": "https://remnant2.wiki.fextralife.com/Expertise",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/expertise_core_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Spirit",
+          "descricao": "Increases Mod Power Generation",
+          "link": "https://remnant2.wiki.fextralife.com/Spirit",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_core_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Vigor",
+          "descricao": "Increases Maximum Health",
+          "link": "https://remnant2.wiki.fextralife.com/Vigor",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vigor_core_trait_remnant2_wiki_guide_200px.png"
+        }
+      ],
+      "archetype": [
+        {
+          "nome": "Ammo Reserves",
+          "descricao": "Increases Ammo Reserves",
+          "class": "Gunslinger",
+          "link": "https://remnant2.wiki.fextralife.com/Ammo+Reserves",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ammo_reserves_gunslinger_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Kinship",
+          "descricao": "Reduces Friendly Fire Damage Dealt and Received",
+          "class": "Handler",
+          "link": "https://remnant2.wiki.fextralife.com/Kinship",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kinship_handler_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Swiftness",
+          "descricao": "Increases All Movement Speed",
+          "class": "Explorer",
+          "link": "https://remnant2.wiki.fextralife.com/Swiftness",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/swiftness_explorer_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Triage",
+          "descricao": "Increases Healing Mod",
+          "class": "Medic",
+          "link": "https://remnant2.wiki.fextralife.com/Triage",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/triage_medic_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Longshot",
+          "descricao": "Increases Weapon Ideal Range",
+          "class": "Hunter",
+          "link": "https://remnant2.wiki.fextralife.com/Longshot",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/longshot_hunter_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Potency",
+          "descricao": "Increases Consumable Duration",
+          "class": "Alchemist",
+          "link": "https://remnant2.wiki.fextralife.com/Potency",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/potency_alchemist_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Regrowth",
+          "descricao": "Increases Health Regeneration",
+          "class": "Summoner",
+          "link": "https://remnant2.wiki.fextralife.com/Regrowth",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/regrowth_summoner_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Strong Back",
+          "descricao": "Reduces Dodge Weight Threshold.",
+          "class": "Challenger",
+          "link": "https://remnant2.wiki.fextralife.com/Strong+Back",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strong_back_challenger_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Untouchable",
+          "descricao": "Increases Evade Window",
+          "class": "Invader",
+          "link": "https://remnant2.wiki.fextralife.com/Untouchable",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/untouchable_invader_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Fortify",
+          "descricao": "Increases Armor Effectiveness",
+          "class": "Engineer",
+          "link": "https://remnant2.wiki.fextralife.com/Fortify",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fortify_engineer_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Flash Caster",
+          "descricao": "Increases Mod and Casting Speed",
+          "class": "Archon",
+          "link": "https://remnant2.wiki.fextralife.com/Flash+Caster",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/flash_caster_archon_archetype_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Affliction",
+          "descricao": "Increases STATUS EFFECT duration against enemies by 10%.",
+          "class": "Ritualist",
+          "link": "https://remnant2.wiki.fextralife.com/Affliction",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/affliction_remnant_2_wiki_200.png"
+        },
+        {
+          "nome": "Gifted",
+          "descricao": "Increases Skills' Duration",
+          "class": "Invoker",
+          "link": "https://remnant2.wiki.fextralife.com/Gifted",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gifted_trait_remnant2_the_forgotten_kingdom_300px.png"
+        },
+        {
+          "nome": "Barrier",
+          "descricao": "Increases Shield Amount",
+          "class": "Warden",
+          "link": "https://remnant2.wiki.fextralife.com/Barrier",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/barrier_trait_archetype_warden_remnant2_wiki_guide1.png"
+        }
+      ],
+      "others": [
+        {
+          "nome": "Amplitude",
+          "descricao": "Increases AOE Size",
+          "link": "https://remnant2.wiki.fextralife.com/Amplitude",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/amplitude_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Arcane Strike",
+          "descricao": "Increases Mod Power Generation from Melee Damage",
+          "link": "https://remnant2.wiki.fextralife.com/Arcane+Strike",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/arcane_strike_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Barkskin",
+          "descricao": "Reduces ALL incoming Damage",
+          "link": "https://remnant2.wiki.fextralife.com/Barkskin",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/barkskin_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Blood Bond",
+          "descricao": "Archetype Summons absorb X% of damage taken by the caster",
+          "link": "https://remnant2.wiki.fextralife.com/Blood+Bond",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_bond_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Bloodstream",
+          "descricao": "Increases Grey Health regen",
+          "link": "https://remnant2.wiki.fextralife.com/Bloodstream",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodstream_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Fitness",
+          "descricao": "Increases Evade Distance",
+          "link": "https://remnant2.wiki.fextralife.com/Fitness",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fitness_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Footwork",
+          "descricao": "Increases Movement Speed while Aiming",
+          "link": "https://remnant2.wiki.fextralife.com/Footwork",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/footwork_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Glutton",
+          "descricao": "Increases the Use Speed of Consumables and Relics",
+          "link": "https://remnant2.wiki.fextralife.com/Glutton",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/glutton_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Handling",
+          "descricao": "Reduces Weapon Spread and Recoil",
+          "link": "https://remnant2.wiki.fextralife.com/Handling",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/handling_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Recovery",
+          "descricao": "Increases Stamina Regen",
+          "link": "https://remnant2.wiki.fextralife.com/Recovery",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/recovery_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Chakra",
+          "descricao": "Increases Mod Duration",
+          "link": "https://remnant2.wiki.fextralife.com/Chakra",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chackra_traits_remnant2_the_forgotten_kingdom_200px.png"
+        },
+        {
+          "nome": "Revivalist",
+          "descricao": "Increases the Speed of Reviving and being Revived",
+          "link": "https://remnant2.wiki.fextralife.com/Revivalist",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/revivalist_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Rugged",
+          "descricao": "Increases the Health of Archetype Summons",
+          "link": "https://remnant2.wiki.fextralife.com/Rugged",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rugged_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Scholar",
+          "descricao": "Increases Experience Gain",
+          "link": "https://remnant2.wiki.fextralife.com/Scholar",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scholar_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Shadeskin",
+          "descricao": "Increases Resistance to Elemental Status Effect Damage",
+          "link": "https://remnant2.wiki.fextralife.com/Shadeskin",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shadeskin_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Siphoner",
+          "descricao": "Grants x% base damage as Lifesteal",
+          "link": "https://remnant2.wiki.fextralife.com/Siphoner",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphoner_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Leech",
+          "descricao": "Increases Lifesteal Efficacy",
+          "link": "https://remnant2.wiki.fextralife.com/Leech",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leech_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Dark Pact",
+          "descricao": "Increases Grey Health Conversion Rate by 3%",
+          "link": "https://remnant2.wiki.fextralife.com/Dark+Pact",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dark_pact_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Resolute",
+          "descricao": "Reduces Hit Reaction Time",
+          "link": "https://remnant2.wiki.fextralife.com/Resolute",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/resolute_trait_remnant2_wiki_guide_200px.png"
+        },
+        {
+          "nome": "Perception",
+          "descricao": "Increases HASTE and SLOW bonuses.",
+          "link": "https://remnant2.wiki.fextralife.com/Perception",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/perception_trait_remnant2_wiki_guide.png"
+        },
+        {
+          "nome": "Insight",
+          "descricao": "Automatically Generate Mod Power per second.",
+          "link": "https://remnant2.wiki.fextralife.com/Insight",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/insight_trait_remannt2_wiki_guide.png"
+        },
+        {
+          "nome": "Preservation",
+          "descricao": "Increases SHIELD Duration Received",
+          "link": "https://remnant2.wiki.fextralife.com/Preservation",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/preservation_trait_remannt2_wiki_guide.png"
+        }
+      ]
+    }
+  ],
   "stats": []
 }
