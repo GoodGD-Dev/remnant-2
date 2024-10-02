@@ -4101,9 +4101,257 @@
     {
       "Game Base": [
         {
+          "nome": "Challenger",
+          "prime perk": [
+            {
+              "nome": "Die Hard",
+              "link": "https://remnant2.wiki.fextralife.com/Die+Hard",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/die_hard_perk_remnant2_wiki_guide_200px.png"
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "Strong Back",
+              "link": "https://remnant2.wiki.fextralife.com/Strong+Back",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strong_back_challenger_archetype_trait_remnant2_wiki_guide_200px.png"
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "Heavy Armor Set",
+                  "link": "?",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bruiser_set_armor_sets_fextralife_wiki_guide_250px.png"
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "AS-10 Bulldog",
+                  "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png"
+                },
+                {
+                  "nome": "Iron Greatsword",
+                  "link": "https://remnant2.wiki.fextralife.com/Iron+Greatsword",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/iron_greatsword_melee_weapon_remnant2_wiki_guide_300px.png"
+                },
+                {
+                  "nome": "Silverback Model 500",
+                  "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png"
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "Close Quarters",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Grants a 3.5% increase to All Damage to enemies within 10m. Damage bonus tapers off until 20m. Upgrade Unlocked at level 6 Grants a 21% increase to All Damage to enemies within 10m. Damage bonus tapers off until 20m. Increases Critical Chance by 5%. Increases with Challenger Level. (Level 10: Grants a 35% increase to All Damage to enemies within 10m. Damage bonus tapers off until 20m. Increases Critical Chance by 5%.)",
+                  "link": "https://remnant2.wiki.fextralife.com/Close+Quarters",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/challenger_close_quarters_perk_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "second": [
+                {
+                  "nome": "Intimidating Presence",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 After activating a Challenger Skill, enemies within 10m deal 10% less damage for 15s. Upgrade unlocked at level 7 After activating a Challenger Skill, enemies within 10m deal 10% less damage for 15s, with an additional 2.5% damage reduction per enemy affected. (Max 10%)",
+                  "link": "https://remnant2.wiki.fextralife.com/Intimidating+Presence",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/intimidating_presence_perk_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "third": [
+                {
+                  "nome": "Powerlifter",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 The Stamina Cost increases for each weight bracket is reduced by 50%. Upgrade unlocked at level 8 Both the Stamina cost increase for each weight bracket and Stamina Regen Delay are reduced by 50%.",
+                  "link": "https://remnant2.wiki.fextralife.com/Powerlifter",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/powerlifter_perk_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "Face of Danger",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic within 10m of an enemy grants 2 stacks of Bulwark for 10s. Upgrade unlocked at level 9 Using a Relic within 10m of an enemy grants 2 stacks of Bulwark and 10% Increased Damage for 10s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Face+of+Danger",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/face_of_danger_perk_remnant2_wiki_guide_200px.png"
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "War Stomp",
+                  "description": "Creates a high impact tremor that deals 150 damage and additional stagger in a forward cone up to 7.5m. Deals damage in all directions at point blank range. Cooldown: 50s",
+                  "unlock": "Lvl 0",
+                  "link": "https://remnant2.wiki.fextralife.com/War+Stomp",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/war_stomp_skill_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "second": [
+                {
+                  "nome": "Juggernaut",
+                  "description": "Become nearly unstoppable, gaining 3 Stack of Bulwark, 15% increased Movement, Melee Speed, and Reduces Stamina Cost. Increases Melee damage by 50%. Stagger Level reduced by 1. Lasts 25s. Cooldown: 60s",
+                  "unlock": "Lvl 5",
+                  "link": "https://remnant2.wiki.fextralife.com/Juggernaut",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/juggernaut_skill_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "third": [
+                {
+                  "nome": "Rampage",
+                  "description": "Enters a heightened state of battle which increases Fire Rate by 10%, Reload Speed by 25%, and Movement Speed by 15%. Lasts 10s. Kills and dealing significant damage grant 1 Stack of RAGE which increases Ranged Damage by 2.5% per Stack. Upon reaching 10 Stacks, the Challenger goes BERSERK, which reloads their current firearm and doubles Rampage efects for 15s. Cooldown: 90s",
+                  "unlock": "Lvl 10",
+                  "link": "https://remnant2.wiki.fextralife.com/Rampage",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rampage_skill_remnant2_wiki_guide_200px.png"
+                }
+              ]
+            }
+          ],
+          "link": "https://remnant2.wiki.fextralife.com/Challenger",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/challenger_archetype_remnant2_wiki_guide_250px.png"
+        },
+        {
+          "nome": "Handler",
+          "prime perk": [
+            {
+              "nome": "Bonded",
+              "link": "https://remnant2.wiki.fextralife.com/Bonded",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bonded_perk_remnant2_wiki_guide_200px.png"
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "Kinship",
+              "link": "https://remnant2.wiki.fextralife.com/Kinship",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kinship_handler_archetype_trait_remnant2_wiki_guide_200px.png"
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "Trainer Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Trainer+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trainer_set_armor_sets_fextralife_wiki_guide_250px.png"
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "Blackmaw AR-47",
+                  "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png"
+                },
+                {
+                  "nome": "Rusted Claws",
+                  "link": "https://remnant2.wiki.fextralife.com/Rusted+Claws",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_claws_melee_weapon_remnant2_wiki_guide_300px.png"
+                },
+                {
+                  "nome": "Tech 22",
+                  "link": "https://remnant2.wiki.fextralife.com/Tech+22",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png"
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "Pack Hunter",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Gain 3% Ranged, Melee and Skill Damage while Companion is within 40m of the player. Upgrade Unlocked at level 6 Gain 18% Ranged, Melee and Skill Damage and 5% Ranged, Melee and Skill Critical Chance while Companion is  within 40m of the player. Increases with Handler Level (level 10: 30% Ranged, Melee and Skill Damage)",
+                  "link": "https://remnant2.wiki.fextralife.com/Pack+Hunter",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pack_hunter_perk_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "second": [
+                {
+                  "nome": "Spirit of the Wolf",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Increases Movement Speed by 10%. All allies within 10m of the Handler gain the Handler's Movement Speed (if faster). Upgrade unlocked at level 7 Increases Movement Speed by 10%. All allies within 10m of the Handler gain the Handler's Movement Speed (if faster). Reduces the Stamina Cost of actions for allies by 15%.",
+                  "link": "https://remnant2.wiki.fextralife.com/Spirit+of+the+Wolf",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_of_the_wolf_perk_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "third": [
+                {
+                  "nome": "Teamwork",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Handler and Companion gain 15% increased Revive Speed. Upgrade unlocked at level 8 Handler and Companion gain 30% increased Revive Speed. While Handler or Companion are reviving, they receive 50% less damage.",
+                  "link": "https://remnant2.wiki.fextralife.com/Teamwork",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/teamwork_perk_remnant2_wiki_guide_256px_200px.png"
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "Best Friend",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic fully restores the Companion's health. Upgrade unlocked at level 9 Using a Relic fully restores the Companion's health and grants them 25% Damage and 35% Damage Resistance for 15s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Best+Friend",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/best_friend_perk_remnant2_wiki_guide_200px.png"
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "Guard Dog",
+                  "description": "Companion will follow the Handler and generate 15% incresed Threat while attacking. All damage to them is reduced by 20%.  SINGLE PRESS: Companion engages enemies near the targeted location. DOUBLE TAP: Companion returns to the Handler and remains by their side. HOLD: Howl reduces damage by 15% to all allies within 20m and the Companion generates additional Threat. Lasts 20s. Cooldown: 90s",
+                  "unlock": "Lvl 0",
+                  "link": "https://remnant2.wiki.fextralife.com/Guard+Dog",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guard_dog_skill_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "second": [
+                {
+                  "nome": "Support Dog",
+                  "description": "Companion will follow the Handler and continuously heal allies within 3.5m for 0.25% of Max Health per second. SINGLE PRESS: Companion engages enemies near the targeted location.  DOUBLE TAP: Companion returns to the Handler and remains by their side. HOLD: Howl grants 2% of Max Health per second and 25% increased Movemente Speed to all allies within 20m. Lasts 25s Cooldown: 90s",
+                  "unlock": "Lvl 5",
+                  "link": "https://remnant2.wiki.fextralife.com/Support+Dog",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/support_dog_skill_remnant2_wiki_guide_200px.png"
+                }
+              ],
+              "third": [
+                {
+                  "nome": "Attack Dog",
+                  "description": "Companion will follow the Handler and deal 20% additional damage. SINGLE PRESS: Compabion engages enemies near the targeted location. DOUBLE TAP: Companion returns to the Handler and remains by their side. HOLD: Howl increases damage by 20% for all allies within 20m. Lasts 20s. Cooldown: 90s",
+                  "unlock": "Lvl 10",
+                  "link": "https://remnant2.wiki.fextralife.com/Attack+Dog",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/attack_dog_skill_remnant2_wiki_guide_200px.png"
+                }
+              ]
+            }
+          ],
+          "link": "https://remnant2.wiki.fextralife.com/Handler",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/handler_archetype_remnant2_wiki_guide_250px.png"
+        },
+        {
           "nome": "",
-          "prime perk": "",
-          "prime trait": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
           "inicial equipment": [
             {
               "armor set": [
@@ -4178,7 +4426,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 0",
                   "link": "",
                   "image": ""
                 }
@@ -4187,7 +4435,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 5",
                   "link": "",
                   "image": ""
                 }
@@ -4196,7 +4444,951 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "link": "",
+          "imagem": ""
+        },
+        {
+          "nome": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "inicial equipment": [
+            {
+              "armor set": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "weapons": [
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                },
+                {
+                  "nome": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "perks": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "fourth": [
+                {
+                  "nome": "",
+                  "tipo": "",
+                  "description": "",
+                  "link": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "skills": [
+            {
+              "first": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 0",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "second": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 5",
+                  "link": "",
+                  "image": ""
+                }
+              ],
+              "third": [
+                {
+                  "nome": "",
+                  "description": "",
+                  "unlock": "Lvl 10",
                   "link": "",
                   "image": ""
                 }
@@ -4210,8 +5402,20 @@
       "The Awakened King": [
         {
           "nome": "",
-          "prime perk": "",
-          "prime trait": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
           "inicial equipment": [
             {
               "armor set": [
@@ -4286,7 +5490,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 0",
                   "link": "",
                   "image": ""
                 }
@@ -4295,7 +5499,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 5",
                   "link": "",
                   "image": ""
                 }
@@ -4304,7 +5508,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 10",
                   "link": "",
                   "image": ""
                 }
@@ -4318,8 +5522,20 @@
       "The Forgotten Kingdom": [
         {
           "nome": "",
-          "prime perk": "",
-          "prime trait": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
           "inicial equipment": [
             {
               "armor set": [
@@ -4394,7 +5610,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 0",
                   "link": "",
                   "image": ""
                 }
@@ -4403,7 +5619,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 5",
                   "link": "",
                   "image": ""
                 }
@@ -4412,7 +5628,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 10",
                   "link": "",
                   "image": ""
                 }
@@ -4426,8 +5642,20 @@
       "The Dark Horizon": [
         {
           "nome": "",
-          "prime perk": "",
-          "prime trait": "",
+          "prime perk": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
+          "prime trait": [
+            {
+              "nome": "",
+              "link": "",
+              "imagem": ""
+            }
+          ],
           "inicial equipment": [
             {
               "armor set": [
@@ -4502,7 +5730,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 0",
                   "link": "",
                   "image": ""
                 }
@@ -4511,7 +5739,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 5",
                   "link": "",
                   "image": ""
                 }
@@ -4520,7 +5748,7 @@
                 {
                   "nome": "",
                   "description": "",
-                  "unlock": "",
+                  "unlock": "Lvl 10",
                   "link": "",
                   "image": ""
                 }
@@ -4819,30 +6047,30 @@
             {
               "nome": "Light",
               "valor": [
-                0,
-                25
+                "0",
+                "25"
               ],
               "descricao": "Fast Dodge. No Stamina cost penality (average damage reduction: 25%)"
             },
             {
               "nome": "Medium",
               "valor": [
-                26,
-                50
+                "26",
+                "50"
               ],
               "descricao": "Normal Dodge. 25% Stamina cost penality (average damage reduction: 30%)"
             },
             {
               "nome": "Heavy",
               "valor": [
-                51,
-                75
+                "51",
+                "75"
               ],
               "descricao": "Slow Dodge. 50% Stamina cost penality (average damage reduction: 35%)"
             },
             {
               "nome": "Ultra",
-              "valor": 76,
+              "valor": "76",
               "descricao": "Flop. 75% Stamina cost penality (average damage reduction: 50%)"
             }
           ]
