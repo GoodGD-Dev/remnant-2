@@ -4121,7 +4121,7 @@
               "armor set": [
                 {
                   "nome": "Heavy Armor Set",
-                  "link": "?",
+                  "link": "https://remnant2.wiki.fextralife.com/Bruiser+Set",
                   "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bruiser_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
@@ -4337,45 +4337,45 @@
           "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/handler_archetype_remnant2_wiki_guide_250px.png"
         },
         {
-          "nome": "",
+          "nome": "Hunter",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Dead to Rights",
+              "link": "Prime Perk",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dead_to_rights_perk_remnant2_wiki_guide_200px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Longshot",
+              "link": "https://remnant2.wiki.fextralife.com/Longshot",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/longshot_hunter_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Nightstalker Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Nightstalker+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightstalker_a_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Huntmaster M1",
+                  "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Steel Sword",
+                  "link": "https://remnant2.wiki.fextralife.com/Steel+Sword",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_sword_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Repeater Pistol",
+                  "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -4384,38 +4384,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Deadeye",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Gain 4% Ranged Damage and 1.5% Weakspot Damage. Increases with Hunter Level Upgrade Unlocked at level 6 Gain 24% Ranged Damage, 9% Weakspot Damage and 5% Ranged Critical Chance. Increases with Hunter Level (level 10: 40% Ranged Damage and 15% Weakspot Damage)",
+                  "link": "https://remnant2.wiki.fextralife.com/Deadeye",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadey_perk_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Return to Sender",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Kills due to Weakspot and Critical Hits increase Ammo drops by 25% Upgrade unlocked at level 7 Kills due to Weakspot and Critical Hits increase Ammo drops by 50% and double the chance of Ammo drops.",
+                  "link": "https://remnant2.wiki.fextralife.com/Return+to+Sender",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/return_to_sender_perk_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Urgency",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Firearms gain 15% Reload Speed after a Kill. Lasts 3s Upgrade unlocked at level 8 Firearms gain 15% Reload Speed and 15% Increased Movement Speed after a Kill. Lasts 5s",
+                  "link": "https://remnant2.wiki.fextralife.com/Urgency",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/urgency_perk_remnant2_wiki_guide_256px_200px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Intuition",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic extends the duration of any active Hunter Skill by 5s. Effect degrades with each subsequent use. Upgrade unlocked at level 9 Using a Relic extends the duration of any active Hunter Skill by 10s. Effect degrades with each subsequent use. Weakspot Kills against MARKED enemies increase speed of next Relic Use within 15s by 5%. Stacks 10x.",
+                  "link": "https://remnant2.wiki.fextralife.com/Intuition",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/intuition_perk_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
@@ -4424,76 +4424,76 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Hunter's Mark",
+                  "description": "Increases the Hunter's spatial awareness by casting an Aura that automatically applies MARK to all enemies within 35m. While senses are heightened, Hunter also gains 15% increased Ranged and Melee damage. Lasts 25s. MARK: Crit Chance against MARKED enemies is increased by 10% for all allies. Cooldown: 70s",
                   "unlock": "Lvl 0",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Hunter's+Mark",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hunters_mark_skills_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Hunter's Focus",
+                  "description": "Continously Aiming Down Sights uninterrupted and without shooting for 0.5s causes the Hunter to enter a FOCUSED state, which remains for 0.75s if you stop aiming. FOCUSED reduces Weapon Spread, Recoil, and Sway by 75% and grants 25% Ranged & Ranged Weaspot Damage. While FOCUSED, Aiming at enemies will automatically apply MARK. Lasts 20s. FOCUSED state can last up to 10s after the Skill duration expires. MARK: Crit Chance against MARKED enemies is increased by 10% for all allies. Cooldown: 50s",
                   "unlock": "Lvl 5",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Hunter's+Focus",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hunters_focus_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Hunter's Shroud",
+                  "description": "Hunter becomes Shrouded, reducing enemy awareness and making them harder to hit while moving. Attacking or activating a Mod or Skill will instantly exit Shroud. Exiting Shroud applies MARK to all enemies within 10m and grants AMBUSH to the Hunter for 2s. AMBUSH: Increases Ranged and Melee Damage by 50% which diminishes over its duration. Ranged and Melee attacks apply MARK. Hunter will automatically Shorud again after 1.15s if no offensive action are performed. Lasts 15s. MARK: Crit Chance against MARKED enemies is increased by 15% for all allies. Cooldown: 86.4s",
                   "unlock": "Lvl 10",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Hunter's+Shroud",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hunters_shroud_skills_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Hunter",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hunter_archetype_remnant2_wiki_guide_250px.png"
         },
         {
-          "nome": "",
+          "nome": "Gunslinger",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Loaded",
+              "link": "https://remnant2.wiki.fextralife.com/Loaded",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loaded_perk_remnant2_wiki_guide_250px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Ammo Reserves",
+              "link": "https://remnant2.wiki.fextralife.com/Ammo+Reserves",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ammo_reserves_gunslinger_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "High Noon Set",
+                  "link": "https://remnant2.wiki.fextralife.com/High+Noon+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/high_noon_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Wrangler 1860",
+                  "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Scrap Hatchet",
+                  "link": "https://remnant2.wiki.fextralife.com/Scrap+Hatchet",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hatchet_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Western Classic",
+                  "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -4502,38 +4502,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Swift Shot",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Gain 1.5% Fire Rate and 2.5% Ranged Damage. Increases with Gunslinger Level. Upgrade Unlocked at level 6 Gain 15% Fire Rate and 25% Ranged Damage and 5% Crit Chance for all firearms. Fire Rate and Damage increases with Gunslinger Level.",
+                  "link": "https://remnant2.wiki.fextralife.com/Swift+Shot",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/swift_shot_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Posse Up",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Ammo pickups award 20% additional Ammo per player with the bonus split equally among teammates. Upgrade unlocked at level 7 Ammo pickups award 30% additional Ammo per player with the bonus split equally among teammates. Causes Ammo Box to drop additional ammo on the ground.",
+                  "link": "https://remnant2.wiki.fextralife.com/Posse+Up",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/posse_up_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Quick Hands",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Firearms gain 10% Reload Speed Upgrade unlocked at level 8 Firearms gain 10% Reload Speed. Bonus is DOUBLED if magazine is empty",
+                  "link": "https://remnant2.wiki.fextralife.com/Quick+Hands",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/quick_hands_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Sleight of Hand",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic reloads equipped Firearm. Upgrade unlocked at level 9 Using a Relic reloads equipped Firearm and increases Ranged Damage by 15% for 10s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Sleight+of+Hand",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sleight_of_hands_perk_remnant2_wiki_guide_250px.png"
                 }
               ]
             }
@@ -4569,49 +4569,49 @@
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Gunslinger",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gunslinger_archetype_remnant2_wiki_guide_250px.png"
         },
         {
-          "nome": "",
+          "nome": "Medic",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Regenerator",
+              "link": "https://remnant2.wiki.fextralife.com/Regenerator",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/regenerator_perk_remnant2_wiki_guide_200px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Triage",
+              "link": "https://remnant2.wiki.fextralife.com/Triage",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/triage_medic_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Field Medic Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Field+Medic+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/field_medic_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "XMG57 Bonesaw",
+                  "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Steel Flail",
+                  "link": "https://remnant2.wiki.fextralife.com/Steel+Flail",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_flail_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Service Pistol",
+                  "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -4620,38 +4620,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Invigorated",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Grants a 2.5% increase to All Damage Upgrade Unlocked at level 6 Grants a 18% increase to All Damage and 5% Critical Chance Increases with Medic Level (level 10: Grants a 25% increase to All Damage and 5% Critical Chance)",
+                  "link": "https://remnant2.wiki.fextralife.com/Invigorated",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/invigorated_perk_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Benevolence",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Increases Relic Efficacy by 15% and heals nearby allies for 30% of the total healing value. Upgrade unlocked at level 7 Increases Relic Efficacy by 15% and heals nearby allies for 30% of the total healing value, increasing to 60% for any below 35% ma health.",
+                  "link": "https://remnant2.wiki.fextralife.com/Benevolence",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/benevolence_perk_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Backbone",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Increases the hits Medic can take before losing Grey Health by 1 Upgrade unlocked at level 8 Increases the hits Medic can take before losing Grey Health by 2",
+                  "link": "https://remnant2.wiki.fextralife.com/Backbone",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/backbone_perk_remnant2_wiki_guide_200px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Benefactor",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Increases Relic Use Speed by 20% Upgrade unlocked at level 9 Increases Relic Use Speed by 20%. Relic Use gains -1 Stagger-",
+                  "link": "https://remnant2.wiki.fextralife.com/Benefactor",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/benefactor_perk_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
@@ -4660,76 +4660,76 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Wellspring",
+                  "description": "The Medic channels healing energy into their fist, punching a hole in the ground to create a 3m Healing Spring AOE wich restores 10.5 Health per second and greatly increses Blight Decay Rate. Lasts 15s. Cooldown: 57.6s",
                   "unlock": "Lvl 0",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Wellspring",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wellspring_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Healing Shield",
+                  "description": "The Medic Quickly expels healing energy to SHIELD all allies within 25m for 100% of their Max Health for 10s. While shielded, allies regenerate 21% of their Max Health over the duration.  Cooldown: 96s",
                   "unlock": "Lvl 5",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Healing+Shield",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/healing_shield_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Redemption",
+                  "description": "The Medic unleashes a 30m shockwave that revives downed allies and resotres 52.5% Max Health over 10s. For each additional 1s holding the SKILL button, the heal gains an additional 52.5% (up to 210% max) Revived allies will only receive 50% of the healing amount. If revived, allies cannot be revived again by Redemption for another 180s. Resets at Worldstone or on death.  Cooldwon: 115.2s",
                   "unlock": "Lvl 10",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Redemption",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/redemption_skill_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Medic",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/medic_archetype_remnant2_wiki_guide_250px.png"
         },
         {
-          "nome": "",
+          "nome": "Alchemist",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Spirited",
+              "link": "https://remnant2.wiki.fextralife.com/Spirited",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirited_perk_remnant2_wiki_guide_250px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Potency",
+              "link": "https://remnant2.wiki.fextralife.com/Potency",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/potency_alchemist_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Academic's Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Academic's+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/academics_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Wrangler 1860",
+                  "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Bone Chopper",
+                  "link": "https://remnant2.wiki.fextralife.com/Bone+Chopper",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bone_chopper_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Double Barrel",
+                  "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -4738,38 +4738,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Liquid Courage",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Gain 2.5%  increase to All Damage. Increases with Alchemist Level. Upgrade Unlocked at level 6 Grants a 25% increase to All Damage and 5% Critical Chance",
+                  "link": "https://remnant2.wiki.fextralife.com/Liquid+Courage",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/liquid_courage_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Panacea",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Curative effects apply to all allies within15m and grant 15 additional Resistance. Upgrade unlocked at level 7 Allies affected by Panacea gain +10% Status and Blight Resistance.",
+                  "link": "https://remnant2.wiki.fextralife.com/Panacea",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/panacea_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Gold To Lead",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Picking up Scrap has a 15% chance to also award Ammo to the Alchemist. Upgrade unlocked at level 8 Picking up Scrap or Metals also has a 15% chance to award Ammo to the Alchemist",
+                  "link": "https://remnant2.wiki.fextralife.com/Gold+to+Lead",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gold_to_lead_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Experimentalist",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic applies a random buff on the Alchemist for 30s. Cannot be overriden. Upgrade unlocked at level 9 Using a Relic applies a random buff o the Alchemist and allies within 20m for 60s. Cannot obe overriden",
+                  "link": "https://remnant2.wiki.fextralife.com/Experimentalist",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/experimentalist_perk_remnant2_wiki_guide_250px.png"
                 }
               ]
             }
@@ -4805,8 +4805,8 @@
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Alchemist",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alchemist_archetype_remnant2_wiki_guide_250px.png"
         },
         {
           "nome": "",
