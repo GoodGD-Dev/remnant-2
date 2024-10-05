@@ -5166,42 +5166,42 @@
           "nome": "Invader",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Shadow",
+              "link": "https://remnant2.wiki.fextralife.com/Shadow",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shadow_perk_remnant2_wiki_guide_250px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Untouchable",
+              "link": "https://remnant2.wiki.fextralife.com/Untouchable",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/untouchable_invader_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Dendroid Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Dendroid+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dendroid_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Blackmaw AR-47",
+                  "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Steel Katana",
+                  "link": "https://remnant2.wiki.fextralife.com/Steel+Katana",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_katana_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Tech 22",
+                  "link": "https://remnant2.wiki.fextralife.com/Tech+22",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -5210,38 +5210,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "S.H.A.R.K.",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Sprinting for 1s or Evading adds 1 Stack of Momentum which increases Ranged and Melee damage  by 0.7% for 10s. Max 5 Stacks. Increases with Invader Level Upgrade Unlocked at level 6 Sprinting for 1s or Evading adds 1 Stack of Momentum which increases Ranged and Melee damage by 7% and Ranged and Melee Critical Chance by 1% for 10s. Max 5 Stacks. Damage increases with Invader level.",
+                  "link": "https://remnant2.wiki.fextralife.com/Shark",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shark_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Loophole",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 All ally Ranged and Melee damage against enemies distracted by the Invader's Decoy grants 5% as Lifesteal Upgrade unlocked at level 7 All ally Ranged and Melee damage against enemies distracted by the Invader's Decoy grants 7.5% as Lifesteal",
+                  "link": "https://remnant2.wiki.fextralife.com/Loophole",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/loophole_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Circumvent",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Reduce Cost of Evade and Combat Slide by 10% Upgrade unlocked at level 8 Reduce Cost of Evade and Combat Slide by 15%. perfect Dodges gain an additional 15% reduction",
+                  "link": "https://remnant2.wiki.fextralife.com/Circumvent",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/circumvent_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Override",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic reduces Threat Generation by 25% for 10s. While Override is active, the next Evade leaves a Empowered Decoy which lasts 4s. Upgrade unlocked at level 9 Using a Relic reduces Threat Generation by 25% for 10s. While Override is active, the next Evade leaves a Empowered Decoy which lasts 5.5s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Override",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/override_perk_remnant2_wiki_guide_250px.png"
                 }
               ]
             }
@@ -5250,76 +5250,76 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Void Cloak",
+                  "description": "Automatically Perfect Dodge incoming direct damage for 60s. Each auto-evade reduces timer by 33% - 100% based on damage absorbed and spawns a Decoy for 3s. Cooldown: 75s",
                   "unlock": "Lvl 0",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Void+Cloak",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/void_cloak_invader_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Worm Hole",
+                  "description": "Warps the caster forward through space-time. The next Melee or Ranged attack within 5s will deal 300% damage. Holding the Skill button will show the targeting device. If an enemy is directly targeted, the caster will emerge behind them.  Cooldown: 35s",
                   "unlock": "Lvl 5",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Worm+Hole",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/worm_hole_invader_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Reboot",
+                  "description": "Initiates a Data Backup of the caster's current Health, Stamina, Relic Charges, Ammo, and Negative Status Effects, which are stored for 30s. While the Backup is active, increases Movement Speed by 15% and Damage Reduction by 10%. Reactivating the Skill restores all saved values from the Backup and spawns a Decoy which lasts 3s. Cooldown: 55s",
                   "unlock": "Lvl 10",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Reboot",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reboot_invader_skill_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Invader",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/invader_archetype_remnant2_wiki_guide_250px.png"
         },
         {
           "nome": "Summoner",
           "prime perk": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Ruthless",
+              "link": "https://remnant2.wiki.fextralife.com/Ruthless",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ruthless_perk_remnant2_wiki_guide_250px.png"
             }
           ],
           "prime trait": [
             {
-              "nome": "",
-              "link": "",
-              "imagem": ""
+              "nome": "Regrowth",
+              "link": "https://remnant2.wiki.fextralife.com/Regrowth",
+              "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/regrowth_summoner_archetype_trait_remnant2_wiki_guide_200px.png"
             }
           ],
           "inicial equipment": [
             {
               "armor set": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Knotted Set",
+                  "link": "https://remnant2.wiki.fextralife.com/Knotted+Set",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/knotted_set_armor_sets_fextralife_wiki_guide_250px.png"
                 }
               ],
               "weapons": [
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Crossbow",
+                  "link": "https://remnant2.wiki.fextralife.com/Crossbow",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Rebellion Spear",
+                  "link": "https://remnant2.wiki.fextralife.com/Rebellion+Spear",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rebellion_spear_melee_weapon_remnant2_wiki_guide_300px.png"
                 },
                 {
-                  "nome": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "MP60-R",
+                  "link": "https://remnant2.wiki.fextralife.com/MP60-R",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png"
                 }
               ]
             }
@@ -5328,38 +5328,38 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Dominator",
+                  "tipo": "Damage Perk",
+                  "description": "Unlocked at level 1 Increases Explosive, Mod and Skill Damage by 3.5%. Increases with Summoner level Upgrade Unlocked at level 6 Increases Explosive, Mod and Skill Damage by 21% and Mod and Skill Critical Chance by 5%. Increases with Summoner level (level 10: Increases Explosive, Mod and Skill Damage by 35% and Skill and Mod Critical Chance by 5%.)",
+                  "link": "https://remnant2.wiki.fextralife.com/Dominator",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dominator_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Residue",
+                  "tipo": "Team Perk",
+                  "description": "Unlocked at level 2 Minions that expire leave a 3m Aura which heals 2.5% Health per second. Lasts 10s. Upgrade unlocked at level 7 Minions that expire leave a 3m Aura which heals 2.5% Health per second. and increases Healing by 20%. Lasts 10s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Residue",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/residue_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Outrage",
+                  "tipo": "Utility Perk",
+                  "description": "Unlocked at level 3 Sacrifice grants 3% Lifesteal for each Minion Sacrificed. Lasts 10s. Upgrade unlocked at level 8 Sacrifice grants 3% Lifesteal for each Minion Sacrificed, and increases Movement Speed by 15%. Lasts 10s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Outrage",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/outrage_perk_remnant2_wiki_guide_250px.png"
                 }
               ],
               "fourth": [
                 {
-                  "nome": "",
-                  "tipo": "",
-                  "description": "",
-                  "link": "",
-                  "image": ""
+                  "nome": "Incite",
+                  "tipo": "Relic Perk",
+                  "description": "Unlocked at level 4 Using a Relic grants Minions 5% Max HP per second, and increases their damage dealt by 15%. Lasts 30s. Upgrade unlocked at level 9 Using a Relic grants Minions 5% Max HP per second, and increases their damage dealt by 15% and Crit Chance by 15%. Lasts 30s.",
+                  "link": "https://remnant2.wiki.fextralife.com/Incite",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/incite_perk_remnant2_wiki_guide_250px.png"
                 }
               ]
             }
@@ -5368,35 +5368,35 @@
             {
               "first": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Minion: Hollow",
+                  "description": "PRESS: Summons a Root Hollow Minion to fight by your side. Costs 15% of Max Health to summon, but will not kil Summoner. Max (2) HOLD: SACRIFICE Root Hollow Minion to explode, dealing 150 damage within 5m. Reduces Skill Cooldown by up to 50% based on remaining Health of each Minion Sacrificied. Cooldown: 30s",
                   "unlock": "Lvl 0",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Minion:+Hollow",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/minion_hollow_summoner_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "second": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Minion: Flyer",
+                  "description": "PRESS: Summons a Root Flyer Minion to fight by your side. Costs 10% of Max Health to summon, but will not kil Summoner. Max (2). HOLD: SACRIFICE all Root Flyer Minions, dealing 50 damage within 3m and spawning 3 homing projectiles which explode on contact for 150 damage each Cooldown: 45s",
                   "unlock": "Lvl 5",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Minion:+Flyer",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/minion_fleyer_summoner_skill_remnant2_wiki_guide_200px.png"
                 }
               ],
               "third": [
                 {
-                  "nome": "",
-                  "description": "",
+                  "nome": "Minion: Reaver",
+                  "description": "PRESS: Summons a Root Reaver Minion to fight by your side. Costs 35% of Max Health to summon, but will not kill Summoner. Max (1). HOLD: SACRIFICE all Root Reaver Minion, dealing 200 damage within 6m and spawning Spore Bombs which bounce and explode on contact for 200 damage each. Reduces Skill Cooldown by up to 50% based on remaining Health of Minion. Cooldown: 120s",
                   "unlock": "Lvl 10",
-                  "link": "",
-                  "image": ""
+                  "link": "https://remnant2.wiki.fextralife.com/Minion:+Reaver",
+                  "image": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mnion_reaver_summoner_skill_remnant2_wiki_guide_200px.png"
                 }
               ]
             }
           ],
-          "link": "",
-          "imagem": ""
+          "link": "https://remnant2.wiki.fextralife.com/Summoner",
+          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/summoner_archetype_remnant2_wiki_guide_250px.png"
         }
       ],
       "The Awakened King": [
