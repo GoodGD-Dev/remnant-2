@@ -10,6 +10,7 @@
 
 ## CHANGELOG.md
 
+```md
 ### Added 
 - for new features.
 ### Changed 
@@ -22,3 +23,4 @@
 - for any bug fixes.
 ### Security
 - in case of vulnerabilities.
+```
