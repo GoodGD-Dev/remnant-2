@@ -2,6 +2,7 @@ import React from 'react';
 import { Navbar, Nav, Button, Form, Container } from 'react-bootstrap';
 import { Link, useLocation } from 'react-router-dom'; // Import useLocation
 import './style.css';
+import Logo from "../../assets/remnant logo.png"
 
 const Header = () => {
   const location = useLocation(); // Hook para acessar a URL atual
@@ -12,9 +13,15 @@ const Header = () => {
   };
 
   return (
-    <Navbar bg="dark" variant="dark" expand="lg">
+    <Navbar bg="black" variant="dark" expand="lg">
       <Container>
-        <Navbar.Brand href="#home"><h1>Remnant 2</h1></Navbar.Brand>
+        <Navbar.Brand>
+          <Link to="/Home">
+            <h1 className='text-uppercase'>
+              <img className='logo-img' src={Logo} alt="Remnant 2 Logo" />
+            </h1>
+          </Link>
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
