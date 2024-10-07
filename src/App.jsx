@@ -10,7 +10,10 @@ function App() {
   return (
     <Router>
       <Header />
+
       <Routes>
+        <Route path="/" element={<Checklist />} />
+
         <Route path="/checklist" element={<Checklist />} />
         <Route path="/test123" element={<Test123 />} />
       </Routes>
