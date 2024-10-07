@@ -1,10 +1,21 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Header from './components/Header';
+import Checklist from './pages/Checklist';
+import Test123 from './pages/Test123';
 
 function App() {
-
   return (
-    <>
-    </>
-  )
+    <Router>
+      <Header />
+      <Routes>
+        <Route path="/checklist" element={<Checklist />} />
+        <Route path="/test123" element={<Test123 />} />
+      </Routes>
+    </Router>
+  );
 }
 
-export default App
+export default App;
