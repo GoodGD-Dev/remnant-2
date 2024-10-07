@@ -58,7 +58,7 @@ const Header = () => {
               Community
             </Nav.Link>
           </Nav>
-          <Form className="d-flex me-2">
+          <Form className="d-flex me-2 mt-3 mb-3 m-lg-0">
             <Form.Control
               type="search"
               placeholder="Search"
@@ -66,7 +66,7 @@ const Header = () => {
               aria-label="Search"
             />
           </Form>
-          <Form className="d-flex">
+          <Form className="d-flex justify-content-center">
             <Button variant="outline-light" className="me-2">Sign In</Button>
             <Button variant="outline-light">Sign Up</Button>
           </Form>
