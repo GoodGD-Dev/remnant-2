@@ -1,0 +1,26 @@
+/* Quando a página entra */
+.fade-enter {
+  opacity: 0;
+  transform: translateX(-50px) scale(0.95);
+  filter: blur(10px); /* Adiciona um leve desfoque */
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transform: translateX(0) scale(1);
+  filter: blur(0); /* Remove o desfoque */
+  transition: opacity 600ms ease, transform 600ms ease, filter 600ms ease;
+}
+
+/* Quando a página sai */
+.fade-exit {
+  opacity: 1;
+  transform: translateX(0) scale(1);
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transform: translateX(50px) scale(0.95);
+  filter: blur(10px); /* Aplica o desfoque na saída */
+  transition: opacity 600ms ease, transform 600ms ease, filter 600ms ease;
+}

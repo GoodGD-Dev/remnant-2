@@ -1,28 +1,19 @@
 /* style.css */
 
-
 /* Logo */
 .logo-img {
-  width: 150px; /* Ajuste o tamanho de acordo com a necessidade */
-  height: auto; /* Mantém a proporção da imagem */
+  width: 150px;
+  height: auto;
 }
 
-/* Estilo para a classe active */
-.nav-link.active {
-  color: #000000 !important; /* Altera a cor do texto para cinza quando ativo */
-  text-decoration: line-through; /* Risco na palavra */
-
-}
-
-/* Altera a cor dos links ao passar o mouse */
 .nav-link {
-  transition:  color 0.3s; /* Efeito de transição suave */
+  color: #fff;
+  transition:  color 0.3s;
 }
 
 .nav-link:hover {
-  color: #fff; /* Cor do texto ao passar o mouse */
-  text-shadow: 0 0 10px #fff,   /* Sombra branca suave */
-               0 0 20px #ffffff, /* Sombra colorida */
+  text-shadow: 0 0 10px #fff,
+               0 0 20px #ffffff,
                0 0 30px #000000, 
                0 0 40px #000000,
                0 0 50px #ffffff;

@@ -1,0 +1,199 @@
+{
+  "Stats": [
+    {
+      "general attributes": [
+        {
+          "nome": "Health",
+          "descricao": "indicates the total Health value of the player."
+        },
+        {
+          "nome": "Stamina",
+          "descricao": "indicates the total Stamina value of the player."
+        },
+        {
+          "nome": "Armor",
+          "descricao": "determines the overall value of the player's defensive armor. The higher this number, the less damage a player receives."
+        },
+        {
+          "nome": "Weight",
+          "descricao": "indicates the overall Encumbrance of the player's armor, which determines the type of Dodge and Stamina consumption.  ",
+          "tipos": [
+            {
+              "nome": "Light",
+              "valor": [
+                "0",
+                "25"
+              ],
+              "descricao": "Fast Dodge. No Stamina cost penality (average damage reduction: 25%)"
+            },
+            {
+              "nome": "Medium",
+              "valor": [
+                "26",
+                "50"
+              ],
+              "descricao": "Normal Dodge. 25% Stamina cost penality (average damage reduction: 30%)"
+            },
+            {
+              "nome": "Heavy",
+              "valor": [
+                "51",
+                "75"
+              ],
+              "descricao": "Slow Dodge. 50% Stamina cost penality (average damage reduction: 35%)"
+            },
+            {
+              "nome": "Ultra",
+              "valor": "76",
+              "descricao": "Flop. 75% Stamina cost penality (average damage reduction: 50%)"
+            }
+          ]
+        },
+        {
+          "nome": "Power Level",
+          "descricao": "a weighted average of your Archetype level and Weapon Level. Used to calculate the World Level (which Is usually 1 point above your Power Level)."
+        },
+        {
+          "nome": "Weapon Level",
+          "descricao": "a weighted average of the highest level weapon in each slot."
+        },
+        {
+          "nome": "Archetype Level",
+          "descricao": "the sum of the levels of your two highest level Archetypes."
+        },
+        {
+          "nome": "Total Archetype Level",
+          "descricao": "combined total of all Archetype levels. increases the quality of dropped Relic Fragments."
+        }
+      ],
+      "atk/def attributes": [
+        {
+          "nome": "Damage",
+          "descricao": "increases the damage you deal to Enemies. Specific types of damage can be boosted separately."
+        },
+        {
+          "nome": "Crit Chance",
+          "descricao": "determines the odds of acquiring a Critical Hit Chance on Enemies (added to the weapon's). Specific types of damage can have their Crit Chance boosted separately."
+        },
+        {
+          "nome": "Critical Damage",
+          "descricao": "determines the damage bonus dealt with Critical Hit Damage on enemies and/or bosses (+50% by default)."
+        },
+        {
+          "nome": "Damage Reduction (DR)",
+          "descricao": "Damage Reduction provided by effects."
+        },
+        {
+          "nome": "Armor DR",
+          "descricao": "Damage Reduction provided by your Armor."
+        },
+        {
+          "nome": "Total DR",
+          "descricao": "total amount of Damage Reduction from all sources up to a maximum of 80% (effect DR and armor DR stack multiplicatively)."
+        }
+      ],
+      "other attributes": [
+        {
+          "nome": "Healing Effectiveness",
+          "descricao": "increases the amount of healing provided to allies or yourself from any sources. "
+        },
+        {
+          "nome": "Stamina Regen",
+          "descricao": "determines the value of Stamina recovered per second after a player executes actions that consume the stamina bar."
+        },
+        {
+          "nome": "Gray Health",
+          "descricao": "Every time you are hit by an attack, or when you are suffering damage over time, a portion of your lost health points is converted to Grey Health. Grey health is lost if you are hit by another attack. "
+        },
+        {
+          "nome": "Gray Health Regen",
+          "descricao": "specifies the value of Gray Health recovered per second (0.2 by default). "
+        },
+        {
+          "nome": "Lifesteal",
+          "descricao": "determines the amount of base damage dealt that is returned to you as health. "
+        }
+      ],
+      "effects": [
+        {
+          "negative": [
+            {
+              "nome": "Bleeding",
+              "descricao": "deals bleed Damage over time and halves Total Healing Effectiveness."
+            },
+            {
+              "nome": "Burning",
+              "descricao": "deals fire Damage over time; some enemies may panic (removed faster by dodging)."
+            },
+            {
+              "nome": "Corroded",
+              "descricao": "deals acid Damage over time and increase damage taken by 10% (the defense reduction doesn't stack)."
+            },
+            {
+              "nome": "Exposed",
+              "descricao": "Target receives 15% additional damage from all sources."
+            },
+            {
+              "nome": "Madness",
+              "descricao": "Applies damage over time with the Fargazer Weapon Mod; stacks up to 10 times, each lasting 5 seconds. Damage and effects increase with more stacks. When applied to the player, it also slows movement and blurs vision. Stacks dissipate after 50 seconds if not reapplied."
+            },
+            {
+              "nome": "Overloaded",
+              "descricao": "deals shock Area Damage every 5 seconds over a certain duration; Damage increases by 10% for every other Overloaded enemy nearby."
+            },
+            {
+              "nome": "Slow",
+              "descricao": "reduces the target speed (ineffective against Bosses and Aberrations)."
+            }
+          ],
+          "blights": [
+            {
+              "nome": "Root Rot",
+              "descricao": "reduces maximum Stamina by 1/3 and forces coughing animation at random intervals; found on Yaesha; can be cured with Oilskin Balm; can be prevented by wearing the Rotward ring."
+            },
+            {
+              "nome": "Contamination",
+              "descricao": "inflicts a burst of damage; the bar immediately resets, allowing another instance to build-up. ",
+              "other type": [
+                {
+                  "nome": "Fog Contamination",
+                  "descricao": "while it is building up, it forces a vomiting animation at random intervals; once fully built up, it instantly kills the player; found across the soft boundaries in N'Erud open areas."
+                }
+              ]
+            },
+            {
+              "nome": "Curse",
+              "descricao": "reduces maximum Health by 10%; stackable 5 times (50% health suppression); found in Losomn; can be cured by drinking the water in fountains found accross the map, or with Purified Salve; can be prevented by wearing the Hex Ward ring."
+            },
+            {
+              "nome": "Fragmented",
+              "descricao": "Applied via the Defrag Weapon Mod; causes targets to drop a 'Glitch' on death. Collecting the Glitch boosts damage by 20% for 15 seconds. Destroying it creates a Virus Pool that damages and applies Fragmented to enemies. Can also be used by the Annihilation Boss."
+            },
+            {
+              "nome": "Suppression",
+              "descricao": "reduces Mod Power Generation by 50% and reduces Skill cooldowns by 100%; found on N'Erud; can be cured with Timeworn Unguent; can be prevented by wearing the Suppression Ward ring."
+            },
+            {
+              "nome": "Data Corruption",
+              "descricao": "prevents you from using skills or consumables; found on Root Earth."
+            },
+            {
+              "nome": "Root Fog",
+              "descricao": "inflicts 0.5 damage per 0.5 seconds; found on the Infested Abyss."
+            }
+          ],
+          "positive": [
+            {
+              "nome": "Bulwark",
+              "descricao": "increases Damage Reduction by 7%. Bonus DR decreases with each successive stack up to a maximum of 5 stacks (25% DR)"
+            },
+            {
+              "nome": "Haste",
+              "descricao": "increases all types of Speed (except movement speed) by 7%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
