@@ -1,10 +1,50 @@
 import React, { useState } from 'react';
 import { Col, Container, Nav, Row, Tab } from 'react-bootstrap';
 import { CSSTransition, SwitchTransition } from 'react-transition-group';
-import './style.css';  // Onde você define as animações em CSS
+import './style.css';
+
+import Summary from './components/Summary';
+import Weapons from './components/Weapons';
+import Mods from './components/Mods';
+import Mutators from './components/Mutators';
+import Armors from './components/Armors';
+import Amulets from './components/Amulets';
+import Rings from './components/Rings';
+import Relics from './components/Relics';
+import Classes from './components/Classes';
+import Traits from './components/Traits';
+
+const tapButtons = ["Summary", "Weapons", "Mods", "Mutators", "Armors", "Amulets", "Rings", "Relics", "Classes", "Traits"];
 
 function Checklist() {
   const [activeKey, setActiveKey] = useState('Summary');
+
+  const renderTabContent = () => {
+    switch (activeKey) {
+      case 'Summary':
+        return <Summary />;
+      case 'Weapons':
+        return <Weapons />;
+      case 'Mods':
+        return <Mods />;
+      case 'Mutators':
+        return <Mutators />;
+      case 'Armors':
+        return <Armors />;
+      case 'Amulets':
+        return <Amulets />;
+      case 'Rings':
+        return <Rings />;
+      case 'Relics':
+        return <Relics />;
+      case 'Classes':
+        return <Classes />;
+      case 'Traits':
+        return <Traits />;
+      default:
+        return null;
+    }
+  };
 
   return (
     <Tab.Container
@@ -15,7 +55,7 @@ function Checklist() {
       <Row>
         <Col>
           <Nav variant="tabs" className="justify-content-center flex-wrap mb-2">
-            {["Summary", "Weapons", "Mods", "Mutators", "Armors", "Amulets", "Rings", "Relics", "Classes", "Traits"].map((item) => (
+            {tapButtons.map((item) => (
               <Col xs={4} sm={4} lg={1} key={item}>
                 <Nav.Item>
                   <Nav.Link
@@ -41,26 +81,7 @@ function Checklist() {
                   timeout={150}
                 >
                   <Tab.Pane eventKey={activeKey} className="tab-pane">
-                    {activeKey === "Summary" && 
-                    <div>Summary tab content</div>}
-                    {activeKey === "Weapons" && 
-                    <div>Weapons tab content</div>}
-                    {activeKey === "Mods" && 
-                    <div>Mods tab content</div>}
-                    {activeKey === "Mutators" && 
-                    <div>Mutators tab content</div>}
-                    {activeKey === "Armors" && 
-                    <div>Armors tab content</div>}
-                    {activeKey === "Amulets" && 
-                    <div>Amulets tab content</div>}
-                    {activeKey === "Rings" && 
-                    <div>Rings tab content</div>}
-                    {activeKey === "Relics" && 
-                    <div>Relics tab content</div>}
-                    {activeKey === "Classes" && 
-                    <div>Classes tab content</div>}
-                    {activeKey === "Traits" && 
-                    <div>Traits tab content</div>}
+                    {renderTabContent()}
                   </Tab.Pane>
                 </CSSTransition>
               </SwitchTransition>

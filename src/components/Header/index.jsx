@@ -3,6 +3,8 @@ import { Link, useLocation } from 'react-router-dom';
 import './style.css';
 import Logo from "../../assets/remnant logo.png";
 
+const navButtons = ["Checklist", "Wiki", "Builds", "Community", "Search", "Sign In", "Sign Up"];
+
 const Header = () => {
   const location = useLocation(); // Hook para acessar a URL atual
 
@@ -29,7 +31,7 @@ const Header = () => {
               as={Link}
               to="/checklist"
               style={getActiveLinkStyle('/checklist')}>
-              Checklist
+              {navButtons[0]}
             </Nav.Link>
             <Nav.Link data-aos="fade-down" data-aos-duration="900"
               className="fs-5"
@@ -37,7 +39,7 @@ const Header = () => {
               to="/wiki"
               style={getActiveLinkStyle('/wiki')}
               disabled>
-              Wiki
+              {navButtons[1]}
             </Nav.Link>
             <Nav.Link data-aos="fade-down" data-aos-duration="1000"
               className="fs-5"
@@ -45,7 +47,7 @@ const Header = () => {
               to="/builds"
               style={getActiveLinkStyle('/builds')}
               disabled>
-              Builds
+              {navButtons[2]}
             </Nav.Link>
             <Nav.Link data-aos="fade-down" data-aos-duration="1100"
               className="fs-5"
@@ -53,20 +55,19 @@ const Header = () => {
               to="/community"
               style={getActiveLinkStyle('/community')}
               disabled>
-              Community
+              {navButtons[3]}
             </Nav.Link>
           </Nav>
           <Form className="d-flex me-2 mt-3 mb-3 m-lg-0" data-aos="fade-down" data-aos-duration="1200">
             <Form.Control
               type="search"
-              placeholder="Search"
+              placeholder={navButtons[4]}
               className="me-2"
-              aria-label="Search"
-            />
+              aria-label="Search"/>
           </Form>
           <Form className="d-flex justify-content-center" data-aos="fade-down" data-aos-duration="1300">
-            <Button variant="outline-light" className="me-2">Sign In</Button>
-            <Button variant="outline-light">Sign Up</Button>
+            <Button variant="outline-light" className="me-2">{navButtons[5]}</Button>
+            <Button variant="outline-light">{navButtons[6]}</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
