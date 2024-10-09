@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Header from './components/Header';
-import Checklist from './pages/Checklist';
-import Test123 from './pages/Test123';
+import Checklist from './routes/Checklist';
+import Test123 from './routes/Test123';
 
 function App() {
   return (
