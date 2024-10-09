@@ -19,6 +19,19 @@ const longGunsData = [
   }
 ];
 
+const specialLongGunsData = [
+  {
+    imgSrc: "https://via.placeholder.com/150?text=Long+Gun+1",
+    title: "Long Gun 1",
+    text: "Description of Long Gun 1."
+  },
+  {
+    imgSrc: "https://via.placeholder.com/150?text=Long+Gun+2",
+    title: "Long Gun 2",
+    text: "Description of Long Gun 2."
+  }
+];
+
 const renderCards = (data) => {
   return data.map((gun, index) => (
     <Col md={6} className="mb-4" key={index}>
@@ -46,7 +59,7 @@ const longGunsContent = (
     <Col md={6}>
       <h5 className="text-center">Special Long Guns</h5>
       <Row>
-        {renderCards(LongGunsData)}
+        {renderCards(specialLongGunsData)}
       </Row>
     </Col>
   </Row>
