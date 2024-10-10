@@ -1,5 +1,5 @@
 import { Col, Row, Tab, Card } from 'react-bootstrap';
-import weaponsData from '../../../../data/checklistdata.json';
+import weaponsData from '../../../../data/weapons.json';
 import Sidebar from '../../../../components/Sidebar';
 
 // Grupos de armas para os tabs
