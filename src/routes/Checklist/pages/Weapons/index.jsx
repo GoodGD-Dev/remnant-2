@@ -4,16 +4,18 @@ import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
 import Tab from 'react-bootstrap/Tab';
 import Card from 'react-bootstrap/Card';
-import weaponsData from '../../../../data/checklistdata.json'; // Substitua pelo caminho correto do seu JSON
+import weaponsData from '../../../../data/checklistdata.json';
+import './style.css';
 
+const labelGunsName = ["Long Guns", "Melee Weapons", "Hand Guns", "Corrupted Weapons"];
 const labelCheckGuns = [
-  "Long Guns", 
-  "Special Long Guns", 
-  "Melee Weapons", 
-  "Special Melee Weapons", 
-  "Hand Guns", 
-  "Special Hand Guns", 
-  "Corrupted Hand Guns", 
+  "Long Guns",
+  "Special Long Guns",
+  "Melee Weapons",
+  "Special Melee Weapons",
+  "Hand Guns",
+  "Special Hand Guns",
+  "Corrupted Hand Guns",
   "Corrupted Long Guns"
 ];
 
@@ -30,20 +32,16 @@ const extractWeapons = (data) => {
     "Corrupted Long Guns": []
   };
 
-  // Acessa as armas
   data.Weapons.forEach(category => {
     for (const categoryName in category) {
       const subCategories = category[categoryName];
 
-      // Acessa cada subcategoria
       subCategories.forEach(subCategory => {
         for (const subCatName in subCategory) {
           const weapons = subCategory[subCatName];
 
-          // Verifica se weapons é um array e itera sobre ele
           if (Array.isArray(weapons)) {
             weapons.forEach(weapon => {
-              // Adiciona a arma na categoria correta
               if (weaponsByCategory[categoryName]) {
                 weaponsByCategory[categoryName].push({
                   nome: weapon.nome,
@@ -68,7 +66,7 @@ const weaponsDataByCategory = extractWeapons(weaponsData);
 // Função para renderizar os cartões das armas
 const renderCards = (data) => {
   return data.map((gun, index) => (
-    <Col md={6} className="mb-4" key={index}>
+    <Col md={12} className="mb-4" key={index}>
       <Card>
         <Card.Img variant="top" src={gun.imagem} alt={gun.nome} />
         <Card.Body>
@@ -83,49 +81,66 @@ const renderCards = (data) => {
 
 // Definindo o conteúdo para as abas
 const weaponsTabs = [
-  { eventKey: "Tab 1", label: labelCheckGuns[0], content: (
+  { eventKey: "Tab 1", label: labelGunsName[0], content: (
       <Row>
-        {renderCards([
-          ...weaponsDataByCategory["Long Guns"],
-          ...weaponsDataByCategory["Special Long Guns"]
-        ])}
+        <Col md={6}>
+          <h5>Long Guns</h5>
+          {renderCards(weaponsDataByCategory["Long Guns"])}
+        </Col>
+        <Col md={6}>
+          <h5>Special Long Guns</h5>
+          {renderCards(weaponsDataByCategory["Special Long Guns"])}
+        </Col>
       </Row>
     ) 
   },
-  { eventKey: "Tab 2", label: labelCheckGuns[1], content: (
+  { eventKey: "Tab 2", label: labelGunsName[1], content: (
       <Row>
-        {renderCards([
-          ...weaponsDataByCategory["Melee Weapons"],
-          ...weaponsDataByCategory["Special Melee Weapons"] // Corrigido aqui
-        ])}
+        <Col md={6}>
+          <h5>Melee Weapons</h5>
+          {renderCards(weaponsDataByCategory["Melee Weapons"])}
+        </Col>
+        <Col md={6}>
+          <h5>Special Melee Weapons</h5>
+          {renderCards(weaponsDataByCategory["Special Melee Weapons"])}
+        </Col>
       </Row>
     ) 
   },
-  { eventKey: "Tab 3", label: labelCheckGuns[2], content: (
+  { eventKey: "Tab 3", label: labelGunsName[2], content: (
       <Row>
-        {renderCards([
-          ...weaponsDataByCategory["Hand Guns"],
-          ...weaponsDataByCategory["Special Hand Guns"]
-        ])}
+        <Col md={6}>
+          <h5>Hand Guns</h5>
+          {renderCards(weaponsDataByCategory["Hand Guns"])}
+        </Col>
+        <Col md={6}>
+          <h5>Special Hand Guns</h5>
+          {renderCards(weaponsDataByCategory["Special Hand Guns"])}
+        </Col>
       </Row>
     ) 
   },
-  { eventKey: "Tab 4", label: labelCheckGuns[3], content: (
+  { eventKey: "Tab 4", label: labelGunsName[3], content: (
       <Row>
-        {renderCards([
-          ...weaponsDataByCategory["Corrupted Hand Guns"], // Corrigido aqui
-          ...weaponsDataByCategory["Corrupted Long Guns"]
-        ])}
+        <Col md={6}>
+          <h5>Corrupted Hand Guns</h5>
+          {renderCards(weaponsDataByCategory["Corrupted Hand Guns"])}
+        </Col>
+        <Col md={6}>
+          <h5>Corrupted Long Guns</h5>
+          {renderCards(weaponsDataByCategory["Corrupted Long Guns"])}
+        </Col>
       </Row>
     ) 
   },
 ];
 
+// Componente Weapons
 function Weapons() {
   return (
     <Tab.Container id="left-tabs-example" defaultActiveKey="Tab 1">
       <Row>
-        <Col>
+        <Col className="sidebar" md={2}>
           <Nav variant="pills" className="flex-column">
             {weaponsTabs.map(({ eventKey, label }) => (
               <Nav.Item key={eventKey}>

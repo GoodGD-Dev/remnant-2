@@ -1,0 +1,16 @@
+.sidebar {
+ margin-bottom: 1rem; 
+}
+
+@media (min-width: 1025px) {
+  .sidebar {
+    position: sticky;
+    top: 60px;
+    height: calc(100vh - 60px);
+    overflow-y: auto;
+    background-color: #fff;
+    border-right: 1px solid #dee2e6;
+    margin-bottom: 0rem; 
+  }
+}
+

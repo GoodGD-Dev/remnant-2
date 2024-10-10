@@ -1,3 +1,4 @@
+// src/App.js
 import { useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
@@ -9,6 +10,7 @@ import './App.css';
 import Header from './components/Header';
 import Home from './routes/Home';
 import Checklist from './routes/Checklist';
+import BackToTop from './components/BackToTop'; // Importe o novo componente
 
 function App() {
   useEffect(() => {
@@ -29,6 +31,7 @@ function App() {
           </Routes>
         </CSSTransition>
       </TransitionGroup>
+      <BackToTop />
     </>
   );
 }
