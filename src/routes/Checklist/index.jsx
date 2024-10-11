@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Col, Nav, Row, Tab } from 'react-bootstrap';
+import React, { useState } from 'react';
+import { Nav } from 'react-bootstrap';
 import { CSSTransition, SwitchTransition } from 'react-transition-group';
 import './style.css';
 
@@ -14,79 +14,62 @@ import Relics from './pages/Relics';
 import Classes from './pages/Classes';
 import Traits from './pages/Traits';
 
-const tapButtons = ["Summary", "Weapons", "Mods", "Mutators", "Armors", "Amulets", "Rings", "Relics", "Classes", "Traits"];
+const tabConfig = [
+  { key: 'Summary', Component: Summary },
+  { key: 'Weapons', Component: Weapons },
+  { key: 'Mods', Component: Mods },
+  { key: 'Mutators', Component: Mutators },
+  { key: 'Armors', Component: Armors },
+  { key: 'Amulets', Component: Amulets },
+  { key: 'Rings', Component: Rings },
+  { key: 'Relics', Component: Relics },
+  { key: 'Classes', Component: Classes },
+  { key: 'Traits', Component: Traits },
+];
+
+const TabNavigation = ({ activeKey, onSelect }) => (
+  <Nav 
+    variant="tabs" 
+    className="justify-content-center flex-wrap mb-2" 
+    style={{ position: 'sticky', top: '0', background: 'white', zIndex: 1 }}
+  >
+    {tabConfig.map(({ key }) => (
+      <Nav.Item key={key}>
+        <Nav.Link
+          eventKey={key}
+          active={activeKey === key}
+          onClick={() => onSelect(key)}
+          className="text-dark nav-link--black"
+        >
+          {key}
+        </Nav.Link>
+      </Nav.Item>
+    ))}
+  </Nav>
+);
+
+const TabContent = ({ activeKey }) => {
+  const { Component } = tabConfig.find(tab => tab.key === activeKey) || {};
+  
+  return (
+    <SwitchTransition>
+      <CSSTransition key={activeKey} classNames="fade" timeout={150}>
+        <div className="tab-pane">
+          {Component && <Component />}
+        </div>
+      </CSSTransition>
+    </SwitchTransition>
+  );
+};
 
 function Checklist() {
   const [activeKey, setActiveKey] = useState('Summary');
 
-  const renderTabContent = () => {
-    switch (activeKey) {
-      case 'Summary':
-        return <Summary />;
-      case 'Weapons':
-        return <Weapons />;
-      case 'Mods':
-        return <Mods />;
-      case 'Mutators':
-        return <Mutators />;
-      case 'Armors':
-        return <Armors />;
-      case 'Amulets':
-        return <Amulets />;
-      case 'Rings':
-        return <Rings />;
-      case 'Relics':
-        return <Relics />;
-      case 'Classes':
-        return <Classes />;
-      case 'Traits':
-        return <Traits />;
-      default:
-        return null;
-    }
-  };
-
   return (
-      <>
-        {/* Barra de Navegação Horizontal */}
-      <Nav variant="tabs" className="justify-content-center flex-wrap mb-2" style={{ position: 'sticky', top: '0', background: 'white', zIndex: 1 }}>
-        {tapButtons.map((item) => (
-          <Nav.Item key={item}>
-            <Nav.Link
-              eventKey={item}
-              className="text-dark nav-link--black"
-              onClick={() => setActiveKey(item)} // Altera o estado ao clicar
-            >
-              {item}
-            </Nav.Link>
-          </Nav.Item>
-        ))}
-      </Nav>
-
-      <Tab.Container
-        id="horizontal-tabs"
-        activeKey={activeKey}
-        onSelect={(k) => setActiveKey(k)}
-      >
-        <Row>
-          <Col>
-              <Tab.Content>
-                <SwitchTransition>
-                  <CSSTransition
-                    key={activeKey}
-                    classNames="fade"
-                    timeout={150}
-                  >
-                    <Tab.Pane eventKey={activeKey} className="tab-pane">
-                      {renderTabContent()}
-                    </Tab.Pane>
-                  </CSSTransition>
-                </SwitchTransition>
-              </Tab.Content>
-          </Col>
-        </Row>
-      </Tab.Container>
-      </>
+    <>
+      <TabNavigation activeKey={activeKey} onSelect={setActiveKey} />
+      <TabContent activeKey={activeKey} />
+    </>
   );
 }
 

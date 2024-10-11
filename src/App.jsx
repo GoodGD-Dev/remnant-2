@@ -1,11 +1,10 @@
 import { useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './App.css';
-
 import Header from './components/Header';
 import Home from './routes/Home';
 import Checklist from './routes/Checklist';
@@ -16,31 +15,30 @@ function App() {
     AOS.init({ duration: 500 });
   }, []);
 
-  // Obtenha a localização atual
-  const location = useLocation();
-
-  return (
-    <>
-      <Header />
-      <TransitionGroup>
-        <CSSTransition key={location.key} classNames="fade" timeout={300}>
-          <Routes location={location}>
-            <Route path="/" element={<Home />} />
-            <Route path="/checklist" element={<Checklist />} />
-          </Routes>
-        </CSSTransition>
-      </TransitionGroup>
-      <BackToTop />
-    </>
-  );
-}
-
-function MainApp() {
   return (
     <Router>
-      <App />
+      <Header />
+      <Routes>
+        {[
+          { path: "/", element: <Home /> },
+          { path: "/checklist", element: <Checklist /> }
+        ].map(({ path, element }) => (
+          <Route
+            key={path}
+            path={path}
+            element={
+              <TransitionGroup>
+                <CSSTransition key={path} classNames="fade" timeout={300}>
+                  {element}
+                </CSSTransition>
+              </TransitionGroup>
+            }
+          />
+        ))}
+      </Routes>
+      <BackToTop />
     </Router>
   );
 }
 
-export default MainApp;
+export default App;
