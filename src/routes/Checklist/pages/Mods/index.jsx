@@ -10,10 +10,11 @@ const Mods = () => {
     { 
       label: 'Tap 2', 
       subOptions: [
-        { label: 'Sub-option 1', value: 'sub1' },
-        { label: 'Sub-option 2', value: 'sub2' }
+        { label: 'test', value: 'sub1' },
+        { label: 'St', value: 'sub2' }
       ]
-    }
+    },
+    { label: 'Tap 3', value: 'tap3' },
   ];
 
   // Função para renderizar o conteúdo com base na seleção
@@ -25,6 +26,8 @@ const Mods = () => {
         return <div>Content for Sub-option 1 under Tap 2</div>;
       case 'sub2':
         return <div>Content for Sub-option 2 under Tap 2</div>;
+      case 'tap3':
+        return <div>Principal Content for Tap 3</div>;
       default:
         return <div>Principal Content for Tap 1</div>;
     }
