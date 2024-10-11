@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Col, Container, Nav, Row, Tab } from 'react-bootstrap';
+import { Col, Nav, Row, Tab } from 'react-bootstrap';
 import { CSSTransition, SwitchTransition } from 'react-transition-group';
 import './style.css';
 
@@ -47,8 +47,8 @@ function Checklist() {
   };
 
   return (
-    <Container>
-      {/* Barra de Navegação Horizontal */}
+      <>
+        {/* Barra de Navegação Horizontal */}
       <Nav variant="tabs" className="justify-content-center flex-wrap mb-2" style={{ position: 'sticky', top: '0', background: 'white', zIndex: 1 }}>
         {tapButtons.map((item) => (
           <Nav.Item key={item}>
@@ -70,7 +70,6 @@ function Checklist() {
       >
         <Row>
           <Col>
-            <Container>
               <Tab.Content>
                 <SwitchTransition>
                   <CSSTransition
@@ -84,11 +83,10 @@ function Checklist() {
                   </CSSTransition>
                 </SwitchTransition>
               </Tab.Content>
-            </Container>
           </Col>
         </Row>
       </Tab.Container>
-    </Container>
+      </>
   );
 }
 
