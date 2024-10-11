@@ -1,0 +1,68 @@
+/* Estilos para a sidebar */
+.sidebar {
+  width: 250px;
+  border: 1px solid #ccc;
+}
+
+/* Título da sidebar */
+.sidebar-title {
+  color: #333;
+}
+
+/* Dropdown toggle personalizado */
+.dropdown-toggle-custom {
+  background-color: transparent;
+  color: #333;
+  border: 1px solid #ccc;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+/* Item do dropdown */
+.dropdown-item-custom {
+  color: #333;
+}
+
+/* Link de navegação personalizado */
+.nav-link-custom {
+  background-color: transparent;
+  color: #333;
+  border: 1px solid #ccc;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  border-radius: 5px;
+  margin-bottom: 8px;
+}
+
+/* Estilo para o item ativo */
+.active-item {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Campo de busca */
+.search-input {
+  background-color: transparent;
+  color: #333;
+  border: 1px solid #ccc;
+}
+
+a.nav-link-custom.active-item.nav-link {
+  color: #fff
+}
+
+.btn-check:checked + .btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check) + .btn:active,
+.dropdown-toggle-custom:hover,
+.nav-link-custom:hover,
+.dropdown-item-custom:hover {
+  background-color: #525151;
+  color: #fff;
+  border-color: #bbb;
+}
