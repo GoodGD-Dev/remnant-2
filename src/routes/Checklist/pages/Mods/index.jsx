@@ -1,6 +1,5 @@
 import React, { useState, useMemo } from 'react';
 import Sidebar from '../../../../components/Sidebar';
-import FourCards from '../../../../components/FourCards';
 
 const Mods = () => {
   const [content, setContent] = useState('tap1');
@@ -17,25 +16,18 @@ const Mods = () => {
     { label: 'Tap 3', value: 'tap3' },
   ], []);
 
-  const cardData = useMemo(() => [
-    { title: 'Card 1', description: 'Description for card 1', image: 'https://via.placeholder.com/150', link: '#' },
-    { title: 'Card 2', description: 'Description for card 2', image: 'https://via.placeholder.com/150', link: '#' },
-    { title: 'Card 3', description: 'Description for card 3', image: 'https://via.placeholder.com/150', link: '#' },
-    { title: 'Card 4', description: 'Description for card 4', image: 'https://via.placeholder.com/150', link: '#' },
-    { title: 'Card 5', description: 'Description for card 5', image: 'https://via.placeholder.com/150', link: '#' },
-  ], []);
 
-  const contentMap = useMemo(() => ({
-    tap1: <FourCards cards={cardData} />,
+  const contentMap = {
+    tap1: <div>Content for tab1</div>,
     sub1: <div>Content for Sub-option 1 under Tap 2</div>,
     sub2: <div>Content for Sub-option 2 under Tap 2</div>,
     tap3: <div>Principal Content for Tap 3</div>
-  }), [cardData]);
+  };
 
   return (
     <div className="d-flex">
       <Sidebar menuItems={menuItems} setContent={setContent} />
-      <div className="p-4" style={{ flexGrow: 1 }}>
+      <div className="p-4">
         {contentMap[content] || <div>Content not found</div>}
       </div>
     </div>
