@@ -128,5 +128,4 @@ Sidebar.propTypes = {
   })).isRequired, // A lista de menuItems é um array de objetos com a estrutura descrita
   setContent: PropTypes.func.isRequired, // Função que define o conteúdo é obrigatória
 };
-
 export default Sidebar;

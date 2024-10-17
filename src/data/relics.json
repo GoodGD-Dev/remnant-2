@@ -1,176 +1,172 @@
 {
-  "Relics": [
+  "Game Base": [
     {
-      "Game Base": [
-        {
-          "nome": "Blooming Heart",
-          "descricao": "On use, heals the user for 35% of caster's Max Health over 5s. Spawns 3 Healing Orbs which grant 35% of caster's Max Health over 5s. Orbs last 20s. Recasting removes previous Orbs",
-          "link": "https://remnant2.wiki.fextralife.com/Blooming+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blooming_heart_relic_items_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Constrained Heart",
-          "descricao": "On use regenerates 20 Health per second for 5s and grants 2 Stacks of Bulwark while heal is active.",
-          "link": "https://remnant2.wiki.fextralife.com/Constrained+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/constrained_heart-removebg-preview.png"
-        },
-        {
-          "nome": "Crystal Heart",
-          "descricao": "On use, regenerates 100% of Max Health over 10s, Movement Speed is reduced by 50%, and incoming damage is reduced by 25%. Lasts 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Crystal+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crystal_heart_relic_items_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Decayed Heart",
-          "descricao": "On use, causes the next 3 instances of enemy damage taken to trigger 40 Health regeneration over 3s. Lasts 30s.",
-          "link": "https://remnant2.wiki.fextralife.com/Decayed+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/decayed_heart_relic_items_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Diverting Heart",
-          "descricao": "Does not provide standard healing. On use, reduces Skill Cooldowns by 1s per second. Lasts 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Diverting+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/diverting_heart_removebg_200px.png"
-        },
-        {
-          "nome": "Dragon Heart",
-          "descricao": "On use, heals 70 Health over 0.5s",
-          "link": "https://remnant2.wiki.fextralife.com/Dragon+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dragon_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Enlarged Heart",
-          "descricao": "Innate double use speed. On use, heals 140 health over 0.5s. Relic capacity is halved.",
-          "link": "https://remnant2.wiki.fextralife.com/Enlarged+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/enlarged_heart-removebg-preview.png"
-        },
-        {
-          "nome": "Lifeless Heart",
-          "descricao": "Innate 50% Use Speed Bonus, but provides no healing. Relic capacity is doubled.",
-          "link": "https://remnant2.wiki.fextralife.com/Lifeless+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lifeless_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Pulsing Heart",
-          "descricao": "On use, pulses every 3s, healing allies within 7m for 20 Health over 0.5s per pulse. Lasts 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Pulsing+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulsing_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Quilted Heart",
-          "descricao": "Does not provide standard healing. On use, negates Stamina Drain and cause Evades to heal for 15 Health over 0.25s. Lasts 20s.",
-          "link": "https://remnant2.wiki.fextralife.com/Quilted+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/quilted_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Reprocessed Heart",
-          "descricao": "On use, converts 5 Health to 40 Mod Power per second for 25s for Both Weapons. Cannot die from conversion.",
-          "link": "https://remnant2.wiki.fextralife.com/Reprocessed+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reprocessed_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Resonating Heart",
-          "descricao": "On use, regenerates 50% of Max Health over 5s. When heal ends, any overhealed Health is Doubled and awarded over the next 20s.",
-          "link": "https://remnant2.wiki.fextralife.com/Resonating+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/resonating_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ripened Heart",
-          "descricao": "On use, heals 35 Health over 0.5s and an additional 70 over 5s.",
-          "link": "https://remnant2.wiki.fextralife.com/Ripened+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ripened_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Runed Heart",
-          "descricao": "On use, increases Health Regeneration by 5 and generates 500 Mod Power over 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Runed+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/runed_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Salvaged Heart",
-          "descricao": "Innate 25% Use Speed bonus. On use, heals 30 Health over 0.25s and restore 300% of current Grey Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Salvaged+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/salvaged_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Shielded Heart",
-          "descricao": "On use, grants a Shield for 100% of Max Health. Lasts 20s or until Shield is removed by damage",
-          "link": "https://remnant2.wiki.fextralife.com/Shielded+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shielded_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Siphon Heart",
-          "descricao": "On use, grants 10% of base damage dealt as Lifesteal for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Siphon+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphon_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Tormented Heart",
-          "descricao": "Innate 25% Use Speed bonus. On use, deals 240 Explosive damage to enemies within 10m and Lifesteals 20% of damage dealt. ",
-          "link": "https://remnant2.wiki.fextralife.com/Tormented+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tormented_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Tranquil Heart",
-          "descricao": "Passively grants 2 Health Regeneration per second. On use, doubles All Health Regeneration for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Tranquil+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tranquil_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Unsullied Heart",
-          "descricao": "On use, heals for 100% of Current Health over 0.5s.",
-          "link": "https://remnant2.wiki.fextralife.com/Unsullied+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/unsullied_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Void Heart",
-          "descricao": "On use, reduces incoming damage by 50% for 4s. When buff ends, heals 100% of missing Health over 0.75s.",
-          "link": "https://remnant2.wiki.fextralife.com/Void+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/void_heart_relic_remnant2_wiki_guide_200px.png"
-        }
-      ],
-      "The Awakened King": [
-        {
-          "nome": "Broken Heart",
-          "descricao": "Innate 50% Use Speed Bonus. - 2 Health Regen above 50% Health. On use, sets current Health to 50% of max Health over 0.25s.",
-          "link": "https://remnant2.wiki.fextralife.com/Broken+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/broken_heart_relic_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Paper Heart",
-          "descricao": "Heals for 100% max health over 0.1s. Grants 10 Stacks of (Paper Health). Dealing 75 Base Damage of any Damage Type Removes 1 Stack of “Paper Health”. After 15s, remaining Stacks are converted to Grey Health (10% per Stack)",
-          "link": "https://remnant2.wiki.fextralife.com/Paper+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/paper_heart_relic_remnant2_wiki_guide_200px.png"
-        }
-      ],
-      "The Forgotten Kingdom": [
-        {
-          "nome": "Bloodless Heart",
-          "descricao": "Innate 50% Use Speed bonus. On use, grants a SHIELD that prevents nearly all damage for 3s. Cannot prevent certain death mechanics.",
-          "link": "https://remnant2.wiki.fextralife.com/Bloodless+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodless_heart_relic_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Profane Heart",
-          "descricao": "Innate 3% Lifesteal bonus. On use, increases all Lifesteal Efficacy by 50% for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Profane+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/profane_heart_relic_remnant2_the_forgotten_kingdom_200px.png"
-        }
-      ],
-      "The Dark Horizon": [
-        {
-          "nome": "Gossamer Heart",
-          "descricao": "Innate base Evade Window Frames Increased by 1. On use. Increases Evade Window Bonus Frames by an additional 2 for 15s",
-          "link": "https://remnant2.wiki.fextralife.com/Gossamer+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gossamer_heart_relics_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Latent Heart",
-          "descricao": "On use, absorbs 95% incoming damage for 5s. Upon expiring, the absorbed damage is then applied to the wearer at a rate of 10% of the total absorbed damage per second, at the rate of 10% of the total absorbed damage per second for 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Latent+Heart",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/latent_heart_relics_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        }
-      ]
+      "nome": "Blooming Heart",
+      "descricao": "On use, heals the user for 35% of caster's Max Health over 5s. Spawns 3 Healing Orbs which grant 35% of caster's Max Health over 5s. Orbs last 20s. Recasting removes previous Orbs",
+      "link": "https://remnant2.wiki.fextralife.com/Blooming+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blooming_heart_relic_items_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Constrained Heart",
+      "descricao": "On use regenerates 20 Health per second for 5s and grants 2 Stacks of Bulwark while heal is active.",
+      "link": "https://remnant2.wiki.fextralife.com/Constrained+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/constrained_heart-removebg-preview.png"
+    },
+    {
+      "nome": "Crystal Heart",
+      "descricao": "On use, regenerates 100% of Max Health over 10s, Movement Speed is reduced by 50%, and incoming damage is reduced by 25%. Lasts 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Crystal+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crystal_heart_relic_items_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Decayed Heart",
+      "descricao": "On use, causes the next 3 instances of enemy damage taken to trigger 40 Health regeneration over 3s. Lasts 30s.",
+      "link": "https://remnant2.wiki.fextralife.com/Decayed+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/decayed_heart_relic_items_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Diverting Heart",
+      "descricao": "Does not provide standard healing. On use, reduces Skill Cooldowns by 1s per second. Lasts 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Diverting+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/diverting_heart_removebg_200px.png"
+    },
+    {
+      "nome": "Dragon Heart",
+      "descricao": "On use, heals 70 Health over 0.5s",
+      "link": "https://remnant2.wiki.fextralife.com/Dragon+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dragon_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Enlarged Heart",
+      "descricao": "Innate double use speed. On use, heals 140 health over 0.5s. Relic capacity is halved.",
+      "link": "https://remnant2.wiki.fextralife.com/Enlarged+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/enlarged_heart-removebg-preview.png"
+    },
+    {
+      "nome": "Lifeless Heart",
+      "descricao": "Innate 50% Use Speed Bonus, but provides no healing. Relic capacity is doubled.",
+      "link": "https://remnant2.wiki.fextralife.com/Lifeless+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lifeless_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Pulsing Heart",
+      "descricao": "On use, pulses every 3s, healing allies within 7m for 20 Health over 0.5s per pulse. Lasts 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Pulsing+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulsing_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Quilted Heart",
+      "descricao": "Does not provide standard healing. On use, negates Stamina Drain and cause Evades to heal for 15 Health over 0.25s. Lasts 20s.",
+      "link": "https://remnant2.wiki.fextralife.com/Quilted+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/quilted_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Reprocessed Heart",
+      "descricao": "On use, converts 5 Health to 40 Mod Power per second for 25s for Both Weapons. Cannot die from conversion.",
+      "link": "https://remnant2.wiki.fextralife.com/Reprocessed+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reprocessed_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Resonating Heart",
+      "descricao": "On use, regenerates 50% of Max Health over 5s. When heal ends, any overhealed Health is Doubled and awarded over the next 20s.",
+      "link": "https://remnant2.wiki.fextralife.com/Resonating+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/resonating_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ripened Heart",
+      "descricao": "On use, heals 35 Health over 0.5s and an additional 70 over 5s.",
+      "link": "https://remnant2.wiki.fextralife.com/Ripened+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ripened_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Runed Heart",
+      "descricao": "On use, increases Health Regeneration by 5 and generates 500 Mod Power over 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Runed+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/runed_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Salvaged Heart",
+      "descricao": "Innate 25% Use Speed bonus. On use, heals 30 Health over 0.25s and restore 300% of current Grey Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Salvaged+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/salvaged_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Shielded Heart",
+      "descricao": "On use, grants a Shield for 100% of Max Health. Lasts 20s or until Shield is removed by damage",
+      "link": "https://remnant2.wiki.fextralife.com/Shielded+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shielded_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Siphon Heart",
+      "descricao": "On use, grants 10% of base damage dealt as Lifesteal for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Siphon+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphon_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Tormented Heart",
+      "descricao": "Innate 25% Use Speed bonus. On use, deals 240 Explosive damage to enemies within 10m and Lifesteals 20% of damage dealt. ",
+      "link": "https://remnant2.wiki.fextralife.com/Tormented+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tormented_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Tranquil Heart",
+      "descricao": "Passively grants 2 Health Regeneration per second. On use, doubles All Health Regeneration for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Tranquil+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tranquil_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Unsullied Heart",
+      "descricao": "On use, heals for 100% of Current Health over 0.5s.",
+      "link": "https://remnant2.wiki.fextralife.com/Unsullied+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/unsullied_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Void Heart",
+      "descricao": "On use, reduces incoming damage by 50% for 4s. When buff ends, heals 100% of missing Health over 0.75s.",
+      "link": "https://remnant2.wiki.fextralife.com/Void+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/void_heart_relic_remnant2_wiki_guide_200px.png"
+    }
+  ],
+  "The Awakened King": [
+    {
+      "nome": "Broken Heart",
+      "descricao": "Innate 50% Use Speed Bonus. - 2 Health Regen above 50% Health. On use, sets current Health to 50% of max Health over 0.25s.",
+      "link": "https://remnant2.wiki.fextralife.com/Broken+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/broken_heart_relic_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Paper Heart",
+      "descricao": "Heals for 100% max health over 0.1s. Grants 10 Stacks of (Paper Health). Dealing 75 Base Damage of any Damage Type Removes 1 Stack of “Paper Health”. After 15s, remaining Stacks are converted to Grey Health (10% per Stack)",
+      "link": "https://remnant2.wiki.fextralife.com/Paper+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/paper_heart_relic_remnant2_wiki_guide_200px.png"
+    }
+  ],
+  "The Forgotten Kingdom": [
+    {
+      "nome": "Bloodless Heart",
+      "descricao": "Innate 50% Use Speed bonus. On use, grants a SHIELD that prevents nearly all damage for 3s. Cannot prevent certain death mechanics.",
+      "link": "https://remnant2.wiki.fextralife.com/Bloodless+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodless_heart_relic_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Profane Heart",
+      "descricao": "Innate 3% Lifesteal bonus. On use, increases all Lifesteal Efficacy by 50% for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Profane+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/profane_heart_relic_remnant2_the_forgotten_kingdom_200px.png"
+    }
+  ],
+  "The Dark Horizon": [
+    {
+      "nome": "Gossamer Heart",
+      "descricao": "Innate base Evade Window Frames Increased by 1. On use. Increases Evade Window Bonus Frames by an additional 2 for 15s",
+      "link": "https://remnant2.wiki.fextralife.com/Gossamer+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gossamer_heart_relics_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Latent Heart",
+      "descricao": "On use, absorbs 95% incoming damage for 5s. Upon expiring, the absorbed damage is then applied to the wearer at a rate of 10% of the total absorbed damage per second, at the rate of 10% of the total absorbed damage per second for 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Latent+Heart",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/latent_heart_relics_remnant2_the_dark_horizon_wiki_guide_200px.png"
     }
   ]
 }

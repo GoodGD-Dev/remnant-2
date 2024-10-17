@@ -1,1364 +1,1360 @@
 {
-  "Rings": [
+  "Game Base": [
     {
-      "Game Base": [
-        {
-          "nome": "Acid Stone",
-          "descricao": "Increases ACID damage by 15% and ACID Resistance by 20.",
-          "link": "https://remnant2.wiki.fextralife.com/Acid+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/acid_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ahanae Crystal",
-          "descricao": "Deal 5% additional damage for each Status Effect the target is suffering from",
-          "link": "https://remnant2.wiki.fextralife.com/Ahanae+Crystal",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anahae_crystal_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Akari War Band",
-          "descricao": "Perfect Dodges increase Critical Chance by 10% and Critical Damage by 10% for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Akari+War+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/akari_war_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Alchemy Stone",
-          "descricao": "Increases base Lifesteal by 6% while suffering from a negative STATUS or BLIGHT Effect.",
-          "link": "https://remnant2.wiki.fextralife.com/Alchemy+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alchemy_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Alumni Ring",
-          "descricao": "Increases all Elemental damage dealt by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Alumni+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alumini_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Amber Moonstone",
-          "descricao": "When the wearer's Health drops below 35%, all incoming damage is reduced by 25% and the wearer becomes immune to Temporary Status Effects.",
-          "link": "https://remnant2.wiki.fextralife.com/Amber+Moonstone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/amber_moonstone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Anastasija's Inspiration",
-          "descricao": "When receiving healing effects, gain HASTE for 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Anastasija's+Inspiration",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anastajias_inspiration_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Archer's Crest",
-          "descricao": "Increases Projectile Speed by 20% and Decreases Weapon Charge Time by 25%.",
-          "link": "https://remnant2.wiki.fextralife.com/Archer's+Crest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/archers_crest_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Assassin's Seal",
-          "descricao": "Reduces enemy Awareness Range by 25%. Increases all damage dealt to enemies not targeting wearer by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Assassin's+Seal",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/assassins_seal_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Band Band",
-          "descricao": "Increases Speed of Revive and being Revived by 35%. Increases Downed Health and Downed Movement Speed by 100%.",
-          "link": "https://remnant2.wiki.fextralife.com/Band+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Band of Accord",
-          "descricao": "Ammo acquired on pickup is increased by 50% per ally also wearing this ring and is shared with other allies.",
-          "link": "https://remnant2.wiki.fextralife.com/Band+of+Accord",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_of_accord_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Berserker's Crest",
-          "descricao": "Increases Melee Charge Speed by 10% and reduces Melee Stamina Cost by 30%.",
-          "link": "https://remnant2.wiki.fextralife.com/Berserker's+Crest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/berserkers_crest_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Bisected Ring",
-          "descricao": "Gain Infinite Stamina. All damage received is increased by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Bisected+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bisected_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Black Cat Band",
-          "descricao": "When taking fatal damage, instead of dying, the wearer's Health will drop to 1, and Movement Speed will increase by 25% for 10s. 2m cooldown.",
-          "link": "https://remnant2.wiki.fextralife.com/Black+Cat+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_cat_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Black Pawn Stamp",
-          "descricao": "Reduces Cooldowns of Skills by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Black+Pawn+Stamp",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_pawn_stamp_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Blackout Ring",
-          "descricao": "Increases Reload Speed by 3%. for every 20% of Magazine missing.",
-          "link": "https://remnant2.wiki.fextralife.com/Blackout+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackout_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Blasting Cap Ring",
-          "descricao": "Increases Explosive damage by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Blasting+Cap+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blasting_cap_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Blessed Ring",
-          "descricao": "After receiving a benefit from a Relic, gain 2 Stacks of BULWARK for 30s.",
-          "link": "https://remnant2.wiki.fextralife.com/Blessed+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blessed_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Blood Jewel",
-          "descricao": "Charged Melee Attacks apply BLEEDING, dealing 460 BLEED damage over 20s.",
-          "link": "https://remnant2.wiki.fextralife.com/Blood+Jewel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_jewel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Blood Tinged Ring",
-          "descricao": "Gain 2 Health Regeneration per second when within 25m of a BLEEDING entity.",
-          "link": "https://remnant2.wiki.fextralife.com/Blood+Tinged+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_tinged_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Booster Ring",
-          "descricao": "Increases all Status Resistances by 25.",
-          "link": "https://remnant2.wiki.fextralife.com/Booster+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/booster_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Braided Thorns",
-          "descricao": "Increases Critical Chance by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Braided+Thorns",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/braided_thorns_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Audacious",
-          "descricao": "Decreases all healing by 50%. Perfect Dodges heal for 25% of Max Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Audacious",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_audacious_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Destroyer",
-          "descricao": "Decreases Ideal Range of all Firearms by 35%. Increases all damage dealt by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Destroyer",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_destroyer_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Divine",
-          "descricao": "All damage dealt by wearer is reduced by 15%. 30% of self healing applies to allies.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Divine",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_divine_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Follower",
-          "descricao": "Reduces Fire Rate by 15%. Increases Mod Power Generation by 30%.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Follower",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_follower_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Gambler",
-          "descricao": "Disables Weakspots. Increases Critical Chance by 10% and Critical Damage by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Gambler",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_gambler_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Mariner",
-          "descricao": "Increases Skill Cooldowns by 15%. Generate 15% additional Mod Power for each Skill on Cooldown.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mariner",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mariner_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Rebel",
-          "descricao": "Reduces Relic Use Speed by 25%. Reduces Skill Cooldowns by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Rebel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_rebel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Stargazer",
-          "descricao": "Reduces Skill Cooldowns by 15%. Activating a Skill costs 15% Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Stargazer",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_stargazer_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Burden of the Warlock",
-          "descricao": "Reduces Mod Power Requirement by 15%. Activating a Mod costs 15% Health as Grey Health. Activation cannot kill wearer.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Warlock",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_warlock_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Captain's Insignia",
-          "descricao": "Increases Revive Speed and Relic Consume Speed by 25% per downed or dead ally. Max 2 stacks.",
-          "link": "https://remnant2.wiki.fextralife.com/Captain's+Insignia",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/captains_insignia_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Cataloger's Jewel",
-          "descricao": "Automatically generates 10 Mod Power per second.",
-          "link": "https://remnant2.wiki.fextralife.com/Cataloger's+Jewel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/catalogers_jewel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Celerity Stone",
-          "descricao": "Increases Consumable and Relic Use Speed by 25%.",
-          "link": "https://remnant2.wiki.fextralife.com/Celerity+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/celerity_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Compulsion Loop",
-          "descricao": "After killing an enemy, gain 5% Fire Rate and Melee Attack Speed for 10s. Stacks 3x.",
-          "link": "https://remnant2.wiki.fextralife.com/Compulsion+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/compulsion_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Conservation Seal",
-          "descricao": "For every 10% of Health missing  (Max 50%) gain 10% chance to not consume Relic and 5% increased Relic Efficacy on next use.",
-          "link": "https://remnant2.wiki.fextralife.com/Conservation+Seal",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conservation_seal_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Constant Variable Ring",
-          "descricao": "Increases Ranged damage up to 20% based on current Weapon's Overheat value.",
-          "link": "https://remnant2.wiki.fextralife.com/Constant+Variable+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/constant_variable_rings_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dead King's Memento",
-          "descricao": "Increases Health by 15.",
-          "link": "https://remnant2.wiki.fextralife.com/Dead+King's+Memento",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dead_kings_memento_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Deceiver's Band",
-          "descricao": "After performing a Slide, gain 15% Evade Speed and 10% Movement Speed for 12s.",
-          "link": "https://remnant2.wiki.fextralife.com/Deceiver's+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deceivers_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Deep Pocket Ring",
-          "descricao": "Increases Ammo Reserves by 35%.",
-          "link": "https://remnant2.wiki.fextralife.com/Deep+Pocket+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deep_pocket_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Defensive Action Loop",
-          "descricao": "While reloading, and for 3s after reload completes, incoming damage is reduced by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Defensive+Action+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/defensive_action_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dense Silicon Ring",
-          "descricao": "Gain 200% of Health Regenerated as Mod Power.",
-          "link": "https://remnant2.wiki.fextralife.com/Dense+Silicon+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dense_silicon_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Devoured Loop",
-          "descricao": "Critical Hits have 1% chance to reset Skill Cooldowns. Can only occur once every 10s. Increases all incoming damage by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Devoured+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/devoured_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Drakestone Pearl",
-          "descricao": "Enables Stamina Regeneration during Melee Attacks at 20% of the normal rate.",
-          "link": "https://remnant2.wiki.fextralife.com/Drakestone+Pearl",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drakestone_pearl_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dran Memento",
-          "descricao": "Increases Max Stamina by 20 and reduces Encumbrance by 5.",
-          "link": "https://remnant2.wiki.fextralife.com/Dran+Memento",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_memento_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dran Scavenger Ring",
-          "descricao": "Collecting Scrap, Iron, and Ammo pickups regenerates 50% of Max Health and increases all damage dealt by 8% for 30s.",
-          "link": "https://remnant2.wiki.fextralife.com/Dran+Scavenger+Sigil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_scavenger_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dread Font",
-          "descricao": "Increases Grey Health Regeneration rate by 2 per second.",
-          "link": "https://remnant2.wiki.fextralife.com/Dread+Font",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dread_font_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Drzyr Sniper Sigil",
-          "descricao": "Increases the minimum damage at Max Falloff Range from 20% to 40%.",
-          "link": "https://remnant2.wiki.fextralife.com/Drzyr+Sniper+Sigil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drzyr_sniper_sigil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dull Steel Ring",
-          "descricao": "Enhances evade roll by 1 weight class.",
-          "link": "https://remnant2.wiki.fextralife.com/Bright+Steel+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bright_steel_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Dying Ember",
-          "descricao": "Gain 6% of base Melee damage dealt as Lifesteal.",
-          "link": "https://remnant2.wiki.fextralife.com/Dying+Ember",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dying_ember_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Embrace of Sha'Hala",
-          "descricao": "Wearer gains 7.5% incoming damage reduction for each Negative Status Effect or Blight they are suffering from. Max 2 stacks. ",
-          "link": "https://remnant2.wiki.fextralife.com/Embrace+of+Sha'Hala",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/embrace_of_sha_hala_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Encrypted Ring",
-          "descricao": "Using a Mod regenerates 20% of Max Health over 10s. Can stack up to 30s.",
-          "link": "https://remnant2.wiki.fextralife.com/Encrypted+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/encrypted_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Endaira's Endless Loop",
-          "descricao": "After Sprinting for 1s, the wearer gains 2 Health Regeneration per second until they stop Sprinting.",
-          "link": "https://remnant2.wiki.fextralife.com/Endaira's+Endless+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/endairas_endless_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Excess Coil",
-          "descricao": "Activating a Skill grants a Shield for 25% of Max Health. Cannot stack with itself. Lasts 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Excess+Coil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/excess_coil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fae Bruiser Ring",
-          "descricao": "Dealing Melee damage grants 2 Stack of BULWARK for 15s. Does not stack with itself.",
-          "link": "https://remnant2.wiki.fextralife.com/Fae+Bruiser+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_bruiser_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fae Hunter Ring",
-          "descricao": "Increases Range of Firearms by 35%.",
-          "link": "https://remnant2.wiki.fextralife.com/Fae+Hunter+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_hunter_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fae Protector Signet",
-          "descricao": "Increases Max Health and Stamina by 10 and Reduces Encumbrance by 5.",
-          "link": "https://remnant2.wiki.fextralife.com/Fae+Protector+Signet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_protector_signet_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fae Shaman Ring",
-          "descricao": "Increases Health Regeneration by 0.35 and Relic Use Speed by 25%.",
-          "link": "https://remnant2.wiki.fextralife.com/Fae+Shaman+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_shaman_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fae Warrior Ring",
-          "descricao": "Increases Melee Damage by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Fae+Warrior+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_warrior_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Faelin's Sigil",
-          "descricao": "Melee Damage generates 10% additional Mod Power.",
-          "link": "https://remnant2.wiki.fextralife.com/Faelin's+Sigil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faelins_sigil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Faerin's Sigil",
-          "descricao": "Critical and Weakspot Hits generates 12.5% additional Mod Power.",
-          "link": "https://remnant2.wiki.fextralife.com/Faerin's+Sigil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faerin_sigil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Feastmaster's Signet",
-          "descricao": "Increases active Concoction Limit by 1.",
-          "link": "https://remnant2.wiki.fextralife.com/Feastmaster's+Signet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feastmasters_signet_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Feedback Loop",
-          "descricao": "Perfect Dodge triggers a 3m AOE blast that deal 115 SHOCK Damage and applies OVERLOADED.",
-          "link": "https://remnant2.wiki.fextralife.com/Feedback+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feedback_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Fire Stone",
-          "descricao": "Increases FIRE damage by 15% and FIRE Resistance by 20.",
-          "link": "https://remnant2.wiki.fextralife.com/Fire+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fire_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Flyweight's Sting",
-          "descricao": "Increases Melee damage while Armor Encumbrance is below 50. Damage bonus increases with lower Encumbrance, up to 25% at 0 Weight.",
-          "link": "https://remnant2.wiki.fextralife.com/Flyweight's+Sting",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/flyweights_sting_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Focusing Shard",
-          "descricao": "Reduce Recoil by 50%. Aiming Down Sights gradually reduces Spread by 70% over 4s",
-          "link": "https://remnant2.wiki.fextralife.com/Focusing+Shard",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/focused_jewel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Frivolous Band",
-          "descricao": "Increases Evade Speed by 10%. Perfect Evades increase Fire Rate by 10% and Melee Speed by 10% for 7s.",
-          "link": "https://remnant2.wiki.fextralife.com/Frivolous+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/frivolous_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Galvanized Resupply Band",
-          "descricao": "Increases Ammo Pickups by 100%.",
-          "link": "https://remnant2.wiki.fextralife.com/Galvanized+Resupply+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/galvanized_resupply_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Game Master's Pride",
-          "descricao": "Reduces all healing by 50%. Splits all damage and remaining healing evenly amoung all allies wearing this ring.",
-          "link": "https://remnant2.wiki.fextralife.com/Game+Master's+Pride",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/game_masters_pride_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Generating Band",
-          "descricao": "Regenerate 3% of Max Health per second while a Shield is active.",
-          "link": "https://remnant2.wiki.fextralife.com/Generating+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/generating_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Grounding Stone",
-          "descricao": "Increases SHOCK damage by 15% and SHOCK Resistance by 20.",
-          "link": "https://remnant2.wiki.fextralife.com/Grounding+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/grounding_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Guardian's Ring",
-          "descricao": "Adds 1 Stack of BULWARK when within 15m of an enemy. Increases to 2 Stacks for 15s after taking Melee damage.",
-          "link": "https://remnant2.wiki.fextralife.com/Guardian's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Gunslinger's Ring",
-          "descricao": "Increases Firearm Swap Speed by 30% and Reload Speed by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Gunslinger's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gunslingers_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Hardcore Metal Band",
-          "descricao": "Taking damage adds 1 stack of BULWARK which individually falls of after 10s. Max 2 stacks.",
-          "link": "https://remnant2.wiki.fextralife.com/Hardcore+Metal+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hardcore_metal_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Hardened Coil",
-          "descricao": "Reduces all incoming damage by 3% for each 10% of missing Health. Max 15% reduction.",
-          "link": "https://remnant2.wiki.fextralife.com/Hardened+Coil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hardened_coil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Haymaker's Ring",
-          "descricao": "Increase Melee damage by 0.2% for every 1 points of Armor Encumbrance.",
-          "link": "https://remnant2.wiki.fextralife.com/Haymaker's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/haymakers_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Heart of the Wolf",
-          "descricao": "Increases Max Stamina by 25 and Movement Speed by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Heart+of+the+Wolf",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heart_of_the_wolf_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Hex Ward",
-          "descricao": "Prevents CURSE Blight.",
-          "link": "https://remnant2.wiki.fextralife.com/Hex+Ward",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hex_ward_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Kinetic Cycle Stone",
-          "descricao": "Increases Mod and Skill Cast Speed by 20%.",
-          "link": "https://remnant2.wiki.fextralife.com/Kinetic+Cycle+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kinetic_cycle_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Lithic Signet",
-          "descricao": "Reduces all incoming damage by 7%.",
-          "link": "https://remnant2.wiki.fextralife.com/Lithic+Signet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lithic_signet_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Lodestone Ring",
-          "descricao": "Increases all damage dealt against illuminated enemies by 5%.",
-          "link": "https://remnant2.wiki.fextralife.com/Lodestone+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lodestone_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Low Yield Recovery Ring",
-          "descricao": "Killing an enemy regenerates 6% Max Health over 6s. Additional kills increase duration by 6s. Max 30s.",
-          "link": "https://remnant2.wiki.fextralife.com/Low+Yield+Recovery+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/low_yield_recovery_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Mechanic's Cog",
-          "descricao": "While carrying an Engineer Heavy Weapon, gain 15% Movement Speed and 1 Stack of ",
-          "link": "https://remnant2.wiki.fextralife.com/Mechanic's+Cog",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mechanics_cog_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Metal Driver",
-          "descricao": "Killing Blows increase Reload Speed by 10% for 15s. Stacks 3x.",
-          "link": "https://remnant2.wiki.fextralife.com/Metal+Driver",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/metal_driver_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Meteorite Shard Ring",
-          "descricao": "Increases Encumbrance by 50. Increases Unarmed damage by 50%.",
-          "link": "https://remnant2.wiki.fextralife.com/Meteorite+Shard+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/meteorite_shard_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Microcompressor",
-          "descricao": "Reduces Heat Generation when firing weapons that Overheat by -30%. Increases Heat Reduction Rate by 30%.",
-          "link": "https://remnant2.wiki.fextralife.com/Microcompressor",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/microcompressor_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Momentum Driver",
-          "descricao": "After Sprinting for 1.5s, Movement Speed is increased by 15% and Stagger Level reduced by 1.",
-          "link": "https://remnant2.wiki.fextralife.com/Momentum+Driver",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/momentum_driver_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Outcast Ring",
-          "descricao": "Increases Reload Speed by 5% for 10s after reloading. Stacks 5x.",
-          "link": "https://remnant2.wiki.fextralife.com/Outcast+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/outcast_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Point Focus Ring",
-          "descricao": "Reduces Initial Spread and Recoil by 30%.",
-          "link": "https://remnant2.wiki.fextralife.com/Point+Focus+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/point_focus_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Power Saver",
-          "descricao": "At Max Health, gain a 35% chance to not use a Relic charge.",
-          "link": "https://remnant2.wiki.fextralife.com/Power+Saver",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_saver_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Probability Cord",
-          "descricao": "Increases Crit Damage by 20%.",
-          "link": "https://remnant2.wiki.fextralife.com/Probability+Cord",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/probability_cord_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Propulsion Loop",
-          "descricao": "After killing an enemy, increases Movement Speed by 5% and Consumable Use Speed by 10% for 10s. Stacks 3x.",
-          "link": "https://remnant2.wiki.fextralife.com/Propulsion+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/propulsion_loop_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Provisioner Ring",
-          "descricao": "Firearms reload over time while stowed.",
-          "link": "https://remnant2.wiki.fextralife.com/Provisioner+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/provisioner_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Reaping Stone",
-          "descricao": "After an Elemental Status Effect is removed from wearer, they become immune to all Elemental Status Effects and gain 5% of base damage dealt as Lifesteal for 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Reaping+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reaping_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Rerouting Cable",
-          "descricao": "Gain 5% of Max Health as a SHIELD for 5s after spending 20 Stamina. Accumulation resets after 5s of inaction. Max 50% SHIELD.",
-          "link": "https://remnant2.wiki.fextralife.com/Rerouting+Cable",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rerouting_cable_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Reserve Boosting Gem",
-          "descricao": "Increases Health Regeneration by 0.5 per second. 1s after going below 50% Health, increases regeneration value to 2.5 per second until 50% Health is reached.",
-          "link": "https://remnant2.wiki.fextralife.com/Reserve+Boosting+Gem",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reserve_boosting_gem_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Restriction Cord",
-          "descricao": "Restricts the wearer from Healing above 50% of their Max Health and reduces all incoming damage by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Restriction+Cord",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/restriction_cord_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Crisis",
-          "descricao": "When wearer's Health drops below 25%, gain a Shield for 25% of Max Health. Lasts 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Crisis",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_crisis_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring Of Deflection",
-          "descricao": "Direct Damage against wearer has a 50% Chance to be converted entirely to Grey Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Deflection",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_deflection_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Diversion",
-          "descricao": "Increases invulnerability window while evading and sliding.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Diversion",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_diversion_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Flawed Beauty",
-          "descricao": "Ranged Weakspot damage is increased by 25%. Ranged damage is reduced by 15% when failing to hit a Weakspot.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Flawed+Beauty",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_flawed_beauty_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Grace",
-          "descricao": "Taking enemy damage causes 15% of Maximum Health to regenerate over 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Grace",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_grace_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Omens",
-          "descricao": "Evades cost 12.5% Max Health as Grey Health instead of Stamina.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Omens",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_omens_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring Of Restocking",
-          "descricao": "Reloads within 5s of a Critical Kill or Weakspot Kill are 20% faster.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Restocking",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_restocking_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of Retribution",
-          "descricao": "Incoming enemy damage increases Reload Speed and all outgoing damage by 15%. Lasts 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Retribution",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_retribution_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of the Damned",
-          "descricao": "Increases All Damage by 0.4% for every 1% of Grey Health. Increases Critical Chance by 5% if at least 50% of Max Health is Grey.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Damned",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strong_arm_band_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of the Forest Spirit",
-          "descricao": "Relic Healing Effectiveness is increased by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Forest+Spirit",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_forest_spirit_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Ring of the Robust",
-          "descricao": "Increases Max Health by 10, and Armor by 20.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Robust",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_robust_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Rock of Anguish",
-          "descricao": "Gain 5% Movement Speed and 7.5% Reload Speed for every 25% of Max Health missing.",
-          "link": "https://remnant2.wiki.fextralife.com/Rock+of+Anguish",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rock_of_anguish_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Rotward",
-          "descricao": "Prevents ROOT ROT Blight.",
-          "link": "https://remnant2.wiki.fextralife.com/Rotward",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rotward_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Rusted Heirloom",
-          "descricao": "Grants 2 Stacks of BULWARK below 50% Max HP.",
-          "link": "https://remnant2.wiki.fextralife.com/Rusted+Heirloom",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_heirloom_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Sagestone",
-          "descricao": "Increases earned Experience by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Sagestone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sagestone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Sapphire Dreamstone",
-          "descricao": "Critical Hits reduce Skill Cooldowns by 4%. Can only happen once every 2s.",
-          "link": "https://remnant2.wiki.fextralife.com/Sapphire+Dreamstone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sapphire_dreamstone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Seal of the Empress",
-          "descricao": "Increases Max Health by 20. Reduces Max Stamina by 5.",
-          "link": "https://remnant2.wiki.fextralife.com/Seal+of+the+Empress",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/seal_of_the_empress_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Shard Banded Ring",
-          "descricao": "Increases Mod damage by 12%.",
-          "link": "https://remnant2.wiki.fextralife.com/Shard+Banded+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shard_banded_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Shiny Hog Lure",
-          "descricao": "Reloading grants 25-50 Mod Power to both weapons based on percentage of Magazine reloaded.",
-          "link": "https://remnant2.wiki.fextralife.com/Shiny+Hog+Lure",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shiny_hog_lure_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Singed Ring",
-          "descricao": "Increases all damage dealt to BURNING enemies by 12%.",
-          "link": "https://remnant2.wiki.fextralife.com/Singed+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/singed_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Slayer's Crest",
-          "descricao": "Increases Melee damage by 25% when attacking enemies from behind",
-          "link": "https://remnant2.wiki.fextralife.com/Slayer's+Crest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/slayers_crest_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Soul Guard",
-          "descricao": "Gain a stack of BULWARK for each active Summon.",
-          "link": "https://remnant2.wiki.fextralife.com/Soul+Guard",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_guard_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Soul Link",
-          "descricao": "Summons Lifesteal 5% of base damage dealt which returns to the wearer as Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Soul+Link",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_link_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Spirit Stone",
-          "descricao": "Increases Mod Power generation by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Spirit+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_stone_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stockpile Charger",
-          "descricao": "After picking up ammo, increases the damage of that Ammo Type by 15% for 20s.",
-          "link": "https://remnant2.wiki.fextralife.com/Stockpile+Charger",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stockpile_charger_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stone of Balance",
-          "descricao": "Increases all damage by 7%.",
-          "link": "https://remnant2.wiki.fextralife.com/Stone+of+Balance",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_balance_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stone of Continuance",
-          "descricao": "Increases Skill Duration by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Stone+of+Continuance",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_continuance_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stone of Expanse",
-          "descricao": "Increases Ranged damage by 12%. Reduces all other damage dealt by 5%.",
-          "link": "https://remnant2.wiki.fextralife.com/Stone+of+Expanse",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_expanse_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stone Of Malevolence",
-          "descricao": "Elemental damage generates 15% additional Mod Power.",
-          "link": "https://remnant2.wiki.fextralife.com/Stone+Of+Malevolence",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_malevolence_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Stream Coupler",
-          "descricao": "Using a Skill regenerates 25% of Max Health over 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Stream+Coupler",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stream_coupler_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Subterfuge Link",
-          "descricao": "After killing an enemy, increases the Cast Speed of the next Mod or Skill Cast by 35%. Lasts 15s or until consumed.",
-          "link": "https://remnant2.wiki.fextralife.com/Subterfuge+Link",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/subterfuge_link_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Suppression Ward",
-          "descricao": "Prevents SUPPRESSION Blight.",
-          "link": "https://remnant2.wiki.fextralife.com/Suppression+Ward",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supression_ward_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Targeting Jewel",
-          "descricao": "Increases Range on all Firearms by 4m. Reduces Spread by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Targeting+Jewel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/targeting_jewel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Tarnished Ring",
-          "descricao": "Increases damage of Unarmed Attacks by 30%.",
-          "link": "https://remnant2.wiki.fextralife.com/Tarnished+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tarnished_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Tear of Kaeula",
-          "descricao": "Increases Relic capacity by 2 while equipped",
-          "link": "https://remnant2.wiki.fextralife.com/Tear+of+Kaeula",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tear_of_kauela_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Tempest Conduit",
-          "descricao": "After receiving Elemental Damage, increases all damage dealt by 15% and Resistance to the received Element by 20 for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Tempest+Conduit",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tempest_conduit_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Tightly Wound Coil",
-          "descricao": "When spending 75% or more of current magazine, gain a SHIELD for 15% of Max Health for 5s. Does not stack with itself.",
-          "link": "https://remnant2.wiki.fextralife.com/Tightly+Wound+Coil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tightly_wound_coil_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Timekeeper's Jewel",
-          "descricao": "Increases the duration of all Status Effects applied by wearer. Durations varies per status.",
-          "link": "https://remnant2.wiki.fextralife.com/Timekeeper's+Jewel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/timekeepers_jewel_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Tomb Dweller's Ring",
-          "descricao": "Increases Movement Speed by 10% for 15s after Vaulting, Climbing, Leaping, and entering Water, stacks 3x. Reduces Fall Damage by 50%.",
-          "link": "https://remnant2.wiki.fextralife.com/Tomb+Dweller's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tomb_dwellers_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Vacuum Seal",
-          "descricao": "Increases Automatic Pickup Range for Scrap by 150%. Picking up Scrap, Iron, or Ammo grants a SHIELD for 15% of Max Health for 10s Does not stack.",
-          "link": "https://remnant2.wiki.fextralife.com/Vacuum+Seal",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vacuum_seal_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Vestige of Power",
-          "descricao": "After 5s of not being damaged, increases Ranged and Melee Damage by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Vestige+of+Power",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vestige_of_power_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Wax Sealed Ring",
-          "descricao": "Killing blows increase Ranged and Melee Damage by 4% for 15s. Stacks 3x.",
-          "link": "https://remnant2.wiki.fextralife.com/Wax+Sealed+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wax_sealed_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "White Pawn Stamp",
-          "descricao": "Reduces Mod Power Requirement by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/White+Pawn+Stamp",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/white_pawn_stamp_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Wind Hollow Circlet",
-          "descricao": "Increases Reload Speed by 12%.",
-          "link": "https://remnant2.wiki.fextralife.com/Wind+Hollow+Circlet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wind_hollow_circlet_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Worn Admiral's Ring",
-          "descricao": "All damage received is increased by 200%. All damage dealt is increased by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Worn+Admiral's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/worn_admirals_ring_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Zania's Malice",
-          "descricao": "Dealing Weakspot damage increases Weakspot damage by 5% for 5s. Stacks 4x.",
-          "link": "https://remnant2.wiki.fextralife.com/Zania's+Malice",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/zanias_malice_rings_remnant2_wiki_guide_250px.png"
-        },
-        {
-          "nome": "Zohee's Ring",
-          "descricao": "Increases Mod Duration by 20%.",
-          "link": "https://remnant2.wiki.fextralife.com/Zohee's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/zohees_ring_rings_remnant2_wiki_guide_250px.png"
-        }
-      ],
-      "The Awakened King": [
-        {
-          "nome": "A'taerii Booster",
-          "descricao": "Heavy Weapons gain 10% Damage and 10% Critical Chance in both Carry Mode and Turret Mode.",
-          "link": "https://remnant2.wiki.fextralife.com/A'taerii+Booster",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ataerii_booster_ring_remnant2_wiki_guide200px.png"
-        },
-        {
-          "nome": "Atonement Fold",
-          "descricao": "Self-inflicts BLEEDING Status upon the wearer, causing 1.1 BLEED damage per second. Increases Critical Chance by 5%.",
-          "link": "https://remnant2.wiki.fextralife.com/Atonement+Fold",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atonement_fold_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Band of the Fanatic",
-          "descricao": "Increases Status Effect Damage by 30% and reduces Status Effect Duration by 50%.",
-          "link": "https://remnant2.wiki.fextralife.com/Band+of+the+Fanatic",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_of_the_fanatic_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Bitter Memento",
-          "descricao": "Sets 1% of wearer's Max Health as Grey Health. Using a skill costs 33.5% Health as Grey Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Bitter+Memento",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bitter_memento_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Brawler's Pride",
-          "descricao": "Increases Melee Attack Speed by 15% and melee Critical Chance by 5%",
-          "link": "https://remnant2.wiki.fextralife.com/Brawler's+Pride",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/brawlers_pride_ring_remnant2_wiki_guide200px.png"
-        },
-        {
-          "nome": "Bridge Wardens Crest",
-          "descricao": "Perfect Dodge increases Melee Damage by 20% for 10s. Perfect Evade Flop also gains 10% Damage Reduction for the duration.",
-          "link": "https://remnant2.wiki.fextralife.com/Bridge+Wardens+Crest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bridge_wardens_crest_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Burden of the Departed",
-          "descricao": "Reduces Total Relic Charges by 33%. Increases all damage dealt by 10%",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Departed",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_departed_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Burden of the Sciolist",
-          "descricao": "Reduces Ammo Reserves by 20%. Increases Mod and Skill Damage by 15%.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Sciolist",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_sciolist_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Crimson Dreamstone",
-          "descricao": "Crit hits increase Skill Damage 2% for 5s. Max stack 10.",
-          "link": "https://remnant2.wiki.fextralife.com/Crimson+Dreamstone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crimson_dreamstone_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Digested Hog Lure",
-          "descricao": "Reloading increases Mod Damage by 15% for 7s.",
-          "link": "https://remnant2.wiki.fextralife.com/Digested+Hog+Lure",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/digested_hog_lure_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Dried Clay Ring",
-          "descricao": "Grants 1 stack of BULWARK. Increases All Damage by 50% of the total Damage Reduction granted by BULWARK stacks",
-          "link": "https://remnant2.wiki.fextralife.com/Dried+Clay+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dried_clay_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Elevated Ring",
-          "descricao": "Increases Dodge Weight Threshold by 10. Reduces Encumbrance by 10.",
-          "link": "https://remnant2.wiki.fextralife.com/Elevated+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/elevated_ring_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Jewel of the Beholden",
-          "descricao": "On Relic Use, increase Mod Damage by 15% for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Jewel+of+the+Beholden",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/jewel_of_the_beholden_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Lighthouse Keeper's Ring",
-          "descricao": "Automatically generate 4 Mod Power per second for each entity within 15m suffering from a Negative Status Effect. Max 5 stacks.",
-          "link": "https://remnant2.wiki.fextralife.com/Lighthouse+Keeper's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lighthouse_keepers_ring_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Offering Stone",
-          "descricao": "Dealing Ranged Damage increases all Damage by 1% for 1s. Stacks 15x. After killing an enemy, extends the duration to 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Offering+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/offering_stone_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Painless Obsidian",
-          "descricao": "When Grey Health is present, gain Haste and 1 stack of Bulwark.",
-          "link": "https://remnant2.wiki.fextralife.com/Painless+Obsidian",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/painless_obsidian_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Power Complex",
-          "descricao": "Increases All Damage dealt by 1% per second to a maximum of 15%. Dodging resets Power Complex to 0%",
-          "link": "https://remnant2.wiki.fextralife.com/Power+Complex",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_complex_ring_remnant2_wiki_guide200px.png"
-        },
-        {
-          "nome": "Red Ring Of Death",
-          "descricao": "Duplicates the last damaging Negative Status applied to target. Reduces outgoing Status Effect Damage by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Red+Ring+of+Death",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/red_ring_of_death_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring of Infinite Damage",
-          "descricao": "Increases fire rate by 8.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Infinite+Damage",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_infinite_damage_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring Of The Castaway",
-          "descricao": "Increases base Consumable Duration by 50%.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Castaway",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_castaway_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring Of The Vain",
-          "descricao": "Reduces Invulnerability Window on Evade and Combat Slide by 35%. Increases Movement Speed while aiming by 35%",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Vain",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_vain_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Shadow Of Misery",
-          "descricao": "Increase Status Effect Damage by 20%",
-          "link": "https://remnant2.wiki.fextralife.com/Shadow+of+Misery",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shadow_of_misery_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Shaed Stone",
-          "descricao": "Increases Skill damage by 15%",
-          "link": "https://remnant2.wiki.fextralife.com/Shaed+Stone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shaed_stone_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Soul Shard",
-          "descricao": "Increase all damage dealt by 5% for each summon. Max 15%",
-          "link": "https://remnant2.wiki.fextralife.com/Soul+Shard",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_shard_ring_remnant2_wiki_guide200px.png"
-        },
-        {
-          "nome": "Wood Ring",
-          "descricao": "Increases Stagger Damage by 15%",
-          "link": "https://remnant2.wiki.fextralife.com/Wood+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wood_ring_rings_remnant2_wiki_guide_200px.png"
-        },
-        {
-          "nome": "White Glass Bead",
-          "descricao": "Perfect Dodge applies a SHIELD for 15% of Max Health. Lasts 10s. Cannot Stack with itself.",
-          "link": "https://remnant2.wiki.fextralife.com/White+Glass+Bead",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/white_glass_bead_rings_remnant2_wiki_guide_200px.png"
-        }
-      ],
-      "The Forgotten Kingdom": [
-        {
-          "nome": "Burden of the Mesmer",
-          "descricao": "Reduces Max Health by 20%. Increases All Damage by 1% for every 5% of the wearer's total Damage Reduction.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mesmer",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mesmer_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Matriarch's Ring",
-          "descricao": "Perfect Dodge reduces Charge Melee Stamina Cost by 100% for 7s",
-          "link": "https://remnant2.wiki.fextralife.com/Matriarch's+Ring",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/matriarchsring_ring_remnant2_wiki_guide_icon200px.png"
-        },
-        {
-          "nome": "Ravager's Bargain",
-          "descricao": "Increases All Damage and Critical Chance by 5% while BLEEDING",
-          "link": "https://remnant2.wiki.fextralife.com/Ravager's+Bargain",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ravagers_bargain_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Token of Favor",
-          "descricao": "Increases All damage by 5%. Gain 10% Critical Chance against EXPOSED targets.",
-          "link": "https://remnant2.wiki.fextralife.com/Token+of+Favor",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/token_of_favor_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Tear of Lydusa",
-          "descricao": "Increases Healing and Lifesteal Efficacy by 20%. Reduces Healing Efficacy bonus by 1.5% for each 10% of missing Relic Capacity.",
-          "link": "https://remnant2.wiki.fextralife.com/Tear+of+Lydusa",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tear_of_lydusa_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Rally Band",
-          "descricao": "Melee Strikes convert Grey Health into Health. Each melee strike converts up to 10% of Max Health.",
-          "link": "https://remnant2.wiki.fextralife.com/Rally+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rally_band_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Thalos Eyelet",
-          "descricao": "Grants 1 stack of BULWARK and 2 Stamina Regen per second for each BULWARK stack. Increases BULWARK maximum stacks to 6.",
-          "link": "https://remnant2.wiki.fextralife.com/Thalos+Eyelet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/thalos_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Mark of the Destroyer",
-          "descricao": "Perfect Dodge triggers a 3m AOE blast that deals 310 Explosive Damage",
-          "link": "https://remnant2.wiki.fextralife.com/Mark+of+the+Destroyer",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mark_of_the_destroyer_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Feathery Binding",
-          "descricao": "Increases projectile speed by 15% and decreases Weapon Charge Time by 10%. Bonus is doubled when HASTE is active.",
-          "link": "https://remnant2.wiki.fextralife.com/Feathery+Binding",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feathery_binding_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Gul Signet",
-          "descricao": "Increases Damage Reduction by 10%. Each Weight Class above LIGHT reduces Damage Reduction bonus by 2.5% (up to 3x).",
-          "link": "https://remnant2.wiki.fextralife.com/Gul+Signet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gulsignet_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Ring of Spirits",
-          "descricao": "Increases Mod Generation by 3% for each active consumable. Max 5 stacks.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Spirits",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_spirit_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Bloodless King's Vow",
-          "descricao": "Gain 4% of base Ranged Damage dealt as Lifesteal.",
-          "link": "https://remnant2.wiki.fextralife.com/Bloodless+King's+Vow",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodless_kings_vow_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Burden of the Mason",
-          "descricao": "Impairs Dodges by 1 Weight Class. Increases Melee damage by 35% of the wearer total Damage Reduction.",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mason",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mason_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Pan War Band",
-          "descricao": "Increases Movement Speed and Reload Speed by 3% and Fire Rate by 2% for each ally wearing this ring.",
-          "link": "https://remnant2.wiki.fextralife.com/Pan+War+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pan_war_band_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Black Spinel",
-          "descricao": "Applying a Negative Status Effect grants 2% Max Health per second for 3s. Applying or refreshing a Negative Status Effect while buff is active will increase the duration by 1.5s. Max 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Black+Spinel",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackspinel_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Dark Sea Armada Crest",
-          "descricao": "On Relic Use, increases All elemental Damage dealt by 15% for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Dark+Sea+Armada+Crest",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/darksea_armada_crest_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Conjurer's Circle",
-          "descricao": "When wearer's Summon enters the battlefield, conjure a 5m Summoning Circle. Allies in the Summoning Circle have their Stagger Level reduced by 1 and generate 5 Grey Health per second. Lasts 10s. Can only happen once every 10s after expiring.",
-          "link": "https://remnant2.wiki.fextralife.com/Conjurer's+Circle",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conjurers_circle_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Closed Loop",
-          "descricao": "Gain 5% of Max Health as a SHIELD for 10s after a Charged Shot. Accumulation resets after 10s of inaction. Max 25% SHIELD.",
-          "link": "https://remnant2.wiki.fextralife.com/Closed+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/closed_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Floodlit Diamond",
-          "descricao": "Increases Weakspot Damage by 12% bonus is doubled against EXPOSED targets.",
-          "link": "https://remnant2.wiki.fextralife.com/Floodlit+Diamond",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/floodit_diamond_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Kolket Eyelet",
-          "descricao": "Grants 1 stack of Bulwark. Increases Health Regeneration by 0.3 per second for each stack of Bulwark.",
-          "link": "https://remnant2.wiki.fextralife.com/Kolket+Eyelet",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kolket_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Leaking Gemstone",
-          "descricao": "Allows 20% of Mod power Generation to continue during an active mod. ",
-          "link": "https://remnant2.wiki.fextralife.com/Leaking+Gemstone",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leaking_spirit_stone_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Sealed Resin Loop",
-          "descricao": "Melee attacks can be cancelled mid action by Dodging.",
-          "link": "https://remnant2.wiki.fextralife.com/Sealed+Resin+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sealed_resin_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Ring of Ordnance",
-          "descricao": "Allows Heavy Weapon Ammo to gradually regenerate while in both Heavy Carry or turret modes. Doubles the stowed Ammo Regeneration Rate of Heavy Weapons.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ordnance",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ordance_ring_remnant2_the_forgotten_kingdom_200px.png"
-        },
-        {
-          "nome": "Soul Feast",
-          "descricao": "When human, companion or minion is downed or killed, reduce skill Cooldowns by 8%.",
-          "link": "https://remnant2.wiki.fextralife.com/Soul+Feast",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soulfeast_ring_remnant2_the_forgotten_kingdom_200px.png"
-        }
-      ],
-      "The Dark Horizon": [
-        {
-          "nome": "Wired Inhibitor",
-          "descricao": "Applying a Negative Status Effect on an enemy also applies SLOW for 1s. Applying or  refreshing additional Negative Statuses will increase the duration by 1s. Max 5s.",
-          "link": "https://remnant2.wiki.fextralife.com/Wired+Inhibitor",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wiredinhibitor_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Transient Cord",
-          "descricao": "On Relic Use, increases Critical Chance by 10% and Critical Damage by 10% for 15s. Reduce bonus by 1% once every 1.5s. ",
-          "link": "https://remnant2.wiki.fextralife.com/Transient+Cord",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/transient_cord_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Disaster Converter",
-          "descricao": "When wearer's Health drops below 25%, gain a SHIELD for 50% of total current Grey Health for 10s. Max 50% SHIELD. Does not stack with itself.",
-          "link": "https://remnant2.wiki.fextralife.com/Disaster+Converter",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disaster_converter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring Of Phantom Pain",
-          "descricao": "Missing Health is converted to 10 Grey Health per second. Reduces Grey Health Regeneration by 90%",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Phantom+Pain",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_phantom_pain_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Breach Accelerator",
-          "descricao": "Increases Movement Speed and Physical Damage by 5%. Bonus is doubled when HASTE is active",
-          "link": "https://remnant2.wiki.fextralife.com/Breach+Accelerator",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/breach_accelerator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Burden of the Excavator",
-          "descricao": "Explosions cannot Critical Hit. Increases Explosive Damage by 35%",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Excavator",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_excavator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Burden of the Protector",
-          "descricao": "Reduces incoming SHIELD Duration by 50%. Increases SHIELD Amount by 15%",
-          "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Protector",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_protector_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Bypass Primer",
-          "descricao": "On Perfect Dodge, reload current Firearm",
-          "link": "https://remnant2.wiki.fextralife.com/Bypass+Primer",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bypass_primer_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Clear Halo",
-          "descricao": "After 10s of not being damaged, generate a SHIELD for 10% of Max Health over 2s.",
-          "link": "https://remnant2.wiki.fextralife.com/Clear+Halo",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/clear_halo_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Combat Shield Generator",
-          "descricao": "While in combat, Crouching or Combat Slide generates a stationary 3m x 1.5m Energy Shield with 300 Health which blocks enemy projectiles. Lasts 10s or until broken by damage. Can only happen once every 10s after expiring.",
-          "link": "https://remnant2.wiki.fextralife.com/Combat+Shield+Generator",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/combat_shield_generator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Custodian's Bastion",
-          "descricao": "Increases Armor by 1 per 2% of active SHIELD. Max 100 Bonus Armor.",
-          "link": "https://remnant2.wiki.fextralife.com/Custodian's+Bastion",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/custodians_bastion_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Demolition Coil",
-          "descricao": "Unarmed Charged Melee Attacks explode when hitting an Enemy, dealing 30% additional Explosive Damage over 1.5m",
-          "link": "https://remnant2.wiki.fextralife.com/Demolition+Coil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/demolition_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Detonating Cord",
-          "descricao": "On Relic Use, increases Explosive Damage by 10% for 15s and casts a 3m Explosive AOE which deals 100 Base Damage.",
-          "link": "https://remnant2.wiki.fextralife.com/Detonating+Cord",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/detonator_ranged_mutators_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Empowering Loop",
-          "descricao": "Increases Ranged Damage by 15%. Slows Firearm Charge Time by 10% and reduces Fire Rate by 10%. ",
-          "link": "https://remnant2.wiki.fextralife.com/Empowering+Loop",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/empowering_loop_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Feeding Tube",
-          "descricao": "While in combat, auto-consume the compatible item in the first quick-slot every 30s: Increases Consumable and Relic Use Speed by 10%. Not compatible with Concoctions, Grenades and some Unique Consumables.",
-          "link": "https://remnant2.wiki.fextralife.com/Feeding+Tube",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feeding_tube_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Force Multiplier",
-          "descricao": "Overcharging Charge Weapons grants 1.05x Weapon Damage Per 0.5s while Charge is held beyond Perfect Release Window. Max 1.3x.",
-          "link": "https://remnant2.wiki.fextralife.com/Force+Multiplier",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/force_multiplier_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Impact Augment",
-          "descricao": "When a single source of Enemy Damage exceeds 15% of Max Health, increases All Damage dealt by 3% for 10s. Max 5 stacks.",
-          "link": "https://remnant2.wiki.fextralife.com/Impact+Augment",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/impact_augment_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Infinity Pocket",
-          "descricao": "Reloading an Empty Magazine refills 10% of the stowed weapon's Max Ammo. When stowed weapon is full, the refill amount applies to the primary weapon instead.",
-          "link": "https://remnant2.wiki.fextralife.com/Infinity+Pocket",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/infinity_pocket_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Mortal Coil",
-          "descricao": "Increases All Damage dealt by 1% for every 2% of the wearer's total Lifesteal. Max 20% All Damage.",
-          "link": "https://remnant2.wiki.fextralife.com/Mortal+Coil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mortal_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Nanofiber Strand",
-          "descricao": "Increases SHIELD Amount by 10%.",
-          "link": "https://remnant2.wiki.fextralife.com/Nanofiber+Strand",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nanofiber_strand_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Nightmare Sigil",
-          "descricao": "On Perfect Dodge, increases base Lifesteal by 5% for 10s.",
-          "link": "https://remnant2.wiki.fextralife.com/Nightmare+Sigil",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightmare_sigil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring of Ashes",
-          "descricao": "Stowed weapons generate 15 Mod Power per second.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ashes",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ashes_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Ring Of Bones",
-          "descricao": "On Relic Use, increases All Damage by 10% for 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Bones",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_bones_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Security Half-Measure",
-          "descricao": "On Relic Use, sacrifices 15% of Max Health and grants a SHIELD for 10% of the wearer's Max Health to allies within 8m. Conversion cannot kill wearer. Lasts 15s.",
-          "link": "https://remnant2.wiki.fextralife.com/Security+Half-Measure",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/security_half_measure_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Shield Alternator",
-          "descricao": "Activating a Mod that costs 100 Mod Power or greater, generates a SHIELD for 20% of Max Health. Lasts 15s. Cannot stack with itself",
-          "link": "https://remnant2.wiki.fextralife.com/Shield+Alternator",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shield_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Siphon Filter",
-          "descricao": "Increases All Damage dealt by an amount equal to an active HASTE bonus. Grants HASTE when within 15m of an entity suffering from SLOW.",
-          "link": "https://remnant2.wiki.fextralife.com/Siphon+Filter",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphon_filter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Spirit Alternator",
-          "descricao": "Incoming SHIELD grants 150% of the SHIELD generated as Mod Power",
-          "link": "https://remnant2.wiki.fextralife.com/Spirit+Alternator",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Stone of Revelation",
-          "descricao": "Increases Mod Generation and Mod Damage by 5%. Bonus is doubled against EXPOSED targets",
-          "link": "https://remnant2.wiki.fextralife.com/Stone+of+Revelation",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_revelation_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Strand of Sinew",
-          "descricao": "Slows Firearm Charge Time by 30% and increases Ranged Charge Damage by 20%.",
-          "link": "https://remnant2.wiki.fextralife.com/Strand+of+Sinew",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strand_of_sinew_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Symbol of Royalty",
-          "descricao": "On Perfect Dodge, grants 1 stack of BULWARK for 10s. Max 3 stacks",
-          "link": "https://remnant2.wiki.fextralife.com/Symbol+of+Royalty",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/symbol_of_royalty_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        },
-        {
-          "nome": "Tolerance Band",
-          "descricao": "Decreases Firearm Charge Time by 10% and increases Perfect Charge Window for applicable ranged weaponry",
-          "link": "https://remnant2.wiki.fextralife.com/Tolerance+Band",
-          "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tolerance_band_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
-        }
-      ]
+      "nome": "Acid Stone",
+      "descricao": "Increases ACID damage by 15% and ACID Resistance by 20.",
+      "link": "https://remnant2.wiki.fextralife.com/Acid+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/acid_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ahanae Crystal",
+      "descricao": "Deal 5% additional damage for each Status Effect the target is suffering from",
+      "link": "https://remnant2.wiki.fextralife.com/Ahanae+Crystal",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anahae_crystal_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Akari War Band",
+      "descricao": "Perfect Dodges increase Critical Chance by 10% and Critical Damage by 10% for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Akari+War+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/akari_war_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Alchemy Stone",
+      "descricao": "Increases base Lifesteal by 6% while suffering from a negative STATUS or BLIGHT Effect.",
+      "link": "https://remnant2.wiki.fextralife.com/Alchemy+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alchemy_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Alumni Ring",
+      "descricao": "Increases all Elemental damage dealt by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Alumni+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/alumini_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Amber Moonstone",
+      "descricao": "When the wearer's Health drops below 35%, all incoming damage is reduced by 25% and the wearer becomes immune to Temporary Status Effects.",
+      "link": "https://remnant2.wiki.fextralife.com/Amber+Moonstone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/amber_moonstone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Anastasija's Inspiration",
+      "descricao": "When receiving healing effects, gain HASTE for 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Anastasija's+Inspiration",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/anastajias_inspiration_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Archer's Crest",
+      "descricao": "Increases Projectile Speed by 20% and Decreases Weapon Charge Time by 25%.",
+      "link": "https://remnant2.wiki.fextralife.com/Archer's+Crest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/archers_crest_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Assassin's Seal",
+      "descricao": "Reduces enemy Awareness Range by 25%. Increases all damage dealt to enemies not targeting wearer by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Assassin's+Seal",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/assassins_seal_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Band Band",
+      "descricao": "Increases Speed of Revive and being Revived by 35%. Increases Downed Health and Downed Movement Speed by 100%.",
+      "link": "https://remnant2.wiki.fextralife.com/Band+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Band of Accord",
+      "descricao": "Ammo acquired on pickup is increased by 50% per ally also wearing this ring and is shared with other allies.",
+      "link": "https://remnant2.wiki.fextralife.com/Band+of+Accord",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_of_accord_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Berserker's Crest",
+      "descricao": "Increases Melee Charge Speed by 10% and reduces Melee Stamina Cost by 30%.",
+      "link": "https://remnant2.wiki.fextralife.com/Berserker's+Crest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/berserkers_crest_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Bisected Ring",
+      "descricao": "Gain Infinite Stamina. All damage received is increased by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Bisected+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bisected_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Black Cat Band",
+      "descricao": "When taking fatal damage, instead of dying, the wearer's Health will drop to 1, and Movement Speed will increase by 25% for 10s. 2m cooldown.",
+      "link": "https://remnant2.wiki.fextralife.com/Black+Cat+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_cat_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Black Pawn Stamp",
+      "descricao": "Reduces Cooldowns of Skills by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Black+Pawn+Stamp",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/black_pawn_stamp_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blackout Ring",
+      "descricao": "Increases Reload Speed by 3%. for every 20% of Magazine missing.",
+      "link": "https://remnant2.wiki.fextralife.com/Blackout+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackout_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blasting Cap Ring",
+      "descricao": "Increases Explosive damage by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Blasting+Cap+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blasting_cap_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blessed Ring",
+      "descricao": "After receiving a benefit from a Relic, gain 2 Stacks of BULWARK for 30s.",
+      "link": "https://remnant2.wiki.fextralife.com/Blessed+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blessed_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blood Jewel",
+      "descricao": "Charged Melee Attacks apply BLEEDING, dealing 460 BLEED damage over 20s.",
+      "link": "https://remnant2.wiki.fextralife.com/Blood+Jewel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_jewel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blood Tinged Ring",
+      "descricao": "Gain 2 Health Regeneration per second when within 25m of a BLEEDING entity.",
+      "link": "https://remnant2.wiki.fextralife.com/Blood+Tinged+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blood_tinged_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Booster Ring",
+      "descricao": "Increases all Status Resistances by 25.",
+      "link": "https://remnant2.wiki.fextralife.com/Booster+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/booster_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Braided Thorns",
+      "descricao": "Increases Critical Chance by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Braided+Thorns",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/braided_thorns_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Audacious",
+      "descricao": "Decreases all healing by 50%. Perfect Dodges heal for 25% of Max Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Audacious",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_audacious_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Destroyer",
+      "descricao": "Decreases Ideal Range of all Firearms by 35%. Increases all damage dealt by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Destroyer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_destroyer_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Divine",
+      "descricao": "All damage dealt by wearer is reduced by 15%. 30% of self healing applies to allies.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Divine",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_divine_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Follower",
+      "descricao": "Reduces Fire Rate by 15%. Increases Mod Power Generation by 30%.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Follower",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_follower_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Gambler",
+      "descricao": "Disables Weakspots. Increases Critical Chance by 10% and Critical Damage by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Gambler",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_gambler_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Mariner",
+      "descricao": "Increases Skill Cooldowns by 15%. Generate 15% additional Mod Power for each Skill on Cooldown.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mariner",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mariner_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Rebel",
+      "descricao": "Reduces Relic Use Speed by 25%. Reduces Skill Cooldowns by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Rebel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_rebel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Stargazer",
+      "descricao": "Reduces Skill Cooldowns by 15%. Activating a Skill costs 15% Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Stargazer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_stargazer_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Burden of the Warlock",
+      "descricao": "Reduces Mod Power Requirement by 15%. Activating a Mod costs 15% Health as Grey Health. Activation cannot kill wearer.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Warlock",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_warlock_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Captain's Insignia",
+      "descricao": "Increases Revive Speed and Relic Consume Speed by 25% per downed or dead ally. Max 2 stacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Captain's+Insignia",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/captains_insignia_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Cataloger's Jewel",
+      "descricao": "Automatically generates 10 Mod Power per second.",
+      "link": "https://remnant2.wiki.fextralife.com/Cataloger's+Jewel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/catalogers_jewel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Celerity Stone",
+      "descricao": "Increases Consumable and Relic Use Speed by 25%.",
+      "link": "https://remnant2.wiki.fextralife.com/Celerity+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/celerity_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Compulsion Loop",
+      "descricao": "After killing an enemy, gain 5% Fire Rate and Melee Attack Speed for 10s. Stacks 3x.",
+      "link": "https://remnant2.wiki.fextralife.com/Compulsion+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/compulsion_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Conservation Seal",
+      "descricao": "For every 10% of Health missing  (Max 50%) gain 10% chance to not consume Relic and 5% increased Relic Efficacy on next use.",
+      "link": "https://remnant2.wiki.fextralife.com/Conservation+Seal",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conservation_seal_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Constant Variable Ring",
+      "descricao": "Increases Ranged damage up to 20% based on current Weapon's Overheat value.",
+      "link": "https://remnant2.wiki.fextralife.com/Constant+Variable+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/constant_variable_rings_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dead King's Memento",
+      "descricao": "Increases Health by 15.",
+      "link": "https://remnant2.wiki.fextralife.com/Dead+King's+Memento",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dead_kings_memento_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Deceiver's Band",
+      "descricao": "After performing a Slide, gain 15% Evade Speed and 10% Movement Speed for 12s.",
+      "link": "https://remnant2.wiki.fextralife.com/Deceiver's+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deceivers_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Deep Pocket Ring",
+      "descricao": "Increases Ammo Reserves by 35%.",
+      "link": "https://remnant2.wiki.fextralife.com/Deep+Pocket+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deep_pocket_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Defensive Action Loop",
+      "descricao": "While reloading, and for 3s after reload completes, incoming damage is reduced by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Defensive+Action+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/defensive_action_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dense Silicon Ring",
+      "descricao": "Gain 200% of Health Regenerated as Mod Power.",
+      "link": "https://remnant2.wiki.fextralife.com/Dense+Silicon+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dense_silicon_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Devoured Loop",
+      "descricao": "Critical Hits have 1% chance to reset Skill Cooldowns. Can only occur once every 10s. Increases all incoming damage by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Devoured+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/devoured_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Drakestone Pearl",
+      "descricao": "Enables Stamina Regeneration during Melee Attacks at 20% of the normal rate.",
+      "link": "https://remnant2.wiki.fextralife.com/Drakestone+Pearl",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drakestone_pearl_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dran Memento",
+      "descricao": "Increases Max Stamina by 20 and reduces Encumbrance by 5.",
+      "link": "https://remnant2.wiki.fextralife.com/Dran+Memento",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_memento_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dran Scavenger Ring",
+      "descricao": "Collecting Scrap, Iron, and Ammo pickups regenerates 50% of Max Health and increases all damage dealt by 8% for 30s.",
+      "link": "https://remnant2.wiki.fextralife.com/Dran+Scavenger+Sigil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dran_scavenger_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dread Font",
+      "descricao": "Increases Grey Health Regeneration rate by 2 per second.",
+      "link": "https://remnant2.wiki.fextralife.com/Dread+Font",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dread_font_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Drzyr Sniper Sigil",
+      "descricao": "Increases the minimum damage at Max Falloff Range from 20% to 40%.",
+      "link": "https://remnant2.wiki.fextralife.com/Drzyr+Sniper+Sigil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/drzyr_sniper_sigil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dull Steel Ring",
+      "descricao": "Enhances evade roll by 1 weight class.",
+      "link": "https://remnant2.wiki.fextralife.com/Bright+Steel+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bright_steel_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Dying Ember",
+      "descricao": "Gain 6% of base Melee damage dealt as Lifesteal.",
+      "link": "https://remnant2.wiki.fextralife.com/Dying+Ember",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dying_ember_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Embrace of Sha'Hala",
+      "descricao": "Wearer gains 7.5% incoming damage reduction for each Negative Status Effect or Blight they are suffering from. Max 2 stacks. ",
+      "link": "https://remnant2.wiki.fextralife.com/Embrace+of+Sha'Hala",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/embrace_of_sha_hala_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Encrypted Ring",
+      "descricao": "Using a Mod regenerates 20% of Max Health over 10s. Can stack up to 30s.",
+      "link": "https://remnant2.wiki.fextralife.com/Encrypted+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/encrypted_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Endaira's Endless Loop",
+      "descricao": "After Sprinting for 1s, the wearer gains 2 Health Regeneration per second until they stop Sprinting.",
+      "link": "https://remnant2.wiki.fextralife.com/Endaira's+Endless+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/endairas_endless_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Excess Coil",
+      "descricao": "Activating a Skill grants a Shield for 25% of Max Health. Cannot stack with itself. Lasts 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Excess+Coil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/excess_coil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fae Bruiser Ring",
+      "descricao": "Dealing Melee damage grants 2 Stack of BULWARK for 15s. Does not stack with itself.",
+      "link": "https://remnant2.wiki.fextralife.com/Fae+Bruiser+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_bruiser_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fae Hunter Ring",
+      "descricao": "Increases Range of Firearms by 35%.",
+      "link": "https://remnant2.wiki.fextralife.com/Fae+Hunter+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_hunter_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fae Protector Signet",
+      "descricao": "Increases Max Health and Stamina by 10 and Reduces Encumbrance by 5.",
+      "link": "https://remnant2.wiki.fextralife.com/Fae+Protector+Signet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_protector_signet_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fae Shaman Ring",
+      "descricao": "Increases Health Regeneration by 0.35 and Relic Use Speed by 25%.",
+      "link": "https://remnant2.wiki.fextralife.com/Fae+Shaman+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_shaman_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fae Warrior Ring",
+      "descricao": "Increases Melee Damage by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Fae+Warrior+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fae_warrior_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Faelin's Sigil",
+      "descricao": "Melee Damage generates 10% additional Mod Power.",
+      "link": "https://remnant2.wiki.fextralife.com/Faelin's+Sigil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faelins_sigil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Faerin's Sigil",
+      "descricao": "Critical and Weakspot Hits generates 12.5% additional Mod Power.",
+      "link": "https://remnant2.wiki.fextralife.com/Faerin's+Sigil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/faerin_sigil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Feastmaster's Signet",
+      "descricao": "Increases active Concoction Limit by 1.",
+      "link": "https://remnant2.wiki.fextralife.com/Feastmaster's+Signet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feastmasters_signet_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Feedback Loop",
+      "descricao": "Perfect Dodge triggers a 3m AOE blast that deal 115 SHOCK Damage and applies OVERLOADED.",
+      "link": "https://remnant2.wiki.fextralife.com/Feedback+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feedback_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Fire Stone",
+      "descricao": "Increases FIRE damage by 15% and FIRE Resistance by 20.",
+      "link": "https://remnant2.wiki.fextralife.com/Fire+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fire_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Flyweight's Sting",
+      "descricao": "Increases Melee damage while Armor Encumbrance is below 50. Damage bonus increases with lower Encumbrance, up to 25% at 0 Weight.",
+      "link": "https://remnant2.wiki.fextralife.com/Flyweight's+Sting",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/flyweights_sting_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Focusing Shard",
+      "descricao": "Reduce Recoil by 50%. Aiming Down Sights gradually reduces Spread by 70% over 4s",
+      "link": "https://remnant2.wiki.fextralife.com/Focusing+Shard",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/focused_jewel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Frivolous Band",
+      "descricao": "Increases Evade Speed by 10%. Perfect Evades increase Fire Rate by 10% and Melee Speed by 10% for 7s.",
+      "link": "https://remnant2.wiki.fextralife.com/Frivolous+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/frivolous_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Galvanized Resupply Band",
+      "descricao": "Increases Ammo Pickups by 100%.",
+      "link": "https://remnant2.wiki.fextralife.com/Galvanized+Resupply+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/galvanized_resupply_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Game Master's Pride",
+      "descricao": "Reduces all healing by 50%. Splits all damage and remaining healing evenly amoung all allies wearing this ring.",
+      "link": "https://remnant2.wiki.fextralife.com/Game+Master's+Pride",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/game_masters_pride_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Generating Band",
+      "descricao": "Regenerate 3% of Max Health per second while a Shield is active.",
+      "link": "https://remnant2.wiki.fextralife.com/Generating+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/generating_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Grounding Stone",
+      "descricao": "Increases SHOCK damage by 15% and SHOCK Resistance by 20.",
+      "link": "https://remnant2.wiki.fextralife.com/Grounding+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/grounding_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Guardian's Ring",
+      "descricao": "Adds 1 Stack of BULWARK when within 15m of an enemy. Increases to 2 Stacks for 15s after taking Melee damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Guardian's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Gunslinger's Ring",
+      "descricao": "Increases Firearm Swap Speed by 30% and Reload Speed by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Gunslinger's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gunslingers_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Hardcore Metal Band",
+      "descricao": "Taking damage adds 1 stack of BULWARK which individually falls of after 10s. Max 2 stacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Hardcore+Metal+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hardcore_metal_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Hardened Coil",
+      "descricao": "Reduces all incoming damage by 3% for each 10% of missing Health. Max 15% reduction.",
+      "link": "https://remnant2.wiki.fextralife.com/Hardened+Coil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hardened_coil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Haymaker's Ring",
+      "descricao": "Increase Melee damage by 0.2% for every 1 points of Armor Encumbrance.",
+      "link": "https://remnant2.wiki.fextralife.com/Haymaker's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/haymakers_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Heart of the Wolf",
+      "descricao": "Increases Max Stamina by 25 and Movement Speed by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Heart+of+the+Wolf",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/heart_of_the_wolf_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Hex Ward",
+      "descricao": "Prevents CURSE Blight.",
+      "link": "https://remnant2.wiki.fextralife.com/Hex+Ward",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hex_ward_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Kinetic Cycle Stone",
+      "descricao": "Increases Mod and Skill Cast Speed by 20%.",
+      "link": "https://remnant2.wiki.fextralife.com/Kinetic+Cycle+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kinetic_cycle_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Lithic Signet",
+      "descricao": "Reduces all incoming damage by 7%.",
+      "link": "https://remnant2.wiki.fextralife.com/Lithic+Signet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lithic_signet_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Lodestone Ring",
+      "descricao": "Increases all damage dealt against illuminated enemies by 5%.",
+      "link": "https://remnant2.wiki.fextralife.com/Lodestone+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lodestone_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Low Yield Recovery Ring",
+      "descricao": "Killing an enemy regenerates 6% Max Health over 6s. Additional kills increase duration by 6s. Max 30s.",
+      "link": "https://remnant2.wiki.fextralife.com/Low+Yield+Recovery+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/low_yield_recovery_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Mechanic's Cog",
+      "descricao": "While carrying an Engineer Heavy Weapon, gain 15% Movement Speed and 1 Stack of ",
+      "link": "https://remnant2.wiki.fextralife.com/Mechanic's+Cog",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mechanics_cog_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Metal Driver",
+      "descricao": "Killing Blows increase Reload Speed by 10% for 15s. Stacks 3x.",
+      "link": "https://remnant2.wiki.fextralife.com/Metal+Driver",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/metal_driver_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Meteorite Shard Ring",
+      "descricao": "Increases Encumbrance by 50. Increases Unarmed damage by 50%.",
+      "link": "https://remnant2.wiki.fextralife.com/Meteorite+Shard+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/meteorite_shard_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Microcompressor",
+      "descricao": "Reduces Heat Generation when firing weapons that Overheat by -30%. Increases Heat Reduction Rate by 30%.",
+      "link": "https://remnant2.wiki.fextralife.com/Microcompressor",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/microcompressor_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Momentum Driver",
+      "descricao": "After Sprinting for 1.5s, Movement Speed is increased by 15% and Stagger Level reduced by 1.",
+      "link": "https://remnant2.wiki.fextralife.com/Momentum+Driver",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/momentum_driver_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Outcast Ring",
+      "descricao": "Increases Reload Speed by 5% for 10s after reloading. Stacks 5x.",
+      "link": "https://remnant2.wiki.fextralife.com/Outcast+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/outcast_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Point Focus Ring",
+      "descricao": "Reduces Initial Spread and Recoil by 30%.",
+      "link": "https://remnant2.wiki.fextralife.com/Point+Focus+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/point_focus_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Power Saver",
+      "descricao": "At Max Health, gain a 35% chance to not use a Relic charge.",
+      "link": "https://remnant2.wiki.fextralife.com/Power+Saver",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_saver_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Probability Cord",
+      "descricao": "Increases Crit Damage by 20%.",
+      "link": "https://remnant2.wiki.fextralife.com/Probability+Cord",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/probability_cord_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Propulsion Loop",
+      "descricao": "After killing an enemy, increases Movement Speed by 5% and Consumable Use Speed by 10% for 10s. Stacks 3x.",
+      "link": "https://remnant2.wiki.fextralife.com/Propulsion+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/propulsion_loop_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Provisioner Ring",
+      "descricao": "Firearms reload over time while stowed.",
+      "link": "https://remnant2.wiki.fextralife.com/Provisioner+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/provisioner_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Reaping Stone",
+      "descricao": "After an Elemental Status Effect is removed from wearer, they become immune to all Elemental Status Effects and gain 5% of base damage dealt as Lifesteal for 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Reaping+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reaping_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Rerouting Cable",
+      "descricao": "Gain 5% of Max Health as a SHIELD for 5s after spending 20 Stamina. Accumulation resets after 5s of inaction. Max 50% SHIELD.",
+      "link": "https://remnant2.wiki.fextralife.com/Rerouting+Cable",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rerouting_cable_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Reserve Boosting Gem",
+      "descricao": "Increases Health Regeneration by 0.5 per second. 1s after going below 50% Health, increases regeneration value to 2.5 per second until 50% Health is reached.",
+      "link": "https://remnant2.wiki.fextralife.com/Reserve+Boosting+Gem",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reserve_boosting_gem_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Restriction Cord",
+      "descricao": "Restricts the wearer from Healing above 50% of their Max Health and reduces all incoming damage by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Restriction+Cord",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/restriction_cord_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Crisis",
+      "descricao": "When wearer's Health drops below 25%, gain a Shield for 25% of Max Health. Lasts 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Crisis",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_crisis_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring Of Deflection",
+      "descricao": "Direct Damage against wearer has a 50% Chance to be converted entirely to Grey Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Deflection",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_deflection_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Diversion",
+      "descricao": "Increases invulnerability window while evading and sliding.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Diversion",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_diversion_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Flawed Beauty",
+      "descricao": "Ranged Weakspot damage is increased by 25%. Ranged damage is reduced by 15% when failing to hit a Weakspot.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Flawed+Beauty",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_flawed_beauty_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Grace",
+      "descricao": "Taking enemy damage causes 15% of Maximum Health to regenerate over 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Grace",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_grace_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Omens",
+      "descricao": "Evades cost 12.5% Max Health as Grey Health instead of Stamina.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Omens",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_omens_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring Of Restocking",
+      "descricao": "Reloads within 5s of a Critical Kill or Weakspot Kill are 20% faster.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Restocking",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_restocking_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of Retribution",
+      "descricao": "Incoming enemy damage increases Reload Speed and all outgoing damage by 15%. Lasts 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Retribution",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_retribution_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of the Damned",
+      "descricao": "Increases All Damage by 0.4% for every 1% of Grey Health. Increases Critical Chance by 5% if at least 50% of Max Health is Grey.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Damned",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strong_arm_band_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of the Forest Spirit",
+      "descricao": "Relic Healing Effectiveness is increased by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Forest+Spirit",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_forest_spirit_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Ring of the Robust",
+      "descricao": "Increases Max Health by 10, and Armor by 20.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Robust",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_robust_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Rock of Anguish",
+      "descricao": "Gain 5% Movement Speed and 7.5% Reload Speed for every 25% of Max Health missing.",
+      "link": "https://remnant2.wiki.fextralife.com/Rock+of+Anguish",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rock_of_anguish_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Rotward",
+      "descricao": "Prevents ROOT ROT Blight.",
+      "link": "https://remnant2.wiki.fextralife.com/Rotward",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rotward_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Rusted Heirloom",
+      "descricao": "Grants 2 Stacks of BULWARK below 50% Max HP.",
+      "link": "https://remnant2.wiki.fextralife.com/Rusted+Heirloom",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_heirloom_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Sagestone",
+      "descricao": "Increases earned Experience by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Sagestone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sagestone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Sapphire Dreamstone",
+      "descricao": "Critical Hits reduce Skill Cooldowns by 4%. Can only happen once every 2s.",
+      "link": "https://remnant2.wiki.fextralife.com/Sapphire+Dreamstone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sapphire_dreamstone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Seal of the Empress",
+      "descricao": "Increases Max Health by 20. Reduces Max Stamina by 5.",
+      "link": "https://remnant2.wiki.fextralife.com/Seal+of+the+Empress",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/seal_of_the_empress_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Shard Banded Ring",
+      "descricao": "Increases Mod damage by 12%.",
+      "link": "https://remnant2.wiki.fextralife.com/Shard+Banded+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shard_banded_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Shiny Hog Lure",
+      "descricao": "Reloading grants 25-50 Mod Power to both weapons based on percentage of Magazine reloaded.",
+      "link": "https://remnant2.wiki.fextralife.com/Shiny+Hog+Lure",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shiny_hog_lure_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Singed Ring",
+      "descricao": "Increases all damage dealt to BURNING enemies by 12%.",
+      "link": "https://remnant2.wiki.fextralife.com/Singed+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/singed_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Slayer's Crest",
+      "descricao": "Increases Melee damage by 25% when attacking enemies from behind",
+      "link": "https://remnant2.wiki.fextralife.com/Slayer's+Crest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/slayers_crest_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Soul Guard",
+      "descricao": "Gain a stack of BULWARK for each active Summon.",
+      "link": "https://remnant2.wiki.fextralife.com/Soul+Guard",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_guard_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Soul Link",
+      "descricao": "Summons Lifesteal 5% of base damage dealt which returns to the wearer as Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Soul+Link",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_link_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Spirit Stone",
+      "descricao": "Increases Mod Power generation by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Spirit+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_stone_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stockpile Charger",
+      "descricao": "After picking up ammo, increases the damage of that Ammo Type by 15% for 20s.",
+      "link": "https://remnant2.wiki.fextralife.com/Stockpile+Charger",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stockpile_charger_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stone of Balance",
+      "descricao": "Increases all damage by 7%.",
+      "link": "https://remnant2.wiki.fextralife.com/Stone+of+Balance",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_balance_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stone of Continuance",
+      "descricao": "Increases Skill Duration by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Stone+of+Continuance",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_continuance_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stone of Expanse",
+      "descricao": "Increases Ranged damage by 12%. Reduces all other damage dealt by 5%.",
+      "link": "https://remnant2.wiki.fextralife.com/Stone+of+Expanse",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_expanse_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stone Of Malevolence",
+      "descricao": "Elemental damage generates 15% additional Mod Power.",
+      "link": "https://remnant2.wiki.fextralife.com/Stone+Of+Malevolence",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_malevolence_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Stream Coupler",
+      "descricao": "Using a Skill regenerates 25% of Max Health over 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Stream+Coupler",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stream_coupler_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Subterfuge Link",
+      "descricao": "After killing an enemy, increases the Cast Speed of the next Mod or Skill Cast by 35%. Lasts 15s or until consumed.",
+      "link": "https://remnant2.wiki.fextralife.com/Subterfuge+Link",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/subterfuge_link_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Suppression Ward",
+      "descricao": "Prevents SUPPRESSION Blight.",
+      "link": "https://remnant2.wiki.fextralife.com/Suppression+Ward",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/supression_ward_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Targeting Jewel",
+      "descricao": "Increases Range on all Firearms by 4m. Reduces Spread by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Targeting+Jewel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/targeting_jewel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Tarnished Ring",
+      "descricao": "Increases damage of Unarmed Attacks by 30%.",
+      "link": "https://remnant2.wiki.fextralife.com/Tarnished+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tarnished_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Tear of Kaeula",
+      "descricao": "Increases Relic capacity by 2 while equipped",
+      "link": "https://remnant2.wiki.fextralife.com/Tear+of+Kaeula",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tear_of_kauela_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Tempest Conduit",
+      "descricao": "After receiving Elemental Damage, increases all damage dealt by 15% and Resistance to the received Element by 20 for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Tempest+Conduit",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tempest_conduit_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Tightly Wound Coil",
+      "descricao": "When spending 75% or more of current magazine, gain a SHIELD for 15% of Max Health for 5s. Does not stack with itself.",
+      "link": "https://remnant2.wiki.fextralife.com/Tightly+Wound+Coil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tightly_wound_coil_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Timekeeper's Jewel",
+      "descricao": "Increases the duration of all Status Effects applied by wearer. Durations varies per status.",
+      "link": "https://remnant2.wiki.fextralife.com/Timekeeper's+Jewel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/timekeepers_jewel_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Tomb Dweller's Ring",
+      "descricao": "Increases Movement Speed by 10% for 15s after Vaulting, Climbing, Leaping, and entering Water, stacks 3x. Reduces Fall Damage by 50%.",
+      "link": "https://remnant2.wiki.fextralife.com/Tomb+Dweller's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tomb_dwellers_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Vacuum Seal",
+      "descricao": "Increases Automatic Pickup Range for Scrap by 150%. Picking up Scrap, Iron, or Ammo grants a SHIELD for 15% of Max Health for 10s Does not stack.",
+      "link": "https://remnant2.wiki.fextralife.com/Vacuum+Seal",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vacuum_seal_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Vestige of Power",
+      "descricao": "After 5s of not being damaged, increases Ranged and Melee Damage by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Vestige+of+Power",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vestige_of_power_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Wax Sealed Ring",
+      "descricao": "Killing blows increase Ranged and Melee Damage by 4% for 15s. Stacks 3x.",
+      "link": "https://remnant2.wiki.fextralife.com/Wax+Sealed+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wax_sealed_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "White Pawn Stamp",
+      "descricao": "Reduces Mod Power Requirement by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/White+Pawn+Stamp",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/white_pawn_stamp_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Wind Hollow Circlet",
+      "descricao": "Increases Reload Speed by 12%.",
+      "link": "https://remnant2.wiki.fextralife.com/Wind+Hollow+Circlet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wind_hollow_circlet_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Worn Admiral's Ring",
+      "descricao": "All damage received is increased by 200%. All damage dealt is increased by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Worn+Admiral's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/worn_admirals_ring_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Zania's Malice",
+      "descricao": "Dealing Weakspot damage increases Weakspot damage by 5% for 5s. Stacks 4x.",
+      "link": "https://remnant2.wiki.fextralife.com/Zania's+Malice",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/zanias_malice_rings_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Zohee's Ring",
+      "descricao": "Increases Mod Duration by 20%.",
+      "link": "https://remnant2.wiki.fextralife.com/Zohee's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/zohees_ring_rings_remnant2_wiki_guide_250px.png"
+    }
+  ],
+  "The Awakened King": [
+    {
+      "nome": "A'taerii Booster",
+      "descricao": "Heavy Weapons gain 10% Damage and 10% Critical Chance in both Carry Mode and Turret Mode.",
+      "link": "https://remnant2.wiki.fextralife.com/A'taerii+Booster",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ataerii_booster_ring_remnant2_wiki_guide200px.png"
+    },
+    {
+      "nome": "Atonement Fold",
+      "descricao": "Self-inflicts BLEEDING Status upon the wearer, causing 1.1 BLEED damage per second. Increases Critical Chance by 5%.",
+      "link": "https://remnant2.wiki.fextralife.com/Atonement+Fold",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/atonement_fold_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Band of the Fanatic",
+      "descricao": "Increases Status Effect Damage by 30% and reduces Status Effect Duration by 50%.",
+      "link": "https://remnant2.wiki.fextralife.com/Band+of+the+Fanatic",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/band_of_the_fanatic_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Bitter Memento",
+      "descricao": "Sets 1% of wearer's Max Health as Grey Health. Using a skill costs 33.5% Health as Grey Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Bitter+Memento",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bitter_memento_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Brawler's Pride",
+      "descricao": "Increases Melee Attack Speed by 15% and melee Critical Chance by 5%",
+      "link": "https://remnant2.wiki.fextralife.com/Brawler's+Pride",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/brawlers_pride_ring_remnant2_wiki_guide200px.png"
+    },
+    {
+      "nome": "Bridge Wardens Crest",
+      "descricao": "Perfect Dodge increases Melee Damage by 20% for 10s. Perfect Evade Flop also gains 10% Damage Reduction for the duration.",
+      "link": "https://remnant2.wiki.fextralife.com/Bridge+Wardens+Crest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bridge_wardens_crest_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Burden of the Departed",
+      "descricao": "Reduces Total Relic Charges by 33%. Increases all damage dealt by 10%",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Departed",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_departed_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Burden of the Sciolist",
+      "descricao": "Reduces Ammo Reserves by 20%. Increases Mod and Skill Damage by 15%.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Sciolist",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_sciolist_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Crimson Dreamstone",
+      "descricao": "Crit hits increase Skill Damage 2% for 5s. Max stack 10.",
+      "link": "https://remnant2.wiki.fextralife.com/Crimson+Dreamstone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crimson_dreamstone_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Digested Hog Lure",
+      "descricao": "Reloading increases Mod Damage by 15% for 7s.",
+      "link": "https://remnant2.wiki.fextralife.com/Digested+Hog+Lure",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/digested_hog_lure_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Dried Clay Ring",
+      "descricao": "Grants 1 stack of BULWARK. Increases All Damage by 50% of the total Damage Reduction granted by BULWARK stacks",
+      "link": "https://remnant2.wiki.fextralife.com/Dried+Clay+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dried_clay_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Elevated Ring",
+      "descricao": "Increases Dodge Weight Threshold by 10. Reduces Encumbrance by 10.",
+      "link": "https://remnant2.wiki.fextralife.com/Elevated+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/elevated_ring_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Jewel of the Beholden",
+      "descricao": "On Relic Use, increase Mod Damage by 15% for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Jewel+of+the+Beholden",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/jewel_of_the_beholden_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Lighthouse Keeper's Ring",
+      "descricao": "Automatically generate 4 Mod Power per second for each entity within 15m suffering from a Negative Status Effect. Max 5 stacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Lighthouse+Keeper's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/lighthouse_keepers_ring_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Offering Stone",
+      "descricao": "Dealing Ranged Damage increases all Damage by 1% for 1s. Stacks 15x. After killing an enemy, extends the duration to 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Offering+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/offering_stone_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Painless Obsidian",
+      "descricao": "When Grey Health is present, gain Haste and 1 stack of Bulwark.",
+      "link": "https://remnant2.wiki.fextralife.com/Painless+Obsidian",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/painless_obsidian_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Power Complex",
+      "descricao": "Increases All Damage dealt by 1% per second to a maximum of 15%. Dodging resets Power Complex to 0%",
+      "link": "https://remnant2.wiki.fextralife.com/Power+Complex",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/power_complex_ring_remnant2_wiki_guide200px.png"
+    },
+    {
+      "nome": "Red Ring Of Death",
+      "descricao": "Duplicates the last damaging Negative Status applied to target. Reduces outgoing Status Effect Damage by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Red+Ring+of+Death",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/red_ring_of_death_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring of Infinite Damage",
+      "descricao": "Increases fire rate by 8.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Infinite+Damage",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_infinite_damage_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring Of The Castaway",
+      "descricao": "Increases base Consumable Duration by 50%.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Castaway",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_castaway_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring Of The Vain",
+      "descricao": "Reduces Invulnerability Window on Evade and Combat Slide by 35%. Increases Movement Speed while aiming by 35%",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+the+Vain",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_the_vain_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Shadow Of Misery",
+      "descricao": "Increase Status Effect Damage by 20%",
+      "link": "https://remnant2.wiki.fextralife.com/Shadow+of+Misery",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shadow_of_misery_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Shaed Stone",
+      "descricao": "Increases Skill damage by 15%",
+      "link": "https://remnant2.wiki.fextralife.com/Shaed+Stone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shaed_stone_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Soul Shard",
+      "descricao": "Increase all damage dealt by 5% for each summon. Max 15%",
+      "link": "https://remnant2.wiki.fextralife.com/Soul+Shard",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soul_shard_ring_remnant2_wiki_guide200px.png"
+    },
+    {
+      "nome": "Wood Ring",
+      "descricao": "Increases Stagger Damage by 15%",
+      "link": "https://remnant2.wiki.fextralife.com/Wood+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wood_ring_rings_remnant2_wiki_guide_200px.png"
+    },
+    {
+      "nome": "White Glass Bead",
+      "descricao": "Perfect Dodge applies a SHIELD for 15% of Max Health. Lasts 10s. Cannot Stack with itself.",
+      "link": "https://remnant2.wiki.fextralife.com/White+Glass+Bead",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/white_glass_bead_rings_remnant2_wiki_guide_200px.png"
+    }
+  ],
+  "The Forgotten Kingdom": [
+    {
+      "nome": "Burden of the Mesmer",
+      "descricao": "Reduces Max Health by 20%. Increases All Damage by 1% for every 5% of the wearer's total Damage Reduction.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mesmer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mesmer_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Matriarch's Ring",
+      "descricao": "Perfect Dodge reduces Charge Melee Stamina Cost by 100% for 7s",
+      "link": "https://remnant2.wiki.fextralife.com/Matriarch's+Ring",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/matriarchsring_ring_remnant2_wiki_guide_icon200px.png"
+    },
+    {
+      "nome": "Ravager's Bargain",
+      "descricao": "Increases All Damage and Critical Chance by 5% while BLEEDING",
+      "link": "https://remnant2.wiki.fextralife.com/Ravager's+Bargain",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ravagers_bargain_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Token of Favor",
+      "descricao": "Increases All damage by 5%. Gain 10% Critical Chance against EXPOSED targets.",
+      "link": "https://remnant2.wiki.fextralife.com/Token+of+Favor",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/token_of_favor_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Tear of Lydusa",
+      "descricao": "Increases Healing and Lifesteal Efficacy by 20%. Reduces Healing Efficacy bonus by 1.5% for each 10% of missing Relic Capacity.",
+      "link": "https://remnant2.wiki.fextralife.com/Tear+of+Lydusa",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tear_of_lydusa_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Rally Band",
+      "descricao": "Melee Strikes convert Grey Health into Health. Each melee strike converts up to 10% of Max Health.",
+      "link": "https://remnant2.wiki.fextralife.com/Rally+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rally_band_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Thalos Eyelet",
+      "descricao": "Grants 1 stack of BULWARK and 2 Stamina Regen per second for each BULWARK stack. Increases BULWARK maximum stacks to 6.",
+      "link": "https://remnant2.wiki.fextralife.com/Thalos+Eyelet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/thalos_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Mark of the Destroyer",
+      "descricao": "Perfect Dodge triggers a 3m AOE blast that deals 310 Explosive Damage",
+      "link": "https://remnant2.wiki.fextralife.com/Mark+of+the+Destroyer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mark_of_the_destroyer_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Feathery Binding",
+      "descricao": "Increases projectile speed by 15% and decreases Weapon Charge Time by 10%. Bonus is doubled when HASTE is active.",
+      "link": "https://remnant2.wiki.fextralife.com/Feathery+Binding",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feathery_binding_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Gul Signet",
+      "descricao": "Increases Damage Reduction by 10%. Each Weight Class above LIGHT reduces Damage Reduction bonus by 2.5% (up to 3x).",
+      "link": "https://remnant2.wiki.fextralife.com/Gul+Signet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gulsignet_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Ring of Spirits",
+      "descricao": "Increases Mod Generation by 3% for each active consumable. Max 5 stacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Spirits",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_spirit_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Bloodless King's Vow",
+      "descricao": "Gain 4% of base Ranged Damage dealt as Lifesteal.",
+      "link": "https://remnant2.wiki.fextralife.com/Bloodless+King's+Vow",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodless_kings_vow_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Burden of the Mason",
+      "descricao": "Impairs Dodges by 1 Weight Class. Increases Melee damage by 35% of the wearer total Damage Reduction.",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Mason",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_mason_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Pan War Band",
+      "descricao": "Increases Movement Speed and Reload Speed by 3% and Fire Rate by 2% for each ally wearing this ring.",
+      "link": "https://remnant2.wiki.fextralife.com/Pan+War+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pan_war_band_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Black Spinel",
+      "descricao": "Applying a Negative Status Effect grants 2% Max Health per second for 3s. Applying or refreshing a Negative Status Effect while buff is active will increase the duration by 1.5s. Max 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Black+Spinel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackspinel_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Dark Sea Armada Crest",
+      "descricao": "On Relic Use, increases All elemental Damage dealt by 15% for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Dark+Sea+Armada+Crest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/darksea_armada_crest_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Conjurer's Circle",
+      "descricao": "When wearer's Summon enters the battlefield, conjure a 5m Summoning Circle. Allies in the Summoning Circle have their Stagger Level reduced by 1 and generate 5 Grey Health per second. Lasts 10s. Can only happen once every 10s after expiring.",
+      "link": "https://remnant2.wiki.fextralife.com/Conjurer's+Circle",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/conjurers_circle_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Closed Loop",
+      "descricao": "Gain 5% of Max Health as a SHIELD for 10s after a Charged Shot. Accumulation resets after 10s of inaction. Max 25% SHIELD.",
+      "link": "https://remnant2.wiki.fextralife.com/Closed+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/closed_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Floodlit Diamond",
+      "descricao": "Increases Weakspot Damage by 12% bonus is doubled against EXPOSED targets.",
+      "link": "https://remnant2.wiki.fextralife.com/Floodlit+Diamond",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/floodit_diamond_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Kolket Eyelet",
+      "descricao": "Grants 1 stack of Bulwark. Increases Health Regeneration by 0.3 per second for each stack of Bulwark.",
+      "link": "https://remnant2.wiki.fextralife.com/Kolket+Eyelet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/kolket_eyelet_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Leaking Gemstone",
+      "descricao": "Allows 20% of Mod power Generation to continue during an active mod. ",
+      "link": "https://remnant2.wiki.fextralife.com/Leaking+Gemstone",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/leaking_spirit_stone_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Sealed Resin Loop",
+      "descricao": "Melee attacks can be cancelled mid action by Dodging.",
+      "link": "https://remnant2.wiki.fextralife.com/Sealed+Resin+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sealed_resin_loop_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Ring of Ordnance",
+      "descricao": "Allows Heavy Weapon Ammo to gradually regenerate while in both Heavy Carry or turret modes. Doubles the stowed Ammo Regeneration Rate of Heavy Weapons.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ordnance",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ordance_ring_remnant2_the_forgotten_kingdom_200px.png"
+    },
+    {
+      "nome": "Soul Feast",
+      "descricao": "When human, companion or minion is downed or killed, reduce skill Cooldowns by 8%.",
+      "link": "https://remnant2.wiki.fextralife.com/Soul+Feast",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/soulfeast_ring_remnant2_the_forgotten_kingdom_200px.png"
+    }
+  ],
+  "The Dark Horizon": [
+    {
+      "nome": "Wired Inhibitor",
+      "descricao": "Applying a Negative Status Effect on an enemy also applies SLOW for 1s. Applying or  refreshing additional Negative Statuses will increase the duration by 1s. Max 5s.",
+      "link": "https://remnant2.wiki.fextralife.com/Wired+Inhibitor",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wiredinhibitor_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Transient Cord",
+      "descricao": "On Relic Use, increases Critical Chance by 10% and Critical Damage by 10% for 15s. Reduce bonus by 1% once every 1.5s. ",
+      "link": "https://remnant2.wiki.fextralife.com/Transient+Cord",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/transient_cord_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Disaster Converter",
+      "descricao": "When wearer's Health drops below 25%, gain a SHIELD for 50% of total current Grey Health for 10s. Max 50% SHIELD. Does not stack with itself.",
+      "link": "https://remnant2.wiki.fextralife.com/Disaster+Converter",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disaster_converter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring Of Phantom Pain",
+      "descricao": "Missing Health is converted to 10 Grey Health per second. Reduces Grey Health Regeneration by 90%",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Phantom+Pain",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_phantom_pain_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Breach Accelerator",
+      "descricao": "Increases Movement Speed and Physical Damage by 5%. Bonus is doubled when HASTE is active",
+      "link": "https://remnant2.wiki.fextralife.com/Breach+Accelerator",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/breach_accelerator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Burden of the Excavator",
+      "descricao": "Explosions cannot Critical Hit. Increases Explosive Damage by 35%",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Excavator",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_excavator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Burden of the Protector",
+      "descricao": "Reduces incoming SHIELD Duration by 50%. Increases SHIELD Amount by 15%",
+      "link": "https://remnant2.wiki.fextralife.com/Burden+of+the+Protector",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/burden_of_the_protector_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Bypass Primer",
+      "descricao": "On Perfect Dodge, reload current Firearm",
+      "link": "https://remnant2.wiki.fextralife.com/Bypass+Primer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bypass_primer_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Clear Halo",
+      "descricao": "After 10s of not being damaged, generate a SHIELD for 10% of Max Health over 2s.",
+      "link": "https://remnant2.wiki.fextralife.com/Clear+Halo",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/clear_halo_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Combat Shield Generator",
+      "descricao": "While in combat, Crouching or Combat Slide generates a stationary 3m x 1.5m Energy Shield with 300 Health which blocks enemy projectiles. Lasts 10s or until broken by damage. Can only happen once every 10s after expiring.",
+      "link": "https://remnant2.wiki.fextralife.com/Combat+Shield+Generator",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/combat_shield_generator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Custodian's Bastion",
+      "descricao": "Increases Armor by 1 per 2% of active SHIELD. Max 100 Bonus Armor.",
+      "link": "https://remnant2.wiki.fextralife.com/Custodian's+Bastion",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/custodians_bastion_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Demolition Coil",
+      "descricao": "Unarmed Charged Melee Attacks explode when hitting an Enemy, dealing 30% additional Explosive Damage over 1.5m",
+      "link": "https://remnant2.wiki.fextralife.com/Demolition+Coil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/demolition_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Detonating Cord",
+      "descricao": "On Relic Use, increases Explosive Damage by 10% for 15s and casts a 3m Explosive AOE which deals 100 Base Damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Detonating+Cord",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/detonator_ranged_mutators_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Empowering Loop",
+      "descricao": "Increases Ranged Damage by 15%. Slows Firearm Charge Time by 10% and reduces Fire Rate by 10%. ",
+      "link": "https://remnant2.wiki.fextralife.com/Empowering+Loop",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/empowering_loop_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Feeding Tube",
+      "descricao": "While in combat, auto-consume the compatible item in the first quick-slot every 30s: Increases Consumable and Relic Use Speed by 10%. Not compatible with Concoctions, Grenades and some Unique Consumables.",
+      "link": "https://remnant2.wiki.fextralife.com/Feeding+Tube",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/feeding_tube_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Force Multiplier",
+      "descricao": "Overcharging Charge Weapons grants 1.05x Weapon Damage Per 0.5s while Charge is held beyond Perfect Release Window. Max 1.3x.",
+      "link": "https://remnant2.wiki.fextralife.com/Force+Multiplier",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/force_multiplier_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Impact Augment",
+      "descricao": "When a single source of Enemy Damage exceeds 15% of Max Health, increases All Damage dealt by 3% for 10s. Max 5 stacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Impact+Augment",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/impact_augment_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Infinity Pocket",
+      "descricao": "Reloading an Empty Magazine refills 10% of the stowed weapon's Max Ammo. When stowed weapon is full, the refill amount applies to the primary weapon instead.",
+      "link": "https://remnant2.wiki.fextralife.com/Infinity+Pocket",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/infinity_pocket_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Mortal Coil",
+      "descricao": "Increases All Damage dealt by 1% for every 2% of the wearer's total Lifesteal. Max 20% All Damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Mortal+Coil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mortal_coil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Nanofiber Strand",
+      "descricao": "Increases SHIELD Amount by 10%.",
+      "link": "https://remnant2.wiki.fextralife.com/Nanofiber+Strand",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nanofiber_strand_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Nightmare Sigil",
+      "descricao": "On Perfect Dodge, increases base Lifesteal by 5% for 10s.",
+      "link": "https://remnant2.wiki.fextralife.com/Nightmare+Sigil",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nightmare_sigil_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring of Ashes",
+      "descricao": "Stowed weapons generate 15 Mod Power per second.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+of+Ashes",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_ashes_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Ring Of Bones",
+      "descricao": "On Relic Use, increases All Damage by 10% for 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Ring+Of+Bones",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ring_of_bones_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Security Half-Measure",
+      "descricao": "On Relic Use, sacrifices 15% of Max Health and grants a SHIELD for 10% of the wearer's Max Health to allies within 8m. Conversion cannot kill wearer. Lasts 15s.",
+      "link": "https://remnant2.wiki.fextralife.com/Security+Half-Measure",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/security_half_measure_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Shield Alternator",
+      "descricao": "Activating a Mod that costs 100 Mod Power or greater, generates a SHIELD for 20% of Max Health. Lasts 15s. Cannot stack with itself",
+      "link": "https://remnant2.wiki.fextralife.com/Shield+Alternator",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shield_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Siphon Filter",
+      "descricao": "Increases All Damage dealt by an amount equal to an active HASTE bonus. Grants HASTE when within 15m of an entity suffering from SLOW.",
+      "link": "https://remnant2.wiki.fextralife.com/Siphon+Filter",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/siphon_filter_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Spirit Alternator",
+      "descricao": "Incoming SHIELD grants 150% of the SHIELD generated as Mod Power",
+      "link": "https://remnant2.wiki.fextralife.com/Spirit+Alternator",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/spirit_alternator_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Stone of Revelation",
+      "descricao": "Increases Mod Generation and Mod Damage by 5%. Bonus is doubled against EXPOSED targets",
+      "link": "https://remnant2.wiki.fextralife.com/Stone+of+Revelation",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stone_of_revelation_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Strand of Sinew",
+      "descricao": "Slows Firearm Charge Time by 30% and increases Ranged Charge Damage by 20%.",
+      "link": "https://remnant2.wiki.fextralife.com/Strand+of+Sinew",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/strand_of_sinew_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Symbol of Royalty",
+      "descricao": "On Perfect Dodge, grants 1 stack of BULWARK for 10s. Max 3 stacks",
+      "link": "https://remnant2.wiki.fextralife.com/Symbol+of+Royalty",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/symbol_of_royalty_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
+    },
+    {
+      "nome": "Tolerance Band",
+      "descricao": "Decreases Firearm Charge Time by 10% and increases Perfect Charge Window for applicable ranged weaponry",
+      "link": "https://remnant2.wiki.fextralife.com/Tolerance+Band",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tolerance_band_rings_remnant2_the_dark_horizon_wiki_guide_200px.png"
     }
   ]
 }
