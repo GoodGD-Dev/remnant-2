@@ -1,0 +1,9 @@
+.custom-card {
+  max-width: 200px; /* Altere o valor para o tamanho desejado */
+  margin: auto; /* Centraliza o cartão na coluna */
+}
+
+.custom-card-img {
+  max-width: 100%; /* Faz a imagem ocupar 100% da largura do cartão */
+  height: auto; /* Mantém a proporção da imagem */
+}
