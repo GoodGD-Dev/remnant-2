@@ -1,5 +1,6 @@
 import { Navbar, Nav, Button, Form, Container } from 'react-bootstrap';
 import { Link, useLocation } from 'react-router-dom';
+import { useState } from 'react'; // Importando o useState
 import './style.css';
 import Logo from "../../assets/remnant logo.png";
 
@@ -12,19 +13,24 @@ const navItems = [
 
 const Header = () => {
   const location = useLocation();
+  const [expanded, setExpanded] = useState(false); // Gerencia o estado de expandido do Navbar
 
   const getActiveLinkStyle = (path) => 
     location.pathname === path ? { textDecoration: 'line-through', color: 'white' } : {};
 
+  const handleNavItemClick = () => {
+    setExpanded(false); // Fecha o dropdown após selecionar um item
+  };
+
   return (
-    <Navbar bg="black" variant="dark" expand="lg" data-aos="fade-right">
+    <Navbar bg="black" variant="dark" expand="lg" expanded={expanded} onToggle={setExpanded} data-aos="fade-right">
       <Container>
         <Navbar.Brand as={Link} to="/" data-aos="fade-down" data-aos-duration="700">
           <h1 className='text-uppercase'>
             <img className='logo-img' src={Logo} alt="Remnant 2 Logo" />
           </h1>
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             {navItems.map((item, index) => (
@@ -37,6 +43,7 @@ const Header = () => {
                 disabled={item.disabled}
                 data-aos="fade-down"
                 data-aos-duration={800 + index * 100}
+                onClick={handleNavItemClick} // Fecha o menu quando um item é clicado
               >
                 {item.label}
               </Nav.Link>
