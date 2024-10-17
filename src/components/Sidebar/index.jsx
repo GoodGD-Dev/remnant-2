@@ -1,13 +1,26 @@
-import { useState, useMemo } from 'react';
+import { useState } from 'react';
 import { Nav, Dropdown, Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
 
-const MenuItem = ({ item, index, activeIndex, handleSelect }) => {
+const MenuItem = ({ item, index, activeIndex, handleSelect, openDropdownIndex, setOpenDropdownIndex }) => {
+  const isOpen = openDropdownIndex === index;
+
+  const handleDropdownClick = () => {
+    if (isOpen) {
+      setOpenDropdownIndex(null); // Fecha o dropdown se já estiver aberto
+    } else {
+      setOpenDropdownIndex(index); // Abre o dropdown e fecha os outros
+    }
+  };
+
   if (item.subOptions) {
     return (
-      <Dropdown className="mb-2" onClick={(e) => e.stopPropagation()}>
-        <Dropdown.Toggle className={`dropdown-toggle-custom ${activeIndex === index ? 'active-item' : ''}`}>
+      <Dropdown className="mb-2" show={isOpen} onClick={(e) => e.stopPropagation()}>
+        <Dropdown.Toggle
+          className={`dropdown-toggle-custom ${activeIndex === index ? 'active-item' : ''}`}
+          onClick={handleDropdownClick}
+        >
           {item.label}
         </Dropdown.Toggle>
         <Dropdown.Menu>
@@ -15,7 +28,7 @@ const MenuItem = ({ item, index, activeIndex, handleSelect }) => {
             <Dropdown.Item
               key={subIndex}
               onClick={(e) => {
-                e.stopPropagation(); // Impede o fechamento do overlay ao clicar no dropdown
+                e.stopPropagation();
                 handleSelect(index, subItem.value);
               }}
               className="dropdown-item-custom"
@@ -42,31 +55,27 @@ const MenuItem = ({ item, index, activeIndex, handleSelect }) => {
 
 const Sidebar = ({ menuItems, setContent }) => {
   const [activeIndex, setActiveIndex] = useState(0);
-  const [showOverlay, setShowOverlay] = useState(false); // Estado para controlar a visibilidade do overlay
+  const [openDropdownIndex, setOpenDropdownIndex] = useState(null); // Estado para controlar dropdowns abertos
+  const [showOverlay, setShowOverlay] = useState(false);
 
   const handleSelect = (index, value) => {
     setActiveIndex(index);
     setContent(value);
-    setShowOverlay(false); // Esconder o overlay ao selecionar uma opção
+    setShowOverlay(false);
+    setOpenDropdownIndex(null); // Fecha qualquer dropdown aberto
   };
 
   return (
     <div>
-      {/* Botão fixo para abrir o menu */}
       <Button
-        className="btn btn-dark position-fixed" // Classe de botão fixo
+        className="btn btn-dark position-fixed"
         onClick={() => setShowOverlay(!showOverlay)}
       >
-        <i className={`bi ${showOverlay ? 'bi-x' : 'bi-list'}`}></i> {/* Ícone */}
+        <i className={`bi ${showOverlay ? 'bi-x' : 'bi-list'}`}></i>
       </Button>
 
-      {/* Overlay */}
       {showOverlay && (
-        <div
-          className="overlay"
-          onClick={() => setShowOverlay(false)} // Fechar o overlay ao clicar fora
-        >
-          {/* Sidebar dentro do overlay */}
+        <div className="overlay" onClick={() => setShowOverlay(false)}>
           <div className="sidebar d-flex flex-column p-3 vh-100 shadow-sm" onClick={(e) => e.stopPropagation()}>
             <h5 className="sidebar-title mb-4 text-dark">Menu</h5>
             <Nav className="flex-column">
@@ -77,6 +86,8 @@ const Sidebar = ({ menuItems, setContent }) => {
                   index={index}
                   activeIndex={activeIndex}
                   handleSelect={handleSelect}
+                  openDropdownIndex={openDropdownIndex}
+                  setOpenDropdownIndex={setOpenDropdownIndex}
                 />
               ))}
             </Nav>
