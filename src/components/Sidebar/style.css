@@ -1,8 +1,7 @@
-/* Estilos para a sidebar */
 .sidebar {
-  width: 250px;
-  border: 1px solid #ccc;
+  min-width: 17vw; /* Ajusta a largura mínima da sidebar */
 }
+
 
 /* Título da sidebar */
 .sidebar-title {
@@ -65,4 +64,28 @@ a.nav-link-custom.active-item.nav-link {
   background-color: #525151;
   color: #fff;
   border-color: #bbb;
+}
+
+
+
+
+.position-fixed {
+  bottom: 20px; /* Posição do botão fixo */
+  left: 20px; /* Posição do botão fixo */
+  z-index: 999; /* Z-index do botão */
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente */
+  z-index: 998; /* Z-index do overlay */
+}
+
+.sidebar {
+  width: 300px; /* Largura da sidebar */
+  background-color: white; /* Fundo da sidebar */
 }
