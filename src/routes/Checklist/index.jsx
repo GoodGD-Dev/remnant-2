@@ -74,6 +74,11 @@ const TabContent = ({ activeKey }) => {
   );
 };
 
+// Validação das props do TabContent
+TabContent.propTypes = {
+  activeKey: PropTypes.string.isRequired, // activeKey deve ser uma string obrigatória
+};
+
 // Componente principal que contém a lógica de navegação e exibição de conteúdo
 function Checklist() {
   const [activeKey, setActiveKey] = useState('Summary'); // Define o estado da aba ativa (inicia na aba 'Summary')

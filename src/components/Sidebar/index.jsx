@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Nav, Dropdown, Button } from 'react-bootstrap';
+import PropTypes from 'prop-types'; // Importa PropTypes para validação
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
 
@@ -53,6 +54,23 @@ const MenuItem = ({ item, index, activeIndex, handleSelect, openDropdownIndex, s
   );
 };
 
+// Validação das props do MenuItem
+MenuItem.propTypes = {
+  item: PropTypes.shape({
+    label: PropTypes.string.isRequired, // O rótulo do item é uma string obrigatória
+    value: PropTypes.string, // Valor pode ser string (não é obrigatório)
+    subOptions: PropTypes.arrayOf(PropTypes.shape({
+      label: PropTypes.string.isRequired, // Cada subitem precisa ter um rótulo (string)
+      value: PropTypes.string.isRequired, // Cada subitem precisa ter um valor (string)
+    })),
+  }).isRequired, // Cada item é um objeto com as propriedades mencionadas, obrigatório
+  index: PropTypes.number.isRequired, // O índice do item é um número obrigatório
+  activeIndex: PropTypes.number.isRequired, // Índice do item ativo é um número obrigatório
+  handleSelect: PropTypes.func.isRequired, // Função para selecionar um item
+  openDropdownIndex: PropTypes.number, // Índice do dropdown aberto pode ser null ou um número
+  setOpenDropdownIndex: PropTypes.func.isRequired, // Função para alterar o dropdown aberto
+};
+
 const Sidebar = ({ menuItems, setContent }) => {
   const [activeIndex, setActiveIndex] = useState(0);
   const [openDropdownIndex, setOpenDropdownIndex] = useState(null); // Estado para controlar dropdowns abertos
@@ -96,6 +114,19 @@ const Sidebar = ({ menuItems, setContent }) => {
       )}
     </div>
   );
+};
+
+// Validação das props do Sidebar
+Sidebar.propTypes = {
+  menuItems: PropTypes.arrayOf(PropTypes.shape({
+    label: PropTypes.string.isRequired, // O rótulo do item é uma string obrigatória
+    value: PropTypes.string, // O valor pode ser uma string (não é obrigatório)
+    subOptions: PropTypes.arrayOf(PropTypes.shape({
+      label: PropTypes.string.isRequired, // O rótulo de cada subitem é uma string obrigatória
+      value: PropTypes.string.isRequired, // O valor de cada subitem é uma string obrigatória
+    })),
+  })).isRequired, // A lista de menuItems é um array de objetos com a estrutura descrita
+  setContent: PropTypes.func.isRequired, // Função que define o conteúdo é obrigatória
 };
 
 export default Sidebar;

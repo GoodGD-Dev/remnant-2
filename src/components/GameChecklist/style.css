@@ -51,3 +51,15 @@
     -webkit-line-clamp: 2; /* Menos linhas exibidas em dispositivos móveis */
   }
 }
+
+.image-container {
+  overflow: hidden; /* Evita que a imagem ultrapasse os limites do card */
+}
+
+.hover-image {
+  transition: transform 0.3s ease; /* Transição suave para o efeito de transformação */
+}
+
+.image-container:hover .hover-image {
+  transform: scale(1.5); /* Aumenta a imagem para 110% do tamanho original */
+}
