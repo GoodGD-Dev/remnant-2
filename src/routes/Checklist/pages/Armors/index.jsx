@@ -18,8 +18,16 @@ const awakenedKing = armors.find(armor => armor["The Awakened King"])?.["The Awa
   const akUltra = awakenedKing.find(ultra => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
 
 const forgottenKingdom = armors.find(armor => armor["The Forgotten Kingdom"])?.["The Forgotten Kingdom"] || [];
+  const fkLight = forgottenKingdom.find(light => light["Light Armor Set"])?.["Light Armor Set"] || [];
+  const fkMedium = forgottenKingdom.find(medium => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
+  const fkHeavy = forgottenKingdom.find(heavy => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
+  const fkUltra = forgottenKingdom.find(ultra => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
 
 const darkHorizon = armors.find(armor => armor["The Dark Horizon"])?.["The Dark Horizon"] || [];
+  const dhLight = darkHorizon.find(light => light["Light Armor Set"])?.["Light Armor Set"] || [];
+  const dhMedium = darkHorizon.find(medium => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
+  const dhHeavy = darkHorizon.find(heavy => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
+  const dhUltra = darkHorizon.find(ultra => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
 
 
 const Armors = () => {
@@ -44,6 +52,24 @@ const Armors = () => {
         { label: `Ultra Armor (${akUltra.length})`, value: 'sub8' }
       ]
     },
+    {
+      label: 'The Forgotten Kingdom',
+      subOptions: [
+        { label: `Light Armor (${fkLight.length})`, value: 'sub9' },
+        { label: `Medium Armor (${fkMedium.length})`, value: 'sub10' },
+        { label: `Heavy Armor (${fkHeavy.length})`, value: 'sub11' },
+        { label: `Ultra Armor (${fkUltra.length})`, value: 'sub12' }
+      ]
+    },
+    {
+      label: 'The Dark Horizon',
+      subOptions: [
+        { label: `Light Armor (${dhLight.length})`, value: 'sub13' },
+        { label: `Medium Armor (${dhMedium.length})`, value: 'sub14' },
+        { label: `Heavy Armor (${dhHeavy.length})`, value: 'sub15' },
+        { label: `Ultra Armor (${dhUltra.length})`, value: 'sub16' }
+      ]
+    },
   ], []);
 
 
@@ -56,6 +82,14 @@ const Armors = () => {
     sub6: <GameChecklist items={akMedium} />,
     sub7: <GameChecklist items={akHeavy} />,
     sub8: <GameChecklist items={akUltra} />,
+    sub9: <GameChecklist items={fkLight} />,
+    sub10: <GameChecklist items={fkMedium} />,
+    sub11: <GameChecklist items={fkHeavy} />,
+    sub12: <GameChecklist items={fkUltra} />,
+    sub13: <GameChecklist items={dhLight} />,
+    sub14: <GameChecklist items={dhMedium} />,
+    sub15: <GameChecklist items={dhHeavy} />,
+    sub16: <GameChecklist items={dhUltra} />,
   };
 
   return (

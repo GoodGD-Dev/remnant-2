@@ -7,7 +7,7 @@
 
 .custom-card-img {
   max-height: 200px; /* Ajuste a altura da imagem */
-  object-fit: cover; /* Mantém a proporção da imagem */
+  object-fit: contain; /* Mantém a proporção da imagem */
 }
 
 .card-body {
@@ -19,8 +19,11 @@
 }
 
 .card-title {
-  font-size: 1.2rem; /* Tamanho do título */
+  white-space: nowrap; /* Impede que o texto quebre a linha */
+  overflow: hidden; /* Oculta o texto que ultrapassar os limites do container */
+  text-overflow: ellipsis; /* Adiciona os "..." no final do texto */
 }
+
 
 .card-text {
   display: -webkit-box; /* Utiliza um modelo de box para truncar */
@@ -48,8 +51,3 @@
     -webkit-line-clamp: 2; /* Menos linhas exibidas em dispositivos móveis */
   }
 }
-
-  .custom-card-img {
-    object-fit: contain;
-    width: 100%;
-  }

@@ -15,12 +15,11 @@ const Amulets = () => {
   const [content, setContent] = useState('tap1');
 
   const menuItems = useMemo(() => [
-    { label: 'Game Base', value: 'tap1' },
-    { label: 'The Awakened King', value: 'tap2' },
-    { label: 'The Forgotten Kingdom', value: 'tap3' },
-    { label: 'The Dark Horizon', value: 'tap4' },
+    { label: `Game Base (${gameBase.length})`, value: 'tap1' },
+    { label: `The Awakened King (${awakenedKing.length})`, value: 'tap2' },
+    { label: `The Forgotten Kingdom (${forgottenKingdom.length})`, value: 'tap3' },
+    { label: `The Dark Horizon (${darkHorizon.length})`, value: 'tap4' },
   ], []);
-
 
   const contentMap = {
     tap1: <GameChecklist items={gameBase} />,
