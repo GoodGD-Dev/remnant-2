@@ -24,9 +24,9 @@ const Mods = () => {
 
   const contentMap = {
     tap1: <GameChecklist items={gameBase} />,
-    sub1: <GameChecklist items={awakenedKing} />,
-    sub2: <GameChecklist items={forgottenKingdom} />,
-    tap3: <div>Principal Content for Tap 3</div>
+    tap2: <GameChecklist items={awakenedKing} />,
+    tap3: <GameChecklist items={forgottenKingdom} />,
+    tap4: <GameChecklist items={darkHorizon} />,
   };
 
   return (
