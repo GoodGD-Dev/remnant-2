@@ -1,65 +1,42 @@
-import { Col, Row, Tab, Card } from 'react-bootstrap';
-import weaponsData from '../../../../data/weapons.json';
+import { useState, useMemo } from 'react';
 import Sidebar from '../../../../components/Sidebar';
+import GameChecklist from '../../../../components/GameChecklist';
+import modsData from '../../../../data/mods.json';
 
-// Grupos de armas para os tabs
-const weaponsTabs = [
-  { eventKey: "Tab 1", label: "Long Guns", categories: ["Long Guns", "Special Long Guns"] },
-  { eventKey: "Tab 2", label: "Melee Weapons", categories: ["Melee Weapons", "Special Melee Weapons"] },
-  { eventKey: "Tab 3", label: "Hand Guns", categories: ["Hand Guns", "Special Hand Guns"] },
-  { eventKey: "Tab 4", label: "Corrupted Weapons", categories: ["Corrupted Hand Guns", "Corrupted Long Guns"] },
-];
+const mods = [modsData];
 
-// Extrai e organiza as armas por categoria
-const weaponsDataByCategory = weaponsData.Weapons.reduce((categories, weaponCategory) => {
-  for (const [category, subCategories] of Object.entries(weaponCategory)) {
-    categories[category] = (categories[category] || []).concat(
-      ...subCategories.flatMap(subCategory => Object.values(subCategory).flat())
-    );
-  }
-  return categories;
-}, {});
+const gameBase = mods.find(mod => mod["Game Base"])?.["Game Base"] || [];
+const awakenedKing = mods.find(mod => mod["The Awakened King"])?.["The Awakened King"] || [];
+const forgottenKingdom = mods.find(mod => mod["The Forgotten Kingdom"])?.["The Forgotten Kingdom"] || [];
+const darkHorizon = mods.find(mod => mod["The Dark Horizon"])?.["The Dark Horizon"] || [];
 
-// Renderiza as cartas de armas
-const renderCards = (weapons) =>
-  weapons?.map((weapon, index) => (
-    <Col md={12} className="mb-4" key={index}>
-      <Card>
-        <Card.Img variant="top" src={weapon.imagem} alt={weapon.nome} />
-        <Card.Body>
-          <Card.Title>{weapon.nome}</Card.Title>
-          <Card.Text>{weapon.descricao}</Card.Text>
-          <Card.Link href={weapon.link} target="_blank">Saiba mais</Card.Link>
-        </Card.Body>
-      </Card>
-    </Col>
-  ));
 
-// Componente principal que renderiza as tabs de armas
-function Weapons() {
+const Weapons = () => {
+  const [content, setContent] = useState('tap1');
+
+  const menuItems = useMemo(() => [
+    { label: `Game Base (${gameBase.length})`, value: 'tap1' },
+    { label: `The Awakened King (${awakenedKing.length})`, value: 'tap2' },
+    { label: `The Forgotten Kingdom (${forgottenKingdom.length})`, value: 'tap3' },
+    { label: `The Dark Horizon (${darkHorizon.length})`, value: 'tap4' },
+  ], []);
+
+
+  const contentMap = {
+    tap1: <GameChecklist items={gameBase} />,
+    tap2: <GameChecklist items={awakenedKing} />,
+    tap3: <GameChecklist items={forgottenKingdom} />,
+    tap4: <GameChecklist items={darkHorizon} />,
+  };
+
   return (
-    <Tab.Container defaultActiveKey="Tab 1">
-      <Row>
-        <Sidebar tabs={weaponsTabs} defaultKey="Tab 1" />
-        <Col sm={9}>
-          <Tab.Content>
-            {weaponsTabs.map(({ eventKey, categories }) => (
-              <Tab.Pane eventKey={eventKey} key={eventKey}>
-                <Row>
-                  {categories.map(category => (
-                    <Col md={6} key={category}>
-                      <h5>{category}</h5>
-                      {renderCards(weaponsDataByCategory[category])}
-                    </Col>
-                  ))}
-                </Row>
-              </Tab.Pane>
-            ))}
-          </Tab.Content>
-        </Col>
-      </Row>
-    </Tab.Container>
+    <div className="d-flex">
+      <Sidebar menuItems={menuItems} setContent={setContent} />
+      <div className="p-4">
+        {contentMap[content] || <div>Content not found</div>}
+      </div>
+    </div>
   );
-}
+};
 
 export default Weapons;
