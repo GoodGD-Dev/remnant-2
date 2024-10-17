@@ -48,3 +48,8 @@
     -webkit-line-clamp: 2; /* Menos linhas exibidas em dispositivos móveis */
   }
 }
+
+  .custom-card-img {
+    object-fit: contain;
+    width: 100%;
+  }

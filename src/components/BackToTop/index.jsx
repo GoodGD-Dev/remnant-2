@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 import { Button } from 'react-bootstrap';
 import { FaArrowUp } from 'react-icons/fa';
 import './style.css';

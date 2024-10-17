@@ -1,6 +1,7 @@
-import React, { useState } from 'react'; 
+import { useState } from 'react'; 
 import { Nav } from 'react-bootstrap';
 import { CSSTransition, SwitchTransition } from 'react-transition-group';
+import PropTypes from 'prop-types'; // Importa PropTypes para validação
 import './style.css';
 
 // Importa os componentes correspondentes a cada aba
@@ -50,6 +51,12 @@ const TabNavigation = ({ activeKey, onSelect }) => (
     ))}
   </Nav>
 );
+
+// Validação das props do TabNavigation
+TabNavigation.propTypes = {
+  activeKey: PropTypes.string.isRequired, // activeKey deve ser uma string obrigatória
+  onSelect: PropTypes.func.isRequired, // onSelect deve ser uma função obrigatória
+};
 
 // Componente que exibe o conteúdo da aba selecionada
 const TabContent = ({ activeKey }) => {

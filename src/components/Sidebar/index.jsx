@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { Nav, Dropdown, Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css';
@@ -6,7 +6,7 @@ import './style.css';
 const MenuItem = ({ item, index, activeIndex, handleSelect }) => {
   if (item.subOptions) {
     return (
-      <Dropdown className="mb-2">
+      <Dropdown className="mb-2" onClick={(e) => e.stopPropagation()}>
         <Dropdown.Toggle className={`dropdown-toggle-custom ${activeIndex === index ? 'active-item' : ''}`}>
           {item.label}
         </Dropdown.Toggle>
@@ -14,7 +14,10 @@ const MenuItem = ({ item, index, activeIndex, handleSelect }) => {
           {item.subOptions.map((subItem, subIndex) => (
             <Dropdown.Item
               key={subIndex}
-              onClick={() => handleSelect(index, subItem.value)}
+              onClick={(e) => {
+                e.stopPropagation(); // Impede o fechamento do overlay ao clicar no dropdown
+                handleSelect(index, subItem.value);
+              }}
               className="dropdown-item-custom"
             >
               {subItem.label}
@@ -64,7 +67,7 @@ const Sidebar = ({ menuItems, setContent }) => {
           onClick={() => setShowOverlay(false)} // Fechar o overlay ao clicar fora
         >
           {/* Sidebar dentro do overlay */}
-          <div className="sidebar d-flex flex-column p-3 vh-100 shadow-sm">
+          <div className="sidebar d-flex flex-column p-3 vh-100 shadow-sm" onClick={(e) => e.stopPropagation()}>
             <h5 className="sidebar-title mb-4 text-dark">Menu</h5>
             <Nav className="flex-column">
               {menuItems.map((item, index) => (
