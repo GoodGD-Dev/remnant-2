@@ -10,7 +10,7 @@ const GameChecklist = ({ items }) => {
   return (
     <div className="row justify-content-center">
       {items.map((item, index) => (
-        <div className="col-6 col-sm-4 col-md-3" key={index}>
+        <div className="col-6 col-sm-4 col-md-3 col-lg-2" key={index}>
           <Card className="mb-4 custom-card">
             <div className="image-container">
               <Card.Img 

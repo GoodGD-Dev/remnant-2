@@ -1,5 +1,5 @@
 .custom-card {
-  max-height: 400px; /* Altura máxima para dispositivos maiores */
+  height: 400px;
   overflow: hidden; /* Oculta o conteúdo que excede a altura do card */
   display: flex;
   flex-direction: column; /* Alinha o conteúdo em coluna */
