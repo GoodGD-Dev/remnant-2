@@ -54,7 +54,7 @@ const corruptedLongGuns = weapons.find(weapon => weapon["Corrupted Long Guns"])?
   const clDarkHorizon = corruptedLongGuns.find(weapon => weapon["The Dark Horizon"])?.["The Dark Horizon"] || [];
 
 const Weapons = () => {
-  const [content, setContent] = useState('tap1');
+  const [content, setContent] = useState('sub1');
 
   const menuItems = useMemo(() => [
     {
@@ -113,7 +113,6 @@ const Weapons = () => {
 
 
   const contentMap = {
-    tap1: <div>test</div>,
     sub1: <GameChecklist items={lgGameBase} />,
     sub2: <GameChecklist items={slGameBase} />,
     sub3: <GameChecklist items={clGameBase} />,
