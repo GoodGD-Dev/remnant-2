@@ -1,20 +1,21 @@
-/* style.css */
-
 /* Logo */
+/* Estiliza a imagem do logo */
 .logo-img {
-  width: 150px;
-  height: auto;
+  width: 150px; /* Define a largura da imagem */
+  height: auto; /* Mantém a proporção da altura */
 }
 
+/* Links de navegação */
 .nav-link {
-  color: #fff;
-  transition:  color 0.3s;
+  color: #fff; /* Define a cor branca para os links */
+  transition: color 0.3s; /* Suave transição de cor ao interagir com o link */
 }
 
+/* Efeito hover nos links de navegação */
 .nav-link:hover {
-  text-shadow: 0 0 10px #fff,
-               0 0 20px #ffffff,
-               0 0 30px #000000, 
+  text-shadow: 0 0 10px #fff,      /* Adiciona uma sombra branca ao redor do texto */
+               0 0 20px #ffffff,   /* Intensifica a sombra para maior brilho */
+               0 0 30px #000000,   /* Adiciona sombras escuras para contraste */
                0 0 40px #000000,
-               0 0 50px #ffffff;
+               0 0 50px #ffffff;   /* Efeito luminoso quando o mouse passa por cima */
 }

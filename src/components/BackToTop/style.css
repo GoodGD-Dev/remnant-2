@@ -1,21 +1,37 @@
 .back-to-top {
+  /* Define a posição fixa no canto inferior direito */
   position: fixed;
   bottom: 20px;
   right: 20px;
+
+  /* Garante que o botão esteja acima de outros elementos */
   z-index: 1000;
+
+  /* Define as dimensões do botão */
   width: 50px;
   height: 50px;
+
+  /* Faz o botão ser redondo */
   border-radius: 50%;
+
+  /* Define a cor de fundo, a cor do texto e remove a borda */
   background-color: #000;
   color: white;
   border: none;
+
+  /* Centraliza o ícone dentro do botão */
   display: flex;
   align-items: center;
   justify-content: center;
+
+  /* Adiciona uma leve sombra para dar profundidade */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+
+  /* Adiciona uma transição suave para a mudança de cor ao hover */
   transition: background-color 0.3s;
 }
 
 .back-to-top:hover {
+  /* Muda a cor de fundo ao passar o mouse sobre o botão */
   background-color: #5f5f5f;
 }

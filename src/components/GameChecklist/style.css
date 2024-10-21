@@ -1,65 +1,71 @@
 .custom-card {
   height: 400px;
-  overflow: hidden; /* Oculta o conteúdo que excede a altura do card */
+  overflow: hidden; /* Oculta qualquer conteúdo que ultrapasse a altura definida */
   display: flex;
-  flex-direction: column; /* Alinha o conteúdo em coluna */
+  flex-direction: column; /* Alinha o conteúdo verticalmente */
 }
 
 .custom-card-img {
-  max-height: 200px; /* Ajuste a altura da imagem */
-  object-fit: contain; /* Mantém a proporção da imagem */
+  max-height: 200px; /* Define a altura máxima da imagem */
+  object-fit: contain; /* A imagem mantém sua proporção dentro do espaço definido */
 }
 
 .card-body {
-  flex: 1; /* Permite que a área do corpo do card cresça */
+  flex: 1; /* Faz com que o corpo do card ocupe o espaço restante */
   display: flex;
-  flex-direction: column; /* Alinha o conteúdo em coluna */
-  justify-content: space-between; /* Espaço entre o conteúdo e o botão */
-  padding: 0.5rem; /* Ajusta o padding do card */
+  flex-direction: column; /* Organiza o conteúdo em coluna */
+  justify-content: space-between; /* Deixa espaço entre os elementos, especialmente o botão */
+  padding: 0.5rem; /* Define o espaçamento interno do card */
 }
 
 .card-title {
-  white-space: nowrap; /* Impede que o texto quebre a linha */
-  overflow: hidden; /* Oculta o texto que ultrapassar os limites do container */
-  text-overflow: ellipsis; /* Adiciona os "..." no final do texto */
+  white-space: nowrap; /* Impede que o título quebre a linha */
+  overflow: hidden; /* Oculta o texto que ultrapassa os limites */
+  text-overflow: ellipsis; /* Adiciona "..." no final do texto que não cabe */
 }
-
 
 .card-text {
-  display: -webkit-box; /* Utiliza um modelo de box para truncar */
-  -webkit-box-orient: vertical; /* Orientação do box */
-  -webkit-line-clamp: 3; /* Número máximo de linhas a serem exibidas */
+  display: -webkit-box; /* Cria uma caixa flexível com suporte a truncamento */
+  -webkit-box-orient: vertical; /* Define a orientação vertical para as linhas */
+  -webkit-line-clamp: 3; /* Limita a exibição a 3 linhas */
   overflow: hidden; /* Oculta o texto que não cabe */
-  text-overflow: ellipsis; /* Adiciona reticências */
-}
-
-/* Consultas de mídia para dispositivos móveis */
-@media (max-width: 576px) {
-  .custom-card {
-    max-height: 300px; /* Altura máxima menor para dispositivos móveis */
-  }
-
-  .custom-card-img {
-    height: 150px; /* Altura da imagem menor em dispositivos móveis */
-  }
-
-  .card-title {
-    font-size: 1rem; /* Tamanho do título menor em dispositivos móveis */
-  }
-
-  .card-text {
-    -webkit-line-clamp: 2; /* Menos linhas exibidas em dispositivos móveis */
-  }
+  text-overflow: ellipsis; /* Adiciona "..." no final do texto que exceder */
 }
 
 .image-container {
-  overflow: hidden; /* Evita que a imagem ultrapasse os limites do card */
+  overflow: hidden; /* Garante que a imagem fique dentro do container, sem ultrapassar */
 }
 
 .hover-image {
-  transition: transform 0.3s ease; /* Transição suave para o efeito de transformação */
+  transition: transform 0.3s ease; /* Adiciona uma transição suave para a transformação ao hover */
 }
 
 .image-container:hover .hover-image {
-  transform: scale(1.5); /* Aumenta a imagem para 110% do tamanho original */
+  transform: scale(1.5); /* Aumenta a imagem em 50% quando o mouse passa por cima */
+}
+
+/* Estilos para telas pequenas (dispositivos móveis) */
+@media (max-width: 576px) {
+  .custom-card {
+    max-height: 300px; /* Reduz a altura máxima para telas menores */
+  }
+
+  .custom-card-img {
+    height: 150px; /* Altura da imagem reduzida em dispositivos móveis */
+  }
+
+  .card-title {
+    font-size: 1rem; /* Tamanho do título menor para melhor visualização em telas pequenas */
+  }
+
+  .card-text {
+    -webkit-line-clamp: 2; /* Mostra menos linhas de texto em telas pequenas */
+  }
+}
+
+/* Estilos para telas grandes (desktops) */
+@media (min-width: 992px) {
+  .custom-card {
+    min-width: 150px; /* Define uma largura mínima para o card em telas grandes */
+  }
 }
