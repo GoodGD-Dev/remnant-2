@@ -86,7 +86,7 @@ const Sidebar = ({ menuItems, setContent }) => {
   return (
     <div>
       <Button
-        className="btn btn-dark position-fixed"
+        className="sidebar-btn btn btn-dark position-fixed"
         onClick={() => setShowOverlay(!showOverlay)}
       >
         <i className={`bi ${showOverlay ? 'bi-x' : 'bi-list'}`}></i>

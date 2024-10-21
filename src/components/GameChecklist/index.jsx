@@ -1,5 +1,5 @@
 import { Card, Button } from 'react-bootstrap';
-import PropTypes from 'prop-types'; // Importa PropTypes para validação
+import PropTypes from 'prop-types';
 import './style.css';
 
 const GameChecklist = ({ items }) => {

@@ -42,13 +42,6 @@
   color: #fff;
 }
 
-/* Campo de busca */
-.search-input {
-  background-color: transparent;
-  color: #333;
-  border: 1px solid #ccc;
-}
-
 a.nav-link-custom.active-item.nav-link {
   color: #fff
 }
@@ -61,7 +54,7 @@ a.nav-link-custom.active-item.nav-link {
 .dropdown-toggle-custom:hover,
 .nav-link-custom:hover,
 .dropdown-item-custom:hover {
-  background-color: #525151;
+  background-color: #f80000;
   color: #fff;
   border-color: #bbb;
 }
@@ -88,4 +81,8 @@ a.nav-link-custom.active-item.nav-link {
 .sidebar {
   width: 300px; /* Largura da sidebar */
   background-color: white; /* Fundo da sidebar */
+}
+
+.sidebar-btn {
+  background-color: #f80000;
 }
