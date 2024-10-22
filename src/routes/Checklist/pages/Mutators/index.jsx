@@ -6,17 +6,16 @@ import mutatorsData from "../../../../data/mutators.json";
 // Função para extrair mutators por tipo
 const getMutators = (type) => {
   const mutators = mutatorsData.find((mutator) => mutator[type])?.[type] || [];
-  return {
-    gameBase: mutators.find((m) => m["Game Base"])?.["Game Base"] || [],
-    awakenedKing:
-      mutators.find((m) => m["The Awakened King"])?.["The Awakened King"] || [],
-    forgottenKingdom:
-      mutators.find((m) => m["The Forgotten Kingdom"])?.[
-        "The Forgotten Kingdom"
-      ] || [],
-    darkHorizon:
-      mutators.find((m) => m["The Dark Horizon"])?.["The Dark Horizon"] || [],
-  };
+
+  return [
+    "Game Base",
+    "The Awakened King",
+    "The Forgotten Kingdom",
+    "The Dark Horizon",
+  ].reduce((acc, category) => {
+    acc[category] = mutators.find((m) => m[category])?.[category] || [];
+    return acc;
+  }, {});
 };
 
 const Mutators = () => {
@@ -24,53 +23,37 @@ const Mutators = () => {
   const ranged = getMutators("Ranged");
   const melee = getMutators("Melee");
 
+  const categories = [
+    "Game Base",
+    "The Awakened King",
+    "The Forgotten Kingdom",
+    "The Dark Horizon",
+  ];
+
   const menuItems = useMemo(
-    () => [
-      {
-        label: "Game Base",
-        subOptions: [
-          { label: `Ranged (${ranged.gameBase.length})`, value: "sub1" },
-          { label: `Melee (${melee.gameBase.length})`, value: "sub2" },
-        ],
-      },
-      {
-        label: "The Awakened King",
-        subOptions: [
-          { label: `Ranged (${ranged.awakenedKing.length})`, value: "sub3" },
-          { label: `Melee (${melee.awakenedKing.length})`, value: "sub4" },
-        ],
-      },
-      {
-        label: "The Forgotten Kingdom",
+    () =>
+      categories.map((category, index) => ({
+        label: category,
         subOptions: [
           {
-            label: `Ranged (${ranged.forgottenKingdom.length})`,
-            value: "sub5",
+            label: `Ranged (${ranged[category].length})`,
+            value: `sub${index * 2 + 1}`,
           },
-          { label: `Melee (${melee.forgottenKingdom.length})`, value: "sub6" },
+          {
+            label: `Melee (${melee[category].length})`,
+            value: `sub${index * 2 + 2}`,
+          },
         ],
-      },
-      {
-        label: "The Dark Horizon",
-        subOptions: [
-          { label: `Ranged (${ranged.darkHorizon.length})`, value: "sub7" },
-          { label: `Melee (${melee.darkHorizon.length})`, value: "sub8" },
-        ],
-      },
-    ],
+      })),
     [ranged, melee]
   );
 
-  const contentMap = {
-    sub1: <GameChecklist items={ranged.gameBase} />,
-    sub2: <GameChecklist items={melee.gameBase} />,
-    sub3: <GameChecklist items={ranged.awakenedKing} />,
-    sub4: <GameChecklist items={melee.awakenedKing} />,
-    sub5: <GameChecklist items={ranged.forgottenKingdom} />,
-    sub6: <GameChecklist items={melee.forgottenKingdom} />,
-    sub7: <GameChecklist items={ranged.darkHorizon} />,
-    sub8: <GameChecklist items={melee.darkHorizon} />,
-  };
+  const contentMap = Object.fromEntries(
+    categories.flatMap((category, index) => [
+      [`sub${index * 2 + 1}`, <GameChecklist items={ranged[category]} />],
+      [`sub${index * 2 + 2}`, <GameChecklist items={melee[category]} />],
+    ])
+  );
 
   return (
     <div className="d-flex">
