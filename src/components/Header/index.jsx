@@ -1,15 +1,15 @@
-import { Navbar, Nav, Button, Form, Container } from 'react-bootstrap'; // Importa componentes do React-Bootstrap
-import { Link, useLocation } from 'react-router-dom'; // Importa Link e useLocation para navegação
-import { useState } from 'react'; // Importa useState para gerenciar o estado
-import './style.css'; // Importa o CSS customizado
-import Logo from "../../assets/remnant logo.png"; // Importa a logo do projeto
+import { Navbar, Nav, Button, Form, Container } from "react-bootstrap";
+import { Link, useLocation } from "react-router-dom";
+import { useState } from "react";
+import Logo from "../../assets/remnant logo.png";
+import "./style.css";
 
 // Definição dos itens de navegação
 const navItems = [
   { label: "Checklist", path: "/checklist", disabled: false },
-  { label: "Wiki", path: "/wiki", disabled: true }, // Desabilitado
-  { label: "Builds", path: "/builds", disabled: true }, // Desabilitado
-  { label: "Community", path: "/community", disabled: true } // Desabilitado
+  { label: "Wiki", path: "/wiki", disabled: true },
+  { label: "Builds", path: "/builds", disabled: true },
+  { label: "Community", path: "/community", disabled: true },
 ];
 
 const Header = () => {
@@ -17,8 +17,10 @@ const Header = () => {
   const [expanded, setExpanded] = useState(false); // Estado para gerenciar o menu expandido
 
   // Função para aplicar estilo ao item ativo
-  const getActiveLinkStyle = (path) => 
-    location.pathname === path ? { textDecoration: 'line-through', color: 'white' } : {};
+  const getActiveLinkStyle = (path) =>
+    location.pathname === path
+      ? { textDecoration: "line-through", color: "white" }
+      : {};
 
   // Função que fecha o menu quando um item é clicado
   const handleNavItemClick = () => {
@@ -26,17 +28,32 @@ const Header = () => {
   };
 
   return (
-    <Navbar bg="black" variant="dark" expand="lg" expanded={expanded} onToggle={setExpanded} data-aos="fade-right">
+    <Navbar
+      bg="black"
+      variant="dark"
+      expand="lg"
+      expanded={expanded}
+      onToggle={setExpanded}
+      data-aos="fade-right"
+    >
       <Container>
         {/* Marca do Navbar com logo */}
-        <Navbar.Brand as={Link} to="/" data-aos="fade-down" data-aos-duration="700">
-          <h1 className='text-uppercase'>
-            <img className='logo-img' src={Logo} alt="Remnant 2 Logo" />
+        <Navbar.Brand
+          as={Link}
+          to="/"
+          data-aos="fade-down"
+          data-aos-duration="700"
+        >
+          <h1 className="text-uppercase">
+            <img className="logo-img" src={Logo} alt="Remnant 2 Logo" />
           </h1>
         </Navbar.Brand>
 
         {/* Botão de alternância para dispositivos móveis */}
-        <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
+        <Navbar.Toggle
+          aria-controls="basic-navbar-nav"
+          onClick={() => setExpanded(!expanded)}
+        />
 
         {/* Menu colapsável */}
         <Navbar.Collapse id="basic-navbar-nav">
@@ -46,7 +63,7 @@ const Header = () => {
                 key={item.label} // Chave única para cada item
                 as={Link} // Usa Link para navegação
                 to={item.path}
-                className="fs-5" // Define o tamanho da fonte
+                className="fs-5"
                 style={getActiveLinkStyle(item.path)} // Aplica estilo ao link ativo
                 disabled={item.disabled} // Desabilita o link se especificado
                 data-aos="fade-down" // Animação AOS
@@ -59,7 +76,11 @@ const Header = () => {
           </Nav>
 
           {/* Campo de busca */}
-          <Form className="d-flex me-2 mt-3 mb-3 m-lg-0" data-aos="fade-down" data-aos-duration="1200">
+          <Form
+            className="d-flex me-2 mt-3 mb-3 m-lg-0"
+            data-aos="fade-down"
+            data-aos-duration="1200"
+          >
             <Form.Control
               type="search"
               placeholder="Search"
@@ -69,8 +90,14 @@ const Header = () => {
           </Form>
 
           {/* Botões de login e registro */}
-          <Form className="d-flex justify-content-center" data-aos="fade-down" data-aos-duration="1300">
-            <Button variant="outline-light" className="me-2">Sign In</Button>
+          <Form
+            className="d-flex justify-content-center"
+            data-aos="fade-down"
+            data-aos-duration="1300"
+          >
+            <Button variant="outline-light" className="me-2">
+              Sign In
+            </Button>
             <Button variant="outline-light">Sign Up</Button>
           </Form>
         </Navbar.Collapse>
