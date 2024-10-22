@@ -17,20 +17,17 @@ import Traits from "./pages/Traits";
 
 // Configuração das abas e os componentes que elas irão renderizar
 const tabConfig = [
-  Summary,
-  Weapons,
-  Mods,
-  Mutators,
-  Armors,
-  Amulets,
-  Rings,
-  Relics,
-  Classes,
-  Traits,
-].map((Component) => ({
-  key: Component.name,
-  Component,
-}));
+  { key: "Summary", Component: Summary },
+  { key: "Weapons", Component: Weapons },
+  { key: "Mods", Component: Mods },
+  { key: "Mutators", Component: Mutators },
+  { key: "Armors", Component: Armors },
+  { key: "Amulets", Component: Amulets },
+  { key: "Rings", Component: Rings },
+  { key: "Relics", Component: Relics },
+  { key: "Classes", Component: Classes },
+  { key: "Traits", Component: Traits },
+];
 
 // Componente responsável pela navegação entre as abas
 const TabNavigation = ({ activeKey, onSelect }) => (
