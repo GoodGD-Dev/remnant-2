@@ -29,70 +29,55 @@ const tabConfig = [
   { key: "Traits", Component: Traits },
 ];
 
-// Componente responsável pela navegação entre as abas
 const TabNavigation = ({ activeKey, onSelect }) => (
   <Nav
     variant="tabs"
     className="justify-content-center flex-wrap mb-2"
-    style={{ position: "sticky", top: "0", background: "white", zIndex: 1 }} // Define as abas fixas no topo
+    style={{ position: "sticky", top: "0", background: "white", zIndex: 1 }}
   >
-    {tabConfig.map(
-      (
-        { key } // Mapeia as abas de acordo com a configuração
-      ) => (
-        <Nav.Item key={key}>
-          <Nav.Link
-            eventKey={key} // Define a chave de evento da aba
-            active={activeKey === key} // Define se a aba está ativa
-            onClick={() => onSelect(key)} // Troca a aba quando clicada
-            className="text-dark nav-link--black"
-          >
-            {key} {/* Mostra o nome da aba */}
-          </Nav.Link>
-        </Nav.Item>
-      )
-    )}
+    {tabConfig.map(({ key }) => (
+      <Nav.Item key={key}>
+        <Nav.Link
+          eventKey={key}
+          active={activeKey === key}
+          onClick={() => onSelect(key)}
+          className="text-dark nav-link--black"
+        >
+          {key}
+        </Nav.Link>
+      </Nav.Item>
+    ))}
   </Nav>
 );
 
-// Validação das props do TabNavigation
 TabNavigation.propTypes = {
-  activeKey: PropTypes.string.isRequired, // activeKey deve ser uma string obrigatória
-  onSelect: PropTypes.func.isRequired, // onSelect deve ser uma função obrigatória
+  activeKey: PropTypes.string.isRequired,
+  onSelect: PropTypes.func.isRequired,
 };
 
-// Componente que exibe o conteúdo da aba selecionada
 const TabContent = ({ activeKey }) => {
-  // Encontra o componente associado à aba ativa
   const { Component } = tabConfig.find((tab) => tab.key === activeKey) || {};
 
   return (
     <SwitchTransition>
       <CSSTransition key={activeKey} classNames="fade" timeout={150}>
-        <div className="tab-pane">
-          {Component && <Component />}{" "}
-          {/* Renderiza o componente da aba ativa */}
-        </div>
+        <div className="tab-pane">{Component && <Component />}</div>
       </CSSTransition>
     </SwitchTransition>
   );
 };
 
-// Validação das props do TabContent
 TabContent.propTypes = {
-  activeKey: PropTypes.string.isRequired, // activeKey deve ser uma string obrigatória
+  activeKey: PropTypes.string.isRequired,
 };
 
-// Componente principal que contém a lógica de navegação e exibição de conteúdo
 function Checklist() {
-  const [activeKey, setActiveKey] = useState("Summary"); // Define o estado da aba ativa (inicia na aba 'Summary')
+  const [activeKey, setActiveKey] = useState("Summary");
 
   return (
     <>
-      <TabNavigation activeKey={activeKey} onSelect={setActiveKey} />{" "}
-      {/* Renderiza as abas de navegação */}
-      <TabContent activeKey={activeKey} />{" "}
-      {/* Renderiza o conteúdo da aba selecionada */}
+      <TabNavigation activeKey={activeKey} onSelect={setActiveKey} />
+      <TabContent activeKey={activeKey} />
     </>
   );
 }

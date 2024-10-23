@@ -6,7 +6,6 @@ import mutatorsData from "../../../../data/mutators.json";
 // Função para extrair mutators por tipo
 const getMutators = (type) => {
   const mutators = mutatorsData.find((mutator) => mutator[type])?.[type] || [];
-
   return [
     "Game Base",
     "The Awakened King",
@@ -29,7 +28,6 @@ const Mutators = () => {
     "The Forgotten Kingdom",
     "The Dark Horizon",
   ];
-
   const menuItems = useMemo(
     () =>
       categories.map((category, index) => ({

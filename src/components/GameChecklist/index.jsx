@@ -1,8 +1,30 @@
-import { Card, Button } from 'react-bootstrap';
-import PropTypes from 'prop-types';
-import './style.css';
+import { useState, useEffect } from "react";
+import { Card, Button, Form } from "react-bootstrap";
+import PropTypes from "prop-types";
+import "./style.css";
 
 const GameChecklist = ({ items }) => {
+  // Estado para armazenar os itens marcados
+  const [checkedItems, setCheckedItems] = useState(() => {
+    // Tenta recuperar o estado do localStorage
+    const savedItems = localStorage.getItem("checkedItems");
+    return savedItems ? JSON.parse(savedItems) : {};
+  });
+
+  // Função que atualiza o estado quando o usuário marca/desmarca um item
+  const handleCheckChange = (itemName) => {
+    setCheckedItems((prevCheckedItems) => {
+      const newCheckedItems = {
+        ...prevCheckedItems,
+        [itemName]: !prevCheckedItems[itemName], // Inverte o valor do item marcado
+      };
+
+      // Salva no localStorage
+      localStorage.setItem("checkedItems", JSON.stringify(newCheckedItems));
+      return newCheckedItems;
+    });
+  };
+
   // Se a lista de itens estiver vazia ou for indefinida, exibe uma mensagem.
   if (!items || items.length === 0) {
     return <div>Nenhum item disponível.</div>;
@@ -11,29 +33,36 @@ const GameChecklist = ({ items }) => {
   // Mapeia os itens e renderiza cards para cada um deles.
   return (
     <div className="row justify-content-center">
+      <h4>Total de itens: {items.length}</h4>{" "}
+      {/* Exibe o número total de itens */}
       {items.map((item, index) => (
         <div className="col-6 col-sm-4 col-md-3 col-lg-2" key={index}>
           <Card className="mb-4 custom-card">
-            {/* Contém a imagem do item ou uma imagem padrão */}
             <div className="image-container">
-              <Card.Img 
-                variant="top" 
-                src={item.imagem || 'imagem_padrao.png'} 
+              <Card.Img
+                variant="top"
+                src={item.imagem || "imagem_padrao.png"}
                 className="img-fluid custom-card-img hover-image"
               />
             </div>
             <Card.Body>
-              {/* Título e descrição do card */}
               <Card.Title className="card-title">
-                {item.nome || 'Nome não disponível'}
+                {item.nome || "Nome não disponível"}
               </Card.Title>
               <Card.Text className="card-text">
-                {item.descricao || 'Descrição não disponível'}
+                {item.descricao || "Descrição não disponível"}
               </Card.Text>
-              {/* Botão que leva a um link, abrindo em nova aba */}
               <Button href={item.link} target="_blank" variant="primary">
                 Ver mais
               </Button>
+              <Form.Group controlId={`checkbox-${index}`} className="mt-3">
+                <Form.Check
+                  type="checkbox"
+                  label="Peguei"
+                  checked={checkedItems[item.nome] || false} // Estado do checkbox
+                  onChange={() => handleCheckChange(item.nome)} // Atualiza estado ao clicar
+                />
+              </Form.Group>
             </Card.Body>
           </Card>
         </div>
@@ -46,12 +75,12 @@ const GameChecklist = ({ items }) => {
 GameChecklist.propTypes = {
   items: PropTypes.arrayOf(
     PropTypes.shape({
-      nome: PropTypes.string.isRequired,  // O nome é obrigatório
-      descricao: PropTypes.string,        // A descrição é opcional
-      imagem: PropTypes.string,           // A imagem é opcional
-      link: PropTypes.string.isRequired,  // O link é obrigatório
+      nome: PropTypes.string.isRequired,
+      descricao: PropTypes.string,
+      imagem: PropTypes.string,
+      link: PropTypes.string.isRequired,
     })
-  ).isRequired,  // A lista de itens é obrigatória
+  ).isRequired,
 };
 
 export default GameChecklist;
