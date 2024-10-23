@@ -83,22 +83,10 @@ const Header = () => {
           >
             <Form.Control
               type="search"
-              placeholder="Search"
+              placeholder="Disabled"
               className="me-2"
               aria-label="Search"
             />
-          </Form>
-
-          {/* Botões de login e registro */}
-          <Form
-            className="d-flex justify-content-center"
-            data-aos="fade-down"
-            data-aos-duration="1300"
-          >
-            <Button variant="outline-light" className="me-2">
-              Sign In
-            </Button>
-            <Button variant="outline-light">Sign Up</Button>
           </Form>
         </Navbar.Collapse>
       </Container>

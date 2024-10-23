@@ -14,10 +14,16 @@ const GameChecklist = ({ items }) => {
   // Função que atualiza o estado quando o usuário marca/desmarca um item
   const handleCheckChange = (itemName) => {
     setCheckedItems((prevCheckedItems) => {
+      const isChecked = prevCheckedItems[itemName]; // Verifica se o item está marcado
       const newCheckedItems = {
         ...prevCheckedItems,
-        [itemName]: !prevCheckedItems[itemName], // Inverte o valor do item marcado
+        [itemName]: !isChecked, // Inverte o valor do item marcado
       };
+
+      // Se o item está sendo desmarcado, remove do objeto
+      if (!newCheckedItems[itemName]) {
+        delete newCheckedItems[itemName]; // Remove a propriedade do objeto
+      }
 
       // Salva no localStorage
       localStorage.setItem("checkedItems", JSON.stringify(newCheckedItems));
