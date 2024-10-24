@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import CategoryCounter from "../../../../components/CategoryCounter";
 import amuletsData from "../../../../data/amulets.json";
 import armorsData from "../../../../data/armors.json";

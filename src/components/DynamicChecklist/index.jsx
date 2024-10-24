@@ -1,4 +1,5 @@
 import { useState, useMemo } from "react";
+import PropTypes from "prop-types"; // Importar prop-types
 import GameChecklist from "../GameChecklist";
 import Sidebar from "../Sidebar";
 
@@ -36,6 +37,15 @@ const DynamicChecklist = ({ data }) => {
       </div>
     </div>
   );
+};
+
+// Definir validação das props
+DynamicChecklist.propTypes = {
+  data: PropTypes.arrayOf(
+    PropTypes.objectOf(
+      PropTypes.array.isRequired // Cada valor de chave no objeto precisa ser um array
+    ).isRequired // Cada item da array precisa ser um objeto
+  ).isRequired, // `data` é uma array de objetos obrigatória
 };
 
 export default DynamicChecklist;

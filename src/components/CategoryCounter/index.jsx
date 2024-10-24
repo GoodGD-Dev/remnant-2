@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import PropTypes from "prop-types"; // Importar prop-types
 
 const CategoryCounter = ({ data, title }) => {
   const [categoryCounts, setCategoryCounts] = useState({});
@@ -35,6 +36,16 @@ const CategoryCounter = ({ data, title }) => {
       </ul>
     </div>
   );
+};
+
+// Definir validação das props
+CategoryCounter.propTypes = {
+  data: PropTypes.arrayOf(
+    PropTypes.objectOf(
+      PropTypes.array.isRequired // Cada valor de chave no objeto precisa ser um array
+    ).isRequired // Cada item da array precisa ser um objeto
+  ).isRequired,
+  title: PropTypes.string.isRequired, // O título precisa ser uma string
 };
 
 export default CategoryCounter;

@@ -1,4 +1,4 @@
-import { Navbar, Nav, Button, Form, Container } from "react-bootstrap";
+import { Navbar, Nav, Form, Container } from "react-bootstrap";
 import { Link, useLocation } from "react-router-dom";
 import { useState } from "react";
 import Logo from "../../assets/remnant logo.png";

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar"; // Certifique-se de que o caminho está correto
@@ -9,7 +9,6 @@ import modsData from "../../../../data/mods.json";
 import mutatorsData from "../../../../data/mutators.json";
 import relicsData from "../../../../data/relics.json";
 import ringsData from "../../../../data/rings.json";
-import statsData from "../../../../data/stats.json";
 import traitsData from "../../../../data/traits.json";
 import weaponsData from "../../../../data/weapons.json";
 import { Container } from "react-bootstrap";

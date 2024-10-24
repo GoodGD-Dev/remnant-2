@@ -19,15 +19,22 @@ const getMutators = (type) => {
 
 const Mutators = () => {
   const [content, setContent] = useState("sub1");
+
   const ranged = getMutators("Ranged");
   const melee = getMutators("Melee");
 
-  const categories = [
-    "Game Base",
-    "The Awakened King",
-    "The Forgotten Kingdom",
-    "The Dark Horizon",
-  ];
+  // Use useMemo para evitar recriar o array de categories a cada render
+  const categories = useMemo(
+    () => [
+      "Game Base",
+      "The Awakened King",
+      "The Forgotten Kingdom",
+      "The Dark Horizon",
+    ],
+    [] // Nenhuma dependência porque os valores são constantes
+  );
+
+  // useMemo para gerar menuItems baseado em categories
   const menuItems = useMemo(
     () =>
       categories.map((category, index) => ({
@@ -36,21 +43,37 @@ const Mutators = () => {
           {
             label: `Ranged (${ranged[category].length})`,
             value: `sub${index * 2 + 1}`,
+            key: `ranged-${category}`, // Adicionando key
           },
           {
             label: `Melee (${melee[category].length})`,
             value: `sub${index * 2 + 2}`,
+            key: `melee-${category}`, // Adicionando key
           },
         ],
       })),
-    [ranged, melee]
+    [ranged, melee, categories] // Dependências corretas
   );
 
-  const contentMap = Object.fromEntries(
-    categories.flatMap((category, index) => [
-      [`sub${index * 2 + 1}`, <GameChecklist items={ranged[category]} />],
-      [`sub${index * 2 + 2}`, <GameChecklist items={melee[category]} />],
-    ])
+  // useMemo para gerar contentMap baseado em categories
+  const contentMap = useMemo(
+    () =>
+      Object.fromEntries(
+        categories.flatMap((category, index) => [
+          [
+            `sub${index * 2 + 1}`,
+            <GameChecklist
+              key={`ranged-${category}`}
+              items={ranged[category]}
+            />,
+          ],
+          [
+            `sub${index * 2 + 2}`,
+            <GameChecklist key={`melee-${category}`} items={melee[category]} />,
+          ],
+        ])
+      ),
+    [ranged, melee, categories] // Dependências corretas
   );
 
   return (

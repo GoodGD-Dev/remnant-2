@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Card, Button, Form } from "react-bootstrap";
 import PropTypes from "prop-types";
 import "./style.css";
