@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
-import Sidebar from "../../../../components/Sidebar"; // Certifique-se de que o caminho está correto
+import Sidebar from "../../../../components/Sidebar";
 import amuletsData from "../../../../data/amulets.json";
 import armorsData from "../../../../data/armors.json";
 import classesData from "../../../../data/classes.json";
@@ -51,7 +51,7 @@ const Summary = () => {
       case "armors":
         return (
           <>
-            <CategoryCounter data={armorsData} title="Contagem de amuletos" />
+            <div>test</div>
           </>
         );
       case "classes":
