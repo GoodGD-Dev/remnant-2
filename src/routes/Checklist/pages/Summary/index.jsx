@@ -3,16 +3,17 @@ import { useEffect, useState } from "react";
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar";
-import ArmorsSummary from "./armors";
+import ArmorsSummary from "./others/armors";
+import MutatorsSummary from "./others/mutators";
+import WeaponsSummary from "./others/weapons";
 
 import amuletsData from "../../../../data/amulets.json";
 import classesData from "../../../../data/classes.json";
 import modsData from "../../../../data/mods.json";
-import mutatorsData from "../../../../data/mutators.json";
 import relicsData from "../../../../data/relics.json";
 import ringsData from "../../../../data/rings.json";
 import traitsData from "../../../../data/traits.json";
-import weaponsData from "../../../../data/weapons.json";
+
 import { Container } from "react-bootstrap";
 
 const Summary = () => {
@@ -32,7 +33,7 @@ const Summary = () => {
     { label: "Armors", value: "armors" },
     { label: "Classes", value: "classes" },
     { label: "Mods", value: "mods" },
-    { label: "Mutators (ainda nn)", value: "mutators" },
+    { label: "Mutators", value: "mutators" },
     { label: "Relíquias", value: "relics" },
     { label: "Rings", value: "rings" },
     { label: "Traits", value: "traits" },
@@ -83,9 +84,7 @@ const Summary = () => {
           </>
         );
       case "mutators":
-        return (
-          <CategoryCounter data={mutatorsData} title="Contagem de relíquias" />
-        );
+        return <MutatorsSummary />;
       case "relics":
         return (
           <CategoryCounter data={relicsData} title="Contagem de relíquias" />
@@ -99,9 +98,7 @@ const Summary = () => {
           <CategoryCounter data={traitsData} title="Contagem de relíquias" />
         );
       case "weapons":
-        return (
-          <CategoryCounter data={weaponsData} title="Contagem de relíquias" />
-        );
+        return <WeaponsSummary />;
       default:
         return null;
     }

@@ -5,7 +5,7 @@ import {
   dhCounts,
   duCounts,
   getTotalCount,
-} from "../Armors/armorsSets";
+} from "../../Armors/armorsSets";
 
 function ArmorsSummary() {
   return (

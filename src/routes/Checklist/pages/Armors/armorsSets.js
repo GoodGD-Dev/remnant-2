@@ -62,8 +62,6 @@ const akCounts = countItems(ak);
 const fkCounts = countItems(fk);
 const dhCounts = countItems(dh);
 const duCounts = countItems(du);
-console.log(gbCounts)
-
 // Função para somar o total
 const getTotalCount = (counts) => {
   return Object.values(counts).reduce((acc, count) => acc + count, 0);

@@ -17,13 +17,26 @@ const getMutators = (type) => {
   }, {});
 };
 
+// Função para obter a quantidade de itens em cada categoria de um tipo específico
+const getCategoryCounts = (type) => {
+  const mutators = getMutators(type);
+
+  return Object.keys(mutators).reduce((acc, category) => {
+    acc[category] = mutators[category].length;
+    return acc;
+  }, {});
+};
+
+// Exportando as contagens diretamente
+export const rangedCounts = getCategoryCounts("Ranged");
+export const meleeCounts = getCategoryCounts("Melee");
+
 const Mutators = () => {
   const [content, setContent] = useState("sub1");
 
   const ranged = getMutators("Ranged");
   const melee = getMutators("Melee");
 
-  // Use useMemo para evitar recriar o array de categories a cada render
   const categories = useMemo(
     () => [
       "Game Base",
@@ -31,31 +44,29 @@ const Mutators = () => {
       "The Forgotten Kingdom",
       "The Dark Horizon",
     ],
-    [] // Nenhuma dependência porque os valores são constantes
+    []
   );
 
-  // useMemo para gerar menuItems baseado em categories
   const menuItems = useMemo(
     () =>
       categories.map((category, index) => ({
         label: category,
         subOptions: [
           {
-            label: `Ranged (${ranged[category].length})`,
+            label: `Ranged (${rangedCounts[category]})`,
             value: `sub${index * 2 + 1}`,
-            key: `ranged-${category}`, // Adicionando key
+            key: `ranged-${category}`,
           },
           {
-            label: `Melee (${melee[category].length})`,
+            label: `Melee (${meleeCounts[category]})`,
             value: `sub${index * 2 + 2}`,
-            key: `melee-${category}`, // Adicionando key
+            key: `melee-${category}`,
           },
         ],
       })),
-    [ranged, melee, categories] // Dependências corretas
+    [rangedCounts, meleeCounts, categories]
   );
 
-  // useMemo para gerar contentMap baseado em categories
   const contentMap = useMemo(
     () =>
       Object.fromEntries(

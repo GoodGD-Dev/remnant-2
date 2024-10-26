@@ -1,11 +1,6 @@
 # Coisas para fazer:
 
-1. Criar page Summary para os seguintes:
-
-   - Mutators
-   - Weapons
-
-2. Fazer a marcação dos que forem marcados como pegos:
+1. Fazer a marcação dos que forem marcados como pegos:
 
    - Amuletos
    - Armors
@@ -16,7 +11,7 @@
    - Traits
    - Weapons
 
-3. Melhorar a pagina sumary
-4. Deixar bonitinho
-5. Criar page Home
-6. Ajustes finais no site.
+1. Melhorar a pagina sumary
+1. Deixar bonitinho
+1. Criar page Home
+1. Ajustes finais no site.
