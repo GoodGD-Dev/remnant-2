@@ -73,7 +73,7 @@ const Mutators = () => {
           ],
         ])
       ),
-    [ranged, melee, categories] // Dependências corretas
+    [ranged, melee, categories]
   );
 
   return (

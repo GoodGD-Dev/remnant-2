@@ -2,32 +2,39 @@ import armorsData from "../../../../data/armors.json";
 
 const armors = [armorsData];
 
-const gameBase = armors.find((armor) => armor["Game Base"])?.["Game Base"] || [];
-const gbLight = gameBase.find((light) => light["Light Armor Set"])?.["Light Armor Set"] || [];
-const gbMedium = gameBase.find((medium) => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
-const gbHeavy = gameBase.find((heavy) => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
-const gbUltra = gameBase.find((ultra) => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
+// Função auxiliar para extrair conjuntos de armadura
+const getArmorSet = (category, type) =>
+  armors.find((armor) => armor[category])?.[category]
+    .find((item) => item[type])?.[type] || [];
 
-const awakenedKing = armors.find((armor) => armor["The Awakened King"])?.["The Awakened King"] || [];
-const akLight = awakenedKing.find((light) => light["Light Armor Set"])?.["Light Armor Set"] || [];
-const akMedium = awakenedKing.find((medium) => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
-const akHeavy = awakenedKing.find((heavy) => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
-const akUltra = awakenedKing.find((ultra) => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
-
-const forgottenKingdom = armors.find((armor) => armor["The Forgotten Kingdom"])?.["The Forgotten Kingdom"] || [];
-const fkLight = forgottenKingdom.find((light) => light["Light Armor Set"])?.["Light Armor Set"] || [];
-const fkMedium = forgottenKingdom.find((medium) => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
-const fkHeavy = forgottenKingdom.find((heavy) => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
-const fkUltra = forgottenKingdom.find((ultra) => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
-
-const darkHorizon = armors.find((armor) => armor["The Dark Horizon"])?.["The Dark Horizon"] || [];
-const dhLight = darkHorizon.find((light) => light["Light Armor Set"])?.["Light Armor Set"] || [];
-const dhMedium = darkHorizon.find((medium) => medium["Medium Armor Set"])?.["Medium Armor Set"] || [];
-const dhHeavy = darkHorizon.find((heavy) => heavy["Heavy Armor Set"])?.["Heavy Armor Set"] || [];
-const dhUltra = darkHorizon.find((ultra) => ultra["Ultra Armor Set"])?.["Ultra Armor Set"] || [];
-
-export {
-  armors, gbLight, gbMedium, gbHeavy, gbUltra, akLight, akMedium, akHeavy,
-  akUltra, fkLight, fkMedium, fkHeavy, fkUltra, dhLight, dhMedium, dhHeavy,
-  dhUltra
+// Categorias de armaduras agrupadas
+const gb = {
+  Light: getArmorSet("Game Base", "Light Armor Set"),
+  Medium: getArmorSet("Game Base", "Medium Armor Set"),
+  Heavy: getArmorSet("Game Base", "Heavy Armor Set"),
+  Ultra: getArmorSet("Game Base", "Ultra Armor Set"),
 };
+
+const ak = {
+  Light: getArmorSet("The Awakened King", "Light Armor Set"),
+  Medium: getArmorSet("The Awakened King", "Medium Armor Set"),
+  Heavy: getArmorSet("The Awakened King", "Heavy Armor Set"),
+  Ultra: getArmorSet("The Awakened King", "Ultra Armor Set"),
+};
+
+const fk = {
+  Light: getArmorSet("The Forgotten Kingdom", "Light Armor Set"),
+  Medium: getArmorSet("The Forgotten Kingdom", "Medium Armor Set"),
+  Heavy: getArmorSet("The Forgotten Kingdom", "Heavy Armor Set"),
+  Ultra: getArmorSet("The Forgotten Kingdom", "Ultra Armor Set"),
+};
+
+const dh = {
+  Light: getArmorSet("The Dark Horizon", "Light Armor Set"),
+  Medium: getArmorSet("The Dark Horizon", "Medium Armor Set"),
+  Heavy: getArmorSet("The Dark Horizon", "Heavy Armor Set"),
+  Ultra: getArmorSet("The Dark Horizon", "Ultra Armor Set"),
+};
+
+// Exporta apenas os objetos agrupados
+export { gb, ak, fk, dh };

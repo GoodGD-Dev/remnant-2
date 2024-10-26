@@ -1,87 +1,72 @@
 import { useState, useMemo } from "react";
 import Sidebar from "../../../../components/Sidebar";
 import GameChecklist from "../../../../components/GameChecklist";
-import {
-  gbLight,
-  gbMedium,
-  gbHeavy,
-  gbUltra,
-  akLight,
-  akMedium,
-  akHeavy,
-  akUltra,
-  fkLight,
-  fkMedium,
-  fkHeavy,
-  fkUltra,
-  dhLight,
-  dhMedium,
-  dhHeavy,
-  dhUltra,
-} from "./armorsSets";
+import { gb, ak, fk, dh } from "./armorsSets";
 
 const Armors = () => {
   const [content, setContent] = useState("sub1");
 
+  // Configuração dos itens do menu, agora acessando as propriedades de cada conjunto
   const menuItems = useMemo(
     () => [
       {
         label: "Game Base",
         subOptions: [
-          { label: `Light Armor (${gbLight.length})`, value: "sub1" },
-          { label: `Medium Armor (${gbMedium.length})`, value: "sub2" },
-          { label: `Heavy Armor (${gbHeavy.length})`, value: "sub3" },
-          { label: `Ultra Armor (${gbUltra.length})`, value: "sub4" },
+          { label: `Light Armor (${gb.Light.length})`, value: "sub1" },
+          { label: `Medium Armor (${gb.Medium.length})`, value: "sub2" },
+          { label: `Heavy Armor (${gb.Heavy.length})`, value: "sub3" },
+          { label: `Ultra Armor (${gb.Ultra.length})`, value: "sub4" },
         ],
       },
       {
         label: "The Awakened King",
         subOptions: [
-          { label: `Light Armor (${akLight.length})`, value: "sub5" },
-          { label: `Medium Armor (${akMedium.length})`, value: "sub6" },
-          { label: `Heavy Armor (${akHeavy.length})`, value: "sub7" },
-          { label: `Ultra Armor (${akUltra.length})`, value: "sub8" },
+          { label: `Light Armor (${ak.Light.length})`, value: "sub5" },
+          { label: `Medium Armor (${ak.Medium.length})`, value: "sub6" },
+          { label: `Heavy Armor (${ak.Heavy.length})`, value: "sub7" },
+          { label: `Ultra Armor (${ak.Ultra.length})`, value: "sub8" },
         ],
       },
       {
         label: "The Forgotten Kingdom",
         subOptions: [
-          { label: `Light Armor (${fkLight.length})`, value: "sub9" },
-          { label: `Medium Armor (${fkMedium.length})`, value: "sub10" },
-          { label: `Heavy Armor (${fkHeavy.length})`, value: "sub11" },
-          { label: `Ultra Armor (${fkUltra.length})`, value: "sub12" },
+          { label: `Light Armor (${fk.Light.length})`, value: "sub9" },
+          { label: `Medium Armor (${fk.Medium.length})`, value: "sub10" },
+          { label: `Heavy Armor (${fk.Heavy.length})`, value: "sub11" },
+          { label: `Ultra Armor (${fk.Ultra.length})`, value: "sub12" },
         ],
       },
       {
         label: "The Dark Horizon",
         subOptions: [
-          { label: `Light Armor (${dhLight.length})`, value: "sub13" },
-          { label: `Medium Armor (${dhMedium.length})`, value: "sub14" },
-          { label: `Heavy Armor (${dhHeavy.length})`, value: "sub15" },
-          { label: `Ultra Armor (${dhUltra.length})`, value: "sub16" },
+          { label: `Light Armor (${dh.Light.length})`, value: "sub13" },
+          { label: `Medium Armor (${dh.Medium.length})`, value: "sub14" },
+          { label: `Heavy Armor (${dh.Heavy.length})`, value: "sub15" },
+          { label: `Ultra Armor (${dh.Ultra.length})`, value: "sub16" },
         ],
       },
     ],
     []
   );
 
+  // Mapeamento do conteúdo, agora usando a estrutura de cada conjunto
   const contentMap = {
-    sub1: <GameChecklist items={gbLight} />,
-    sub2: <GameChecklist items={gbMedium} />,
-    sub3: <GameChecklist items={gbHeavy} />,
-    sub4: <GameChecklist items={gbUltra} />,
-    sub5: <GameChecklist items={akLight} />,
-    sub6: <GameChecklist items={akMedium} />,
-    sub7: <GameChecklist items={akHeavy} />,
-    sub8: <GameChecklist items={akUltra} />,
-    sub9: <GameChecklist items={fkLight} />,
-    sub10: <GameChecklist items={fkMedium} />,
-    sub11: <GameChecklist items={fkHeavy} />,
-    sub12: <GameChecklist items={fkUltra} />,
-    sub13: <GameChecklist items={dhLight} />,
-    sub14: <GameChecklist items={dhMedium} />,
-    sub15: <GameChecklist items={dhHeavy} />,
-    sub16: <GameChecklist items={dhUltra} />,
+    sub1: <GameChecklist items={gb.Light} />,
+    sub2: <GameChecklist items={gb.Medium} />,
+    sub3: <GameChecklist items={gb.Heavy} />,
+    sub4: <GameChecklist items={gb.Ultra} />,
+    sub5: <GameChecklist items={ak.Light} />,
+    sub6: <GameChecklist items={ak.Medium} />,
+    sub7: <GameChecklist items={ak.Heavy} />,
+    sub8: <GameChecklist items={ak.Ultra} />,
+    sub9: <GameChecklist items={fk.Light} />,
+    sub10: <GameChecklist items={fk.Medium} />,
+    sub11: <GameChecklist items={fk.Heavy} />,
+    sub12: <GameChecklist items={fk.Ultra} />,
+    sub13: <GameChecklist items={dh.Light} />,
+    sub14: <GameChecklist items={dh.Medium} />,
+    sub15: <GameChecklist items={dh.Heavy} />,
+    sub16: <GameChecklist items={dh.Ultra} />,
   };
 
   return (
