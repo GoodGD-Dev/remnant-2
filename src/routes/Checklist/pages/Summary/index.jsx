@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
+
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar";
+import ArmorsSummary from "./armors";
+
 import amuletsData from "../../../../data/amulets.json";
-import armorsData from "../../../../data/armors.json";
 import classesData from "../../../../data/classes.json";
 import modsData from "../../../../data/mods.json";
 import mutatorsData from "../../../../data/mutators.json";
@@ -27,7 +29,7 @@ const Summary = () => {
   const menuItems = [
     { label: "Resume", value: "resume" },
     { label: "Amuletos", value: "amulets" },
-    { label: "Armors (aind nn)", value: "armors" },
+    { label: "Armors", value: "armors" },
     { label: "Classes", value: "classes" },
     { label: "Mods", value: "mods" },
     { label: "Mutators (ainda nn)", value: "mutators" },
@@ -49,11 +51,7 @@ const Summary = () => {
           </>
         );
       case "armors":
-        return (
-          <>
-            <div>test</div>
-          </>
-        );
+        return <ArmorsSummary />;
       case "classes":
         return (
           <CategoryCounter data={classesData} title="Contagem de classes" />

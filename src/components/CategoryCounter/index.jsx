@@ -26,7 +26,7 @@ const CategoryCounter = ({ data, title }) => {
 
   return (
     <div>
-      <h1>{title}</h1> {/* Use a propriedade title aqui */}
+      <h1>{title}</h1>
       <ul>
         {Object.entries(categoryCounts).map(([category, count]) => (
           <li key={category}>

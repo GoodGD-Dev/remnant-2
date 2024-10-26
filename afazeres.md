@@ -2,7 +2,6 @@
 
 1. Criar page Summary para os seguintes:
 
-   - Armors
    - Mutators
    - Weapons
 
