@@ -62,9 +62,34 @@ const akCounts = countItems(ak);
 const fkCounts = countItems(fk);
 const dhCounts = countItems(dh);
 const duCounts = countItems(du);
-// Função para somar o total
+
+// Função para somar o total de itens em cada categoria
 const getTotalCount = (counts) => {
   return Object.values(counts).reduce((acc, count) => acc + count, 0);
 };
 
-export { gb, ak, fk, dh, du, gbCounts, akCounts, fkCounts, dhCounts, duCounts, getTotalCount };
+// Função para contar os itens de checkedItems em cada tipo de armadura
+const countCheckedItems = (armorCategory, checkedItems) => {
+  return Object.keys(armorCategory).reduce((counts, type) => {
+    counts[type] = armorCategory[type].filter(item => checkedItems[item]).length;
+    return counts;
+  }, {});
+};
+
+// Exemplo de uso com os dados de checkedItems armazenados no navegador
+const checkedItems = JSON.parse(localStorage.getItem("checkedItems"));
+
+// Contagens para cada categoria de armaduras com itens marcados em checkedItems
+const gbCheckedCounts = countCheckedItems(gb, checkedItems);
+const akCheckedCounts = countCheckedItems(ak, checkedItems);
+const fkCheckedCounts = countCheckedItems(fk, checkedItems);
+const dhCheckedCounts = countCheckedItems(dh, checkedItems);
+const duCheckedCounts = countCheckedItems(du, checkedItems);
+
+// Exportando as contagens de itens totais e itens verificados
+export {
+  gb, ak, fk, dh, du,
+  gbCounts, akCounts, fkCounts, dhCounts, duCounts,
+  gbCheckedCounts, akCheckedCounts, fkCheckedCounts, dhCheckedCounts, duCheckedCounts,
+  getTotalCount
+};
