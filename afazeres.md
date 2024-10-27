@@ -2,13 +2,8 @@
 
 1. Fazer a marcação dos que forem marcados como pegos:
 
-   - Amuletos
    - Armors
-   - Classes
-   - Mutators
-   - Relics
-   - Rings
-   - Traits
+   - Mutator
    - Weapons
 
 1. Melhorar a pagina sumary

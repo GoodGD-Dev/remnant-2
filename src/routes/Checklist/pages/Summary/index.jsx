@@ -37,7 +37,7 @@ const Summary = () => {
     { label: "Relíquias", value: "relics" },
     { label: "Rings", value: "rings" },
     { label: "Traits", value: "traits" },
-    { label: "Weapons (ainda nn)", value: "weapons" },
+    { label: "Weapons", value: "weapons" },
   ];
 
   // Função para renderizar o conteúdo com base no estado "content"
@@ -49,13 +49,55 @@ const Summary = () => {
         return (
           <>
             <CategoryCounter data={amuletsData} title="Contagem de amuletos" />
+            <MatchedItems
+              title="Game Base"
+              datas={amuletsData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={amuletsData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={amuletsData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={amuletsData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
           </>
         );
       case "armors":
         return <ArmorsSummary />;
       case "classes":
         return (
-          <CategoryCounter data={classesData} title="Contagem de classes" />
+          <>
+            <CategoryCounter data={classesData} title="Contagem de classes" />
+            <MatchedItems
+              title="Game Base"
+              datas={classesData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={classesData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={classesData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={classesData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
+          </>
         );
       case "mods":
         return (
@@ -63,22 +105,22 @@ const Summary = () => {
             <CategoryCounter data={modsData} title="Contagem de mods" />
             <MatchedItems
               title="Game Base"
-              mods={modsData[0]["Game Base"]}
+              datas={modsData[0]["Game Base"]}
               checkedItems={checkedItems}
             />
             <MatchedItems
               title="The Awakened King"
-              mods={modsData[0]["The Awakened King"]}
+              datas={modsData[0]["The Awakened King"]}
               checkedItems={checkedItems}
             />
             <MatchedItems
               title="The Forgotten Kingdom"
-              mods={modsData[0]["The Forgotten Kingdom"]}
+              datas={modsData[0]["The Forgotten Kingdom"]}
               checkedItems={checkedItems}
             />
             <MatchedItems
               title="The Dark Horizon"
-              mods={modsData[0]["The Dark Horizon"]}
+              datas={modsData[0]["The Dark Horizon"]}
               checkedItems={checkedItems}
             />
           </>
@@ -87,15 +129,76 @@ const Summary = () => {
         return <MutatorsSummary />;
       case "relics":
         return (
-          <CategoryCounter data={relicsData} title="Contagem de relíquias" />
+          <>
+            <CategoryCounter data={relicsData} title="Contagem de relíquias" />
+            <MatchedItems
+              title="Game Base"
+              datas={relicsData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={relicsData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={relicsData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={relicsData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
+          </>
         );
       case "rings":
         return (
-          <CategoryCounter data={ringsData} title="Contagem de relíquias" />
+          <>
+            <CategoryCounter data={ringsData} title="Contagem de relíquias" />
+            <MatchedItems
+              title="Game Base"
+              datas={ringsData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={ringsData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={ringsData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={ringsData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
+          </>
         );
       case "traits":
         return (
-          <CategoryCounter data={traitsData} title="Contagem de relíquias" />
+          <>
+            <CategoryCounter data={traitsData} title="Contagem de relíquias" />
+            <MatchedItems
+              title="core"
+              datas={traitsData[0]["core"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="archetype"
+              datas={traitsData[0]["archetype"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="others"
+              datas={traitsData[0]["others"]}
+              checkedItems={checkedItems}
+            />
+          </>
         );
       case "weapons":
         return <WeaponsSummary />;

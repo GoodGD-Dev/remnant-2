@@ -1,9 +1,9 @@
 import PropTypes from "prop-types";
 
-const MatchedItems = ({ title, mods, checkedItems }) => {
+const MatchedItems = ({ title, datas, checkedItems }) => {
   // Filtrar os itens que correspondem
   const matchedItems = Object.keys(checkedItems).filter((item) =>
-    mods.some((mod) => mod.nome === item)
+    datas.some((data) => data.nome === item)
   );
 
   return (
@@ -21,11 +21,11 @@ const MatchedItems = ({ title, mods, checkedItems }) => {
 // Definir validação das props
 MatchedItems.propTypes = {
   title: PropTypes.string.isRequired, // `title` é uma string obrigatória
-  mods: PropTypes.arrayOf(
+  datas: PropTypes.arrayOf(
     PropTypes.shape({
-      nome: PropTypes.string.isRequired, // Cada objeto no array `mods` deve ter uma string `nome`
+      nome: PropTypes.string.isRequired, // Cada objeto no array `datas` deve ter uma string `nome`
     })
-  ).isRequired, // `mods` é uma array de objetos obrigatória
+  ).isRequired, // `datas` é uma array de objetos obrigatória
   checkedItems: PropTypes.objectOf(PropTypes.bool).isRequired, // `checkedItems` é um objeto cujas chaves são strings e os valores são booleanos
 };
 
