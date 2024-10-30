@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Row, Col, Container } from "react-bootstrap";
 
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
@@ -10,32 +11,24 @@ import classesData from "../../../../data/classes.json";
 import modsData from "../../../../data/mods.json";
 import relicsData from "../../../../data/relics.json";
 import ringsData from "../../../../data/rings.json";
-
 import handGunsData from "../../../../data/weapons/normal/handGuns.json";
 import longGunsData from "../../../../data/weapons/normal/longGuns.json";
 import meleeData from "../../../../data/weapons/normal/melee.json";
 import sHandGunsData from "../../../../data/weapons/special/handGuns.json";
 import sLongGunsData from "../../../../data/weapons/special/longGuns.json";
 import sMeleeData from "../../../../data/weapons/special/melee.json";
-import cHandGunsData from "../../../../data/weapons/corrupted/handGuns.json";
-import cLongGunsData from "../../../../data/weapons/corrupted/longGuns.json";
-
 import meleeMutatorsData from "../../../../data/mutators/melee.json";
 import rangedMutatorsData from "../../../../data/mutators/ranged.json";
 
-import { Container } from "react-bootstrap";
-
 const Summary = () => {
   const [checkedItems, setCheckedItems] = useState({});
-  const [content, setContent] = useState("resume"); // Estado para controlar o conteúdo a ser exibido
+  const [content, setContent] = useState("resume");
 
   useEffect(() => {
-    // Carregar os dados do localStorage
     const items = JSON.parse(localStorage.getItem("checkedItems")) || {};
     setCheckedItems(items);
   }, []);
 
-  // Itens do menu para a sidebar
   const menuItems = [
     { label: "Resume", value: "resume" },
     { label: "Amuletos", value: "amulets" },
@@ -49,422 +42,64 @@ const Summary = () => {
     { label: "Weapons", value: "weapons" },
   ];
 
-  // Função para renderizar o conteúdo com base no estado "content"
+  const renderMatchedItems = (data, title) => (
+    <Row>
+      <Col xs={6} sm={4} md={3} lg={12}>
+        <CategoryCounter data={data} title={`Contagem de ${title}`} />
+      </Col>
+      <Col xs={12}>
+        {" "}
+        {/* Usando Col para o MatchedItems */}
+        <Row>
+          {Object.keys(data[0]).map((key) => (
+            <Col xs={12} sm={6} md={4} lg={3} key={key}>
+              {" "}
+              {/* Ajuste as larguras conforme necessário */}
+              <MatchedItems
+                title={key}
+                datas={data[0][key]}
+                checkedItems={checkedItems}
+              />
+            </Col>
+          ))}
+        </Row>
+      </Col>
+    </Row>
+  );
+
   const renderContent = () => {
     switch (content) {
       case "resume":
         return <div>test</div>;
       case "amulets":
-        return (
-          <>
-            <CategoryCounter data={amuletsData} title="Contagem de amuletos" />
-            <MatchedItems
-              title="Game Base"
-              datas={amuletsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={amuletsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={amuletsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={amuletsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(amuletsData, "amuletos");
       case "armors":
         return <ArmorsSummary />;
       case "classes":
-        return (
-          <>
-            <CategoryCounter data={classesData} title="Contagem de classes" />
-            <MatchedItems
-              title="Game Base"
-              datas={classesData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={classesData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={classesData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={classesData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(classesData, "classes");
       case "mods":
-        return (
-          <>
-            <CategoryCounter data={modsData} title="Contagem de mods" />
-            <MatchedItems
-              title="Game Base"
-              datas={modsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={modsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={modsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={modsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(modsData, "mods");
       case "mutators":
         return (
           <>
-            <CategoryCounter
-              data={meleeMutatorsData}
-              title="Contagem de melee"
-            />
-            <MatchedItems
-              title="Game Base"
-              datas={meleeMutatorsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={meleeMutatorsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={meleeMutatorsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={meleeMutatorsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-            <CategoryCounter
-              data={rangedMutatorsData}
-              title="Contagem de ranged"
-            />
-            <MatchedItems
-              title="Game Base"
-              datas={rangedMutatorsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={rangedMutatorsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={rangedMutatorsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={rangedMutatorsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
+            {renderMatchedItems(meleeMutatorsData, "melee")}
+            {renderMatchedItems(rangedMutatorsData, "ranged")}
           </>
         );
       case "relics":
-        return (
-          <>
-            <CategoryCounter data={relicsData} title="Contagem de relíquias" />
-            <MatchedItems
-              title="Game Base"
-              datas={relicsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={relicsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={relicsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={relicsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(relicsData, "relíquias");
       case "rings":
-        return (
-          <>
-            <CategoryCounter data={ringsData} title="Contagem de rings" />
-            <MatchedItems
-              title="Game Base"
-              datas={ringsData[0]["Game Base"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Awakened King"
-              datas={ringsData[0]["The Awakened King"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Forgotten Kingdom"
-              datas={ringsData[0]["The Forgotten Kingdom"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="The Dark Horizon"
-              datas={ringsData[0]["The Dark Horizon"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(ringsData, "rings");
       case "traits":
-        return (
-          <>
-            <CategoryCounter data={traitsData} title="Contagem de relíquias" />
-            <MatchedItems
-              title="core"
-              datas={traitsData[0]["core"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="archetype"
-              datas={traitsData[0]["archetype"]}
-              checkedItems={checkedItems}
-            />
-            <MatchedItems
-              title="others"
-              datas={traitsData[0]["others"]}
-              checkedItems={checkedItems}
-            />
-          </>
-        );
+        return renderMatchedItems(traitsData, "traits");
       case "weapons":
         return (
           <>
-            <div>
-              <CategoryCounter
-                data={handGunsData}
-                title="Contagem de handguns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={handGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={handGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={handGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={handGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter
-                data={sHandGunsData}
-                title="Contagem de shandguns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={sHandGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={sHandGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={sHandGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={sHandGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter
-                data={longGunsData}
-                title="Contagem de long guns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={longGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={longGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={longGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={longGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter
-                data={sLongGunsData}
-                title="Contagem de slong guns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={sLongGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={sLongGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={sLongGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={sLongGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter data={meleeData} title="Contagem de melee" />
-              <MatchedItems
-                title="Game Base"
-                datas={meleeData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={meleeData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={meleeData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={meleeData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter data={sMeleeData} title="Contagem de smelee" />
-              <MatchedItems
-                title="Game Base"
-                datas={sMeleeData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={sMeleeData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={sMeleeData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={sMeleeData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter
-                data={cHandGunsData}
-                title="Contagem de corrupted hand guns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={cHandGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={cHandGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={cHandGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={cHandGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
-            <div>
-              <CategoryCounter
-                data={cLongGunsData}
-                title="Contagem de corrupted long guns"
-              />
-              <MatchedItems
-                title="Game Base"
-                datas={cLongGunsData[0]["Game Base"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Awakened King"
-                datas={cLongGunsData[0]["The Awakened King"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Forgotten Kingdom"
-                datas={cLongGunsData[0]["The Forgotten Kingdom"]}
-                checkedItems={checkedItems}
-              />
-              <MatchedItems
-                title="The Dark Horizon"
-                datas={cLongGunsData[0]["The Dark Horizon"]}
-                checkedItems={checkedItems}
-              />
-            </div>
+            {renderMatchedItems(handGunsData, "handguns")}
+            {renderMatchedItems(sHandGunsData, "shandguns")}
+            {renderMatchedItems(longGunsData, "long guns")}
+            {renderMatchedItems(sLongGunsData, "slong guns")}
+            {renderMatchedItems(meleeData, "melee")}
           </>
         );
       default:
@@ -474,10 +109,8 @@ const Summary = () => {
 
   return (
     <Container>
-      <div className="d-flex">
-        <Sidebar menuItems={menuItems} setContent={setContent} />{" "}
-        <div className="content-area"> {renderContent()} </div>
-      </div>
+      <Sidebar menuItems={menuItems} setContent={setContent} />
+      <div className="d-flex">{renderContent()}</div>
     </Container>
   );
 };
