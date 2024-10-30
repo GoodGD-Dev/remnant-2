@@ -1,0 +1,162 @@
+[
+  {
+    "Game Base": [
+      {
+        "nome": "Dervish",
+        "descricao": "Increases Melee Damage by 20% for 10s when activating a Skill. Level 10: Base Damage Dealt reduce skill cooldowns by 5%.",
+        "link": "https://remnant2.wiki.fextralife.com/Dervish",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dervish_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Disengange",
+        "descricao": "Melee Strikes increase the damage of the next Backdash Evade Attack by 4%. Max 5 Stacks. Lasts 7.5s. Level 10: Perfect Neutral Evades grants 5 stacks",
+        "link": "https://remnant2.wiki.fextralife.com/Disengange",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disengage_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Edgelord",
+        "descricao": "Increases Melee Charge Speed by 15% and Melee Attack Speed by 10%. Level 10: Gain 3% of based Charged Melee Damage dealt as Lifesteal.",
+        "link": "https://remnant2.wiki.fextralife.com/Edgelord",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/edgelord_icon_remnant_2_wiki_200.png"
+      },
+      {
+        "nome": "Latency",
+        "descricao": "Melee Weapons with special abilities which become readied by dealing melee damage require 10% less damage to charge. Level 10: Increase the potency of readied Melee Special abilities by 25%.",
+        "link": "https://remnant2.wiki.fextralife.com/Latency",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/latency_icon_remnant_2_wiki_200.png"
+      },
+      {
+        "nome": "Misfortune",
+        "descricao": "Increase Melee damage by 6% for each unique Negative Status the target is suffering from. Level 10: Melee Attacks apply SLOW for 3s.",
+        "link": "https://remnant2.wiki.fextralife.com/Misfortune",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/misfortune_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Opportunist",
+        "descricao": "Perfect Dodge activates OPPORTUNITY which increases Melee Critical Chance of the next 2s by 50% for 3s. Level 10: While OPPORTUNITY is active, any dodge or combat slide refreshes the duration.",
+        "link": "https://remnant2.wiki.fextralife.com/Opportunist",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/opportunist_icon_remnant_2_wiki_200.png"
+      },
+      {
+        "nome": "Overdrive",
+        "descricao": "Melee Critical Hits increase Melee Critical Chance by 5% for 7.5s. stacking up to 5 times. Level 10: Melee Critical Strikes deal 20% additional damage.",
+        "link": "https://remnant2.wiki.fextralife.com/Overdrive",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/overdrive_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Reinvigorate",
+        "descricao": "Reduces the Stamina Cost of all Charged Melee Attacks by 25%. Level 10: Melee Charge Attacks gain 15% additional damage and 10% Critical Chance.",
+        "link": "https://remnant2.wiki.fextralife.com/Reinvigorate",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/reinvigorate_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Resentment",
+        "descricao": "Gain 15% Melee Damage when Grey Health is present. Level 10: Reduces Stagger by 1 when using any Melee Attack",
+        "link": "https://remnant2.wiki.fextralife.com/Resentment",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/resentment_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Shielded Strike",
+        "descricao": "Melee Attacks grants a Shield for 3% of Max Health for 5s. Max 30% Shield. Level 10: Charged Melee Attacks deal 25% additional melee damage based on current Shield amount.",
+        "link": "https://remnant2.wiki.fextralife.com/Shield+Strike",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shield_breaker_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Shocker",
+        "descricao": "Empowers weapon after 3 hits. While empowered. the next Charged Melee hit strikes all enemies within 10m with SHOCK Damage. Level 10: The SHOCK Damage now applies OVERLOADED dealing 100 damage over 5.05s.",
+        "link": "https://remnant2.wiki.fextralife.com/Shocker",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shocker_icon_remnant_2_wiki_200.png"
+      },
+      {
+        "nome": "Steadfast",
+        "descricao": "Charged Melee Attacks cannot be interrupted and gain 5% damage reduction from all sources. Level 10: All damage taken during Charged Melee Attack is converted to Grey Health.",
+        "link": "https://remnant2.wiki.fextralife.com/Steadfast",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steadfast_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Stormbringer",
+        "descricao": "Increases the Status Effect Damage applied by Melee Attacks by 25%. Level 10: Charged Melee Attacks lower enemy's Resistance to All Status Damage by 10%. Lasts 10s.",
+        "link": "https://remnant2.wiki.fextralife.com/Stormbringer",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/stormbringer_icon_remnant_2_wiki_200.png"
+      },
+      {
+        "nome": "Striker",
+        "descricao": "Melee Hits increase Melee Damage by 3% for 10s Max 5 Stacks. Level 10: Increases Movement Speed by 3% per stack.",
+        "link": "https://remnant2.wiki.fextralife.com/Striker",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/striker_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Transference",
+        "descricao": "Melee Hits generate 5% Ammo Reserves for both Firearms. Cooldown 10s. Level 10: When a Firearm reserve is full, melee Strikes increase Reload Speed by 50% after Ammo transfer",
+        "link": "https://remnant2.wiki.fextralife.com/Transference",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/transference_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Vampire Blade",
+        "descricao": "Increases Melee Damage by 10% while within 10m of a BLEEDING entity. Level 10: Melee Hits vs BLEEDING targets will Lifesteal 3% of base damage dealt.",
+        "link": "https://remnant2.wiki.fextralife.com/Vampire+Blade",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vampire_blade_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Vengeful Strike",
+        "descricao": "Increases Melee damage by 25% when below 50% Max Health. Level 10: Increases Melee Critical Chance by 15% when below 50% Max Health.",
+        "link": "https://remnant2.wiki.fextralife.com/Vengeful+Strike",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/vengeful_striker_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Weaponlord",
+        "descricao": "Basic Melee Attacks increase the next Charge Attack by 7%. Max 3 Stacks. Level 10: At Max Stacks, the next Charge Attack gains 100% Critical Chance.",
+        "link": "https://remnant2.wiki.fextralife.com/Weaponlord",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/weaponlord_mutator_remnant2_wiki_guide_200px.png"
+      }
+    ],
+    "The Awakened King": [
+      {
+        "nome": "Executor",
+        "descricao": "Charged Melee Attacks increase the duration of Negative Status Effects on enemies by 10% of the original duration. Cannot exceed original max duration. Level 10: Increases Melee Charge Speed and Melee Attack Speed by 5% per entity within 20m with a Negative Status Effect. Max 4 stacks.",
+        "link": "https://remnant2.wiki.fextralife.com/Executor",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/executor_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Guts",
+        "descricao": "increases Melee Critical Chance by 5% when Grey Health is present. Level 10: Increases Melee Critical Damage by 0.5% for every 1% of Grey Health.",
+        "link": "https://remnant2.wiki.fextralife.com/Guts",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guts_mutator_remnant2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Tainted Blade",
+        "descricao": "Increases Melee Damage by 5% per stack of CORRODED on the target. Level 10: Charged Melee Attacks apply CORRODED, dealing 250 ACID Damage over 10s.",
+        "link": "https://remnant2.wiki.fextralife.com/Tainted+Blade",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tainted_blade_mutator_remnant2_wiki_guide_200px.png"
+      }
+    ],
+    "The Forgotten Kingdom": [
+      {
+        "nome": "Battle Mage",
+        "descricao": "Skill activation grants Mage Strike for l0s increasing Melee Mod Generation by 50%. Level 10: Mage Strike also increases Melee Damage by 15%",
+        "link": "https://remnant2.wiki.fextralife.com/Battle+Mage",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/battlemage_mutaror_remnant2_the_forgotten_kingdom_200px.png"
+      },
+      {
+        "nome": "Gladiator",
+        "descricao": "While Brandishing a Melee Weapon, receiving Enemy Damage increases Melee Damage by 25% for 5s. Level 10: Receiving Enemy Damage while brandishing a Melee Weapon grants 1 stack of BULWARK for 5s.",
+        "link": "https://remnant2.wiki.fextralife.com/Gladiator",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/gladiator_mutator_remnant2_wiki_guide200px.png"
+      }
+    ],
+    "The Dark Horizon": [
+      {
+        "nome": "Hyper Charger",
+        "descricao": "Increases Charged Melee Stamina Cost by 65%. Increases Charged Melee Damage by 25%. Level 10: After a Charged Melee Strike, increases Stamina Recovery Rate by 100% for 3s.",
+        "link": "https://remnant2.wiki.fextralife.com/Hyper+Charger",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/hyper_charger_melee_mutators_remnant2_the_dark_horizon_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Volatile Strike",
+        "descricao": "Dealing Melee Damage creates a 3m blast which deals 50 Explosive Damage. Can only happen once every 1s. Level 10: When Volatile Strike triggers a blast, increases Movement Speed by 20% for 5s.",
+        "link": "https://remnant2.wiki.fextralife.com/Volatile+Strike",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/volatile_strike_mele_mutators_remnant2_the_dark_horizon_wiki_guide_200px.png"
+      }
+    ]
+  }
+]

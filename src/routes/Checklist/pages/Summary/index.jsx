@@ -4,7 +4,6 @@ import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar";
 import ArmorsSummary from "./others/armors";
-import MutatorsSummary from "./others/mutators";
 
 import amuletsData from "../../../../data/amulets.json";
 import classesData from "../../../../data/classes.json";
@@ -15,13 +14,14 @@ import ringsData from "../../../../data/rings.json";
 import handGunsData from "../../../../data/weapons/normal/handGuns.json";
 import longGunsData from "../../../../data/weapons/normal/longGuns.json";
 import meleeData from "../../../../data/weapons/normal/melee.json";
-
 import sHandGunsData from "../../../../data/weapons/special/handGuns.json";
 import sLongGunsData from "../../../../data/weapons/special/longGuns.json";
 import sMeleeData from "../../../../data/weapons/special/melee.json";
-
 import cHandGunsData from "../../../../data/weapons/corrupted/handGuns.json";
 import cLongGunsData from "../../../../data/weapons/corrupted/longGuns.json";
+
+import meleeMutatorsData from "../../../../data/mutators/melee.json";
+import rangedMutatorsData from "../../../../data/mutators/ranged.json";
 
 import { Container } from "react-bootstrap";
 
@@ -135,7 +135,58 @@ const Summary = () => {
           </>
         );
       case "mutators":
-        return <MutatorsSummary />;
+        return (
+          <>
+            <CategoryCounter
+              data={meleeMutatorsData}
+              title="Contagem de melee"
+            />
+            <MatchedItems
+              title="Game Base"
+              datas={meleeMutatorsData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={meleeMutatorsData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={meleeMutatorsData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={meleeMutatorsData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
+            <CategoryCounter
+              data={rangedMutatorsData}
+              title="Contagem de ranged"
+            />
+            <MatchedItems
+              title="Game Base"
+              datas={rangedMutatorsData[0]["Game Base"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Awakened King"
+              datas={rangedMutatorsData[0]["The Awakened King"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Forgotten Kingdom"
+              datas={rangedMutatorsData[0]["The Forgotten Kingdom"]}
+              checkedItems={checkedItems}
+            />
+            <MatchedItems
+              title="The Dark Horizon"
+              datas={rangedMutatorsData[0]["The Dark Horizon"]}
+              checkedItems={checkedItems}
+            />
+          </>
+        );
       case "relics":
         return (
           <>
@@ -165,7 +216,7 @@ const Summary = () => {
       case "rings":
         return (
           <>
-            <CategoryCounter data={ringsData} title="Contagem de relíquias" />
+            <CategoryCounter data={ringsData} title="Contagem de rings" />
             <MatchedItems
               title="Game Base"
               datas={ringsData[0]["Game Base"]}
