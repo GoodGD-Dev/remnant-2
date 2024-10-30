@@ -1,0 +1,57 @@
+{
+  "Game Base": [
+    {
+      "nome": "Corrupted Meridian",
+      "descricao": "Fires rocket that deals AOE damage within 2m. Charging the weapon can load additional rockets.  (Max 3). Cannot Weakspot",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Meridian",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_meridian_weapons_remnant2_wiki_guide250px.png",
+      "mod": "Deadpoint",
+      "moddesc": "Fires a cluster bomb which detonates on impact across 2.5m. each cluster deals up to 150 damage per explosion within 3.5m",
+      "modlink": "https://remnant2.wiki.fextralife.com/Deadpoint",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/deadpoint_weapon_mod_remnant2_wiki_guide65px.jpg"
+    },
+    {
+      "nome": "Corrupted Rune Pistol",
+      "descricao": "A pistol infused with erroneous properties. Fires energy, allowing the trigger to be held for continuous fire.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Rune+Pistol",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_rune_pistol_weapons_remnant2_wiki_guide250px.png",
+      "mod": "Death Brand",
+      "moddesc": "Applies Death Brand to all enemies within 25m. increasing incoming damage by 10%. Enemies killed while bearing the Death Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m. increasing Weakspot Damage dealt by 10% for 10s. ",
+      "modlink": "https://remnant2.wiki.fextralife.com/Death+Brand",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/death_brand_weapon_mod_remnant2_wiki_guide65px.jpg"
+    },
+    {
+      "nome": "Corrupted Cube Gun",
+      "descricao": "Fusion charged auto-cannon generates cubes which penetrate. Infinite ammo capacity. Can overheat. Cannot score Weakspot hits.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Cube+Gun",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-cube-gun-weapons-remnant-2-wiki-guide.png",
+      "mod": "Cube Room",
+      "moddesc": "Conjures a 5m anomalous Cube Room which grants allies an increase of 75% Heat Decay Rate, reduces Heat Generation per round when firing weapons that Overheat by 20%, and automatically generates missing reserve ammo per second. Lasts 15s.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Cube+Room",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/cube-room-weapon-mod-remnant-2-wiki-guide.png"
+    },
+    {
+      "nome": "Corrupted Nebula",
+      "descricao": "Semi-automatic laser weapon. Weakspot hits and kills create a Nano-bot for 8s that seeks enemies within 20m and repeatedly attacks dealing 6 - 12 ACID damage per hit. Max 5 Nano-bots.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Nebula",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-nebula-weapons-remnant-2-wiki-guide.png",
+      "mod": "Nano Phase",
+      "moddesc": "Detonate active Nano-bots, each dealing 100 - 200 ACID damage plus an additional 25 - 50 ACID damage per Nano-bot detonated to enemies within 2m and applies CORRODED, dealing 50 - 100 damage over 10s per Nano-bot detonated.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Nano+Phase",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nano-phase-weapon-mod-remnant-2-wiki-guide.png"
+    },
+    {
+      "nome": "Corrupted Sorrow",
+      "descricao": "Innately cannot harm allies. Fires bolt that anchor to targets for 6s. Max 10 bolts anchored at once.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Sorrow",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-sorrow-weapons-remnant-2-wiki-guide.png",
+      "mod": "Will of the Wisp",
+      "moddesc": "Launches a Wisp that uniquely seeks to one anchored primary fire bolt location. Bolts anchored to enemies deal 100 - 300 damage per Wisp. Bolds anchored to allies heal 10% Max Health per Wisp. Bolts are consumed when impacted by a Wisp. ",
+      "modlink": "https://remnant2.wiki.fextralife.com/Will+of+the+Wisp",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/will-of-the-wisp-weapon-mod-remnant-2-wiki-guide.png"
+    }
+  ],
+  "The Awakened King": [],
+  "The Forgotten Kingdom": [],
+  "The Dark Horizon": []
+}

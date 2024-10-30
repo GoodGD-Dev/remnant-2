@@ -1,0 +1,123 @@
+{
+  "Game Base": [
+    {
+      "nome": "Blade of Adventure",
+      "descricao": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
+      "link": "https://remnant2.wiki.fextralife.com/Blade+of+Adventure",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_adventure_melee_weapon_remnant2_wiki_guide_250px.png"
+    },
+    {
+      "nome": "Blade of Gul",
+      "descricao": "A short, but thick sword, used by Gul Warriors. It's compact design makes for swift yet hard-hitting blows. An excellent close-range option.",
+      "link": "https://remnant2.wiki.fextralife.com/Blade+of+Gul",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blade_of_gul_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Bone Chopper",
+      "descricao": "A razor-sharp hand axe. Excellent for separating flesh from bone. Charge for double attacks.",
+      "link": "https://remnant2.wiki.fextralife.com/Bone+Chopper",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bone_chopper_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Decayed Claws",
+      "descricao": "Makeshift claws fashioned from decayed root and rusted metal.",
+      "link": "https://remnant2.wiki.fextralife.com/Decayed+Claws",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/decayed_claws.jpg"
+    },
+    {
+      "nome": "Edge of the Forest",
+      "descricao": "An elegant, yet light blade, designed to bring beauty to bloodshed. Unstoppable in the hands of a master swordsman.",
+      "link": "https://remnant2.wiki.fextralife.com/Edge+of+the+Forest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/edge_of_the_forest_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Iron Greatsword",
+      "descricao": "A giant broadsword made from flattened railroad tracks. Dozens of ridges cut in the side for causing irreparable damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Iron+Greatsword",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/iron_greatsword_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Knuckle Dusters",
+      "descricao": "Steel knuckles with rusty sawblade tips, designed to boost Unarmed damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Knuckle+Dusters",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/knuckle_dusters_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Labyrinth Staff",
+      "descricao": "Basic Strikes generate 10% additional Mod Power. Charge Attacks perform an AOE which strikes all enemies within 2m, dealing 75 Damage. AOE Damage generates 50% additional Mod Power.",
+      "link": "https://remnant2.wiki.fextralife.com/Labyrinth+Staff",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/labyrinth_staff_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Ornate Blade",
+      "descricao": "An intricately-forged elongated sword. Designed to keep stronger enemies at bay, while remaining light enough for agile maneuvers.",
+      "link": "https://remnant2.wiki.fextralife.com/Ornate+Blade",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_blade_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Ornate Flail",
+      "descricao": "An intricately-forged mace with uniquely designed airways. Allows smaller wielders to get the mace up to speed much quicker.",
+      "link": "https://remnant2.wiki.fextralife.com/Ornate+Flail",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/ornate_flail_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Rebellion Spear",
+      "descricao": "A spear perfect for staying at a distance. Has excellent range, great recovery, and focused direct damage for one on one combat.",
+      "link": "https://remnant2.wiki.fextralife.com/Rebellion+Spear",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rebellion_spear_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Royal Broadsword",
+      "descricao": "Standard issue Greatsword for the Empress's Royal Guards. Razor-sharp edges, extremely heavy, yet perfectly balanced.",
+      "link": "https://remnant2.wiki.fextralife.com/Royal+Broadsword",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_broadsword_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Rusted Claws",
+      "descricao": "A pair of old-canine training bracers converted into deadly claws. Used for slashing and ripping.",
+      "link": "https://remnant2.wiki.fextralife.com/Rusted+Claws",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusted_claws_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Scrap Hammer",
+      "descricao": "A large, heavy warhammer cobbled together from engine components. It is a slow- but-devastating weapon meant to destroy anything it hits.",
+      "link": "https://remnant2.wiki.fextralife.com/Scrap+Hammer",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hammer_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Scrap Hatchet",
+      "descricao": "A common chopping tool that has been repurposed for combat. Rapidly cycles attacks from right to left. Charge attacks strike twice.",
+      "link": "https://remnant2.wiki.fextralife.com/Scrap+Hatchet",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_hatchet_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Scrap Staff",
+      "descricao": "A staff made from old plumbing parts used for controlling wide swaths in front of the wielder.",
+      "link": "https://remnant2.wiki.fextralife.com/Scrap+Staff",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/scrap_staff_melee_weapon_remnant2_wiki_guide_300px.png"
+    },
+    {
+      "nome": "Steel Flail",
+      "descricao": "An unorthodox weapon meant to convert momentum into destruction. Some attacks can continuously chain overhead swings.",
+      "link": "https://remnant2.wiki.fextralife.com/Steel+Flail",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_flail_melee_weapon_remnant2_wiki_guide_300px.png"
+    }
+  ],
+  "The Awakened King": [
+    {
+      "nome": "Steel Scythe",
+      "descricao": "A ruthless threshing device.",
+      "link": "https://remnant2.wiki.fextralife.com/Steel+Scythe",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/steel_scythe_melee_weapon_remnant2_wiki_guide_300px.png"
+    }
+  ],
+  "The Forgotten Kingdom": [
+    {
+      "nome": "Shovel",
+      "descricao": "It's a shovel",
+      "link": "https://remnant2.wiki.fextralife.com/Shovel",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/shovel_melee_weapon_remnant2_wiki_guide300px.png"
+    }
+  ],
+  "The Dark Horizon": []
+}

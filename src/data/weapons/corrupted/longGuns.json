@@ -1,0 +1,57 @@
+{
+  "Game Base": [
+    {
+      "nome": "Corrupted Aphelion",
+      "descricao": "Fires a hypercharged wide-arcing line that passes through targets.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Aphelion",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_aphelion_weapons_remnant2_fextralife_wiki_guide.250px.png",
+      "mod": "Micronova",
+      "moddesc": "Fires 5 shattered compressed remains of a dying star. On contact or when hit with the primary fire, Micronova explodes for 75 FIRE damage, and 200 BURNING damage over 10s to all targets within 2.75m. Striking the Micronova with Corrupted Aphelion's primary fire increases its explosion radius by 25%, damage by 50%, and spawns a shockwave that deals 150 FIRE damage, detonates any nearby Micronovas and applies the initial BURNING amount. Generates 1 Primary Ammo on fire.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Micronova",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/micronova_weapon_mod_remnant2_wiki_guide65px.jpg"
+    },
+    {
+      "nome": "Corrupted Deceit",
+      "descricao": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Deceit",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_deceite_weapons_remnant2_wiki_guide250px.png",
+      "mod": "Windfall",
+      "moddesc": "Fires a ring of spinning blades which penetrates targets as it travels up to 20m before returning to the weapon. While traveling, activating Windfall again causes the projectile to spin in place for up to 3s. Activating it once more will recall it. Enemies struck by the Windfall obtain Tainted Blood for 3s causing all attacks from Deceit to trigger as Weakspot hits. ",
+      "modlink": "https://remnant2.wiki.fextralife.com/Windfall",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/windfall_weapon_mod_remnant2_wiki_guide65px.jpg"
+    },
+    {
+      "nome": "Corrupted Merciless",
+      "descricao": "Fires high-powered nails. Limited magazine size.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Merciless",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted_merciless_weapons_remnant2_wiki_guide250px.png",
+      "mod": "Bloodshot",
+      "moddesc": "While active, grants unlimited Reserve Ammo and increases Reload Speed by 30%. If the entire magazine hits a Weakspot, Merciless will automatically perform a quick Reload. Lasts 13s.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Bloodshot",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bloodshot_weapon_mod_remnant2_wiki_guide65px.jpg"
+    },
+    {
+      "nome": "Corrupted Arbalest",
+      "descricao": "Fully automatic mechanisms launch a bouncing Energy Disc that can hit up to 2 enemies in close proximity. Damage is reduced after bouncing.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Arbalest",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-arbalest-weapons-remnant-2-wiki-guide.png",
+      "mod": "Guardian's Fury",
+      "moddesc": "Imbues the Arbalest with the power of Yaesha's corrupted guardian, increases Fire Rate by 20%, reduces Recoil and Sway by 25% and each disc impact with an enemy explodes over 3.5m for 69 - 207 damage. Lasts 15s.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Guardian's+Fury",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/guardians-fury-weapon-mod-remnant-2-wiki-guide.png"
+    },
+    {
+      "nome": "Corrupted Savior",
+      "descricao": "Black crystal weapon which increases Fire Rate as mod power is generated. Mod power slowly drains after 10s of not dealing damage.",
+      "link": "https://remnant2.wiki.fextralife.com/Corrupted+Savior",
+      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/corrupted-savior-weapons-remnant-2-wiki-guide.png",
+      "mod": "Fusion Cannon",
+      "moddesc": "Funnels all current Mod Charges into a powerful penetrating beam. The beam deals 100 - 300 damage and increases damage dealt, recoil, and beam thickness per Charge consumed. Additionally reloads 20% Primary Ammo per charge consumed. Max 5 Charges.",
+      "modlink": "https://remnant2.wiki.fextralife.com/Fusion+Cannon",
+      "modimg": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fusion-cannon-weapon-mod-remnant-2-wiki-guide.png"
+    }
+  ],
+  "The Awakened King": [],
+  "The Forgotten Kingdom": [],
+  "The Dark Horizon": []
+}
