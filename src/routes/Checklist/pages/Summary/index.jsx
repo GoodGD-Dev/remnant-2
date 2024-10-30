@@ -5,14 +5,23 @@ import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar";
 import ArmorsSummary from "./others/armors";
 import MutatorsSummary from "./others/mutators";
-import WeaponsSummary from "./others/weapons";
 
 import amuletsData from "../../../../data/amulets.json";
 import classesData from "../../../../data/classes.json";
 import modsData from "../../../../data/mods.json";
 import relicsData from "../../../../data/relics.json";
 import ringsData from "../../../../data/rings.json";
-import traitsData from "../../../../data/traits.json";
+
+import handGunsData from "../../../../data/weapons/normal/handGuns.json";
+import longGunsData from "../../../../data/weapons/normal/longGuns.json";
+import meleeData from "../../../../data/weapons/normal/melee.json";
+
+import sHandGunsData from "../../../../data/weapons/special/handGuns.json";
+import sLongGunsData from "../../../../data/weapons/special/longGuns.json";
+import sMeleeData from "../../../../data/weapons/special/melee.json";
+
+import cHandGunsData from "../../../../data/weapons/corrupted/handGuns.json";
+import cLongGunsData from "../../../../data/weapons/corrupted/longGuns.json";
 
 import { Container } from "react-bootstrap";
 
@@ -201,7 +210,212 @@ const Summary = () => {
           </>
         );
       case "weapons":
-        return <WeaponsSummary />;
+        return (
+          <>
+            <div>
+              <CategoryCounter
+                data={handGunsData}
+                title="Contagem de handguns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={handGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={handGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={handGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={handGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter
+                data={sHandGunsData}
+                title="Contagem de shandguns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={sHandGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={sHandGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={sHandGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={sHandGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter
+                data={longGunsData}
+                title="Contagem de long guns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={longGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={longGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={longGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={longGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter
+                data={sLongGunsData}
+                title="Contagem de slong guns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={sLongGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={sLongGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={sLongGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={sLongGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter data={meleeData} title="Contagem de melee" />
+              <MatchedItems
+                title="Game Base"
+                datas={meleeData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={meleeData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={meleeData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={meleeData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter data={sMeleeData} title="Contagem de smelee" />
+              <MatchedItems
+                title="Game Base"
+                datas={sMeleeData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={sMeleeData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={sMeleeData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={sMeleeData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter
+                data={cHandGunsData}
+                title="Contagem de corrupted hand guns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={cHandGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={cHandGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={cHandGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={cHandGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+            <div>
+              <CategoryCounter
+                data={cLongGunsData}
+                title="Contagem de corrupted long guns"
+              />
+              <MatchedItems
+                title="Game Base"
+                datas={cLongGunsData[0]["Game Base"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Awakened King"
+                datas={cLongGunsData[0]["The Awakened King"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Forgotten Kingdom"
+                datas={cLongGunsData[0]["The Forgotten Kingdom"]}
+                checkedItems={checkedItems}
+              />
+              <MatchedItems
+                title="The Dark Horizon"
+                datas={cLongGunsData[0]["The Dark Horizon"]}
+                checkedItems={checkedItems}
+              />
+            </div>
+          </>
+        );
       default:
         return null;
     }

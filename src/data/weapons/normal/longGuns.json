@@ -1,99 +1,101 @@
-{
-  "Game Base": [
-    {
-      "nome": "AS-10 Bulldog",
-      "descricao": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
-      "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Blackmaw AR-47",
-      "descricao": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
-      "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Chicago Typewriter",
-      "descricao": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
-      "link": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Coach Gun",
-      "descricao": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
-      "link": "https://remnant2.wiki.fextralife.com/Coach+Gun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Crossbow",
-      "descricao": "An accurate and deadly single-shot crossbow with a low sound profile.",
-      "link": "https://remnant2.wiki.fextralife.com/Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Ford's Scattergun",
-      "descricao": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Huntmaster M1",
-      "descricao": "A high-powerfed long range bolt-action rifle with exceptional accuracy and a 2.5x magnification scope. Tap AIM to scope.",
-      "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Pulse Rifle",
-      "descricao": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
-      "link": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Royal Hunting Bow",
-      "descricao": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
-      "link": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Rusty Lever Action",
-      "descricao": " A well-worn lever-action rifle.",
-      "link": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Widowmaker",
-      "descricao": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
-      "link": "https://remnant2.wiki.fextralife.com/Widowmaker",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Wrangler 1860",
-      "descricao": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "XMG57 Bonesaw",
-      "descricao": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
-      "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png"
-    }
-  ],
-  "The Awakened King": [
-    {
-      "nome": "Sparkfire Shotgun",
-      "descricao": "Fires incendiary shells that apply BURNING which deals 30 FIRE damage over 3.0 seconds.",
-      "link": "https://remnant2.wiki.fextralife.com/Sparkfire+Shotgun",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png"
-    }
-  ],
-  "The Forgotten Kingdom": [
-    {
-      "nome": "Trinity Crossbow",
-      "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
-      "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png"
-    }
-  ],
-  "The Dark Horizon": []
-}
+[
+  {
+    "Game Base": [
+      {
+        "nome": "AS-10 Bulldog",
+        "descricao": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
+        "link": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/as_10_bulldog_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Blackmaw AR-47",
+        "descricao": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
+        "link": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/blackmaw_ar_47_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Chicago Typewriter",
+        "descricao": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
+        "link": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/chicago_typewriter_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Coach Gun",
+        "descricao": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
+        "link": "https://remnant2.wiki.fextralife.com/Coach+Gun",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/coach_gun_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Crossbow",
+        "descricao": "An accurate and deadly single-shot crossbow with a low sound profile.",
+        "link": "https://remnant2.wiki.fextralife.com/Crossbow",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crossbow_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Ford's Scattergun",
+        "descricao": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
+        "link": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/fords_scattergun_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Huntmaster M1",
+        "descricao": "A high-powerfed long range bolt-action rifle with exceptional accuracy and a 2.5x magnification scope. Tap AIM to scope.",
+        "link": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/huntmaster_m1_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Pulse Rifle",
+        "descricao": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
+        "link": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/pulse_rifle_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Royal Hunting Bow",
+        "descricao": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
+        "link": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/royal_hunting_bow_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Rusty Lever Action",
+        "descricao": " A well-worn lever-action rifle.",
+        "link": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_lever_action_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Widowmaker",
+        "descricao": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
+        "link": "https://remnant2.wiki.fextralife.com/Widowmaker",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/widowmaker_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Wrangler 1860",
+        "descricao": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
+        "link": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/wrangler_1860_long_gun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "XMG57 Bonesaw",
+        "descricao": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
+        "link": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/xmg57_bonesaw__long_gun_remnant2_wiki_guide_300px.png"
+      }
+    ],
+    "The Awakened King": [
+      {
+        "nome": "Sparkfire Shotgun",
+        "descricao": "Fires incendiary shells that apply BURNING which deals 30 FIRE damage over 3.0 seconds.",
+        "link": "https://remnant2.wiki.fextralife.com/Sparkfire+Shotgun",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sparkfire_shotgun_long_gun_remnant2_wiki_guide_300px.png"
+      }
+    ],
+    "The Forgotten Kingdom": [
+      {
+        "nome": "Trinity Crossbow",
+        "descricao": "A powerful Pan crossbow designed for mid-range combat. Fires 3 bolts at a time.",
+        "link": "https://remnant2.wiki.fextralife.com/Trinity+Crossbow",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/trinity_crossbow_weapon_remnant2_the_forgotten_kingdom_350px.png"
+      }
+    ],
+    "The Dark Horizon": []
+  }
+]

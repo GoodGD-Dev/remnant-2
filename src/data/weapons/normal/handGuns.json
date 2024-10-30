@@ -1,80 +1,82 @@
-{
-  "Game Base": [
-    {
-      "nome": "Bolt Driver",
-      "descricao": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
-      "link": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Double Barrel",
-      "descricao": "It's a bad leader what cant trust those beneath her to do what's right-who fears treachery behind every smile. Even if she's sometimes right, that ain't no way to live a life.",
-      "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "MP60-R",
-      "descricao": "A small-caliber submachine gun best suited for close range skirmishes.",
-      "link": "https://remnant2.wiki.fextralife.com/MP60-R",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Repeater Pistol",
-      "descricao": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
-      "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Rupture Cannon",
-      "descricao": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
-      "link": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Service Pistol",
-      "descricao": "Astandard issue military spec sidearm known for its reliability and accuracy.",
-      "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Silverback Model 500",
-      "descricao": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
-      "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Sureshot",
-      "descricao": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
-      "link": "https://remnant2.wiki.fextralife.com/Sureshot",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Tech 22",
-      "descricao": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
-      "link": "https://remnant2.wiki.fextralife.com/Tech+22",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Western Classic",
-      "descricao": "A classic six-shooter. Tough. Dependable.",
-      "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png"
-    },
-    {
-      "nome": "Rusty Repeater",
-      "descricao": "An old antique pistol.",
-      "link": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
-    }
-  ],
-  "The Awakened King": [],
-  "The Forgotten Kingdom": [],
-  "The Dark Horizon": [
-    {
-      "nome": "Repair Tool",
-      "descricao": "Fires a stream of nanomachines, dealing damage to enemies or healing allies for 3.15% of their Max Health per second. The nano-tech Turrets and Drones.",
-      "link": "https://remnant2.wiki.fextralife.com/Repair+Tool",
-      "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
-    }
-  ]
-}
+[
+  {
+    "Game Base": [
+      {
+        "nome": "Bolt Driver",
+        "descricao": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
+        "link": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bolt_driver_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Double Barrel",
+        "descricao": "It's a bad leader what cant trust those beneath her to do what's right-who fears treachery behind every smile. Even if she's sometimes right, that ain't no way to live a life.",
+        "link": "https://remnant2.wiki.fextralife.com/Double+Barrel",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/double_barrel_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "MP60-R",
+        "descricao": "A small-caliber submachine gun best suited for close range skirmishes.",
+        "link": "https://remnant2.wiki.fextralife.com/MP60-R",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/mp60-r_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Repeater Pistol",
+        "descricao": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
+        "link": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/repeater_pistol_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Rupture Cannon",
+        "descricao": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
+        "link": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rupture_cannon_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Service Pistol",
+        "descricao": "Astandard issue military spec sidearm known for its reliability and accuracy.",
+        "link": "https://remnant2.wiki.fextralife.com/Service+Pistol",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/service_pistol_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Silverback Model 500",
+        "descricao": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
+        "link": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/silverback_model_500_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Sureshot",
+        "descricao": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
+        "link": "https://remnant2.wiki.fextralife.com/Sureshot",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/sureshot_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Tech 22",
+        "descricao": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
+        "link": "https://remnant2.wiki.fextralife.com/Tech+22",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/tech_22_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Western Classic",
+        "descricao": "A classic six-shooter. Tough. Dependable.",
+        "link": "https://remnant2.wiki.fextralife.com/Western+Classic",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/western_classic_handgun_remnant2_wiki_guide_300px.png"
+      },
+      {
+        "nome": "Rusty Repeater",
+        "descricao": "An old antique pistol.",
+        "link": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
+      }
+    ],
+    "The Awakened King": [],
+    "The Forgotten Kingdom": [],
+    "The Dark Horizon": [
+      {
+        "nome": "Repair Tool",
+        "descricao": "Fires a stream of nanomachines, dealing damage to enemies or healing allies for 3.15% of their Max Health per second. The nano-tech Turrets and Drones.",
+        "link": "https://remnant2.wiki.fextralife.com/Repair+Tool",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/rusty_repeater_handgun_remnant2_wiki_guide_300px.png"
+      }
+    ]
+  }
+]
