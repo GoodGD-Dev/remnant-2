@@ -1,0 +1,42 @@
+[
+  {
+    "Game Base": [
+      {
+        "nome": "Bandit Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Bandit Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
+        "link": "https://remnant2.wiki.fextralife.com/Bandit+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/bandit_set_armor_remnant_2_wiki_guide_250px.png"
+      },
+      {
+        "nome": "Dendroid Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Dendroid Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
+        "link": "https://remnant2.wiki.fextralife.com/Dendroid+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/dendroid_set_armor_sets_fextralife_wiki_guide_250px.png"
+      },
+      {
+        "nome": "Realmwalker Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Realmwalker Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
+        "link": "https://remnant2.wiki.fextralife.com/Realmwalker+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/realmwalker_set_armor_sets_fextralife_wiki_guide_250px.png"
+      },
+      {
+        "nome": "Space Worker Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Space Worker Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
+        "link": "https://remnant2.wiki.fextralife.com/Space+Worker+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/space_worker_set_armor_sets_fextralife_wiki_guide_250px.png"
+      }
+    ],
+    "The Awakened King": [],
+    "The Forgotten Kingdom": [],
+    "The Dark Horizon": [],
+    "Deluxe/Ultimate Edition": [
+      {
+        "nome": "Elder Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Elder Set is a Light Armor Set, so you will experience fast Dodge with no Stamina cost penalty.",
+        "link": "https://remnant2.wiki.fextralife.com/Elder+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/elder_set%C3%A7_armor_sets_fextralife_wiki_guide_250px.png",
+        "dlc": "Deluxe/Ultimate Edition"
+      }
+    ]
+  }
+]

@@ -4,7 +4,6 @@ import { Row, Col, Container } from "react-bootstrap";
 import CategoryCounter from "../../../../components/CategoryCounter";
 import MatchedItems from "../../../../components/MatchedItems";
 import Sidebar from "../../../../components/Sidebar";
-import ArmorsSummary from "./others/armors";
 
 import amuletsData from "../../../../data/amulets.json";
 import classesData from "../../../../data/classes.json";
@@ -19,6 +18,12 @@ import sLongGunsData from "../../../../data/weapons/special/longGuns.json";
 import sMeleeData from "../../../../data/weapons/special/melee.json";
 import meleeMutatorsData from "../../../../data/mutators/melee.json";
 import rangedMutatorsData from "../../../../data/mutators/ranged.json";
+
+import headArmorData from "../../../../data/armors/headArmor.json";
+import lightArmorData from "../../../../data/armors/lightArmor.json";
+import mediumArmorData from "../../../../data/armors/mediumArmor.json";
+import heavyArmorData from "../../../../data/armors/heavyArmor.json";
+import ultraArmorData from "../../../../data/armors/headArmor.json";
 
 const Summary = () => {
   const [checkedItems, setCheckedItems] = useState({});
@@ -74,7 +79,15 @@ const Summary = () => {
       case "amulets":
         return renderMatchedItems(amuletsData, "amuletos");
       case "armors":
-        return <ArmorsSummary />;
+        return (
+          <>
+            {renderMatchedItems(lightArmorData, "Light Armor")}
+            {renderMatchedItems(mediumArmorData, "Medium Armor")}
+            {renderMatchedItems(heavyArmorData, "Heavy Armor")}
+            {renderMatchedItems(ultraArmorData, "Ultra Armor")}
+            {renderMatchedItems(headArmorData, "Head")}
+          </>
+        );
       case "classes":
         return renderMatchedItems(classesData, "classes");
       case "mods":
@@ -100,6 +113,7 @@ const Summary = () => {
             {renderMatchedItems(longGunsData, "long guns")}
             {renderMatchedItems(sLongGunsData, "slong guns")}
             {renderMatchedItems(meleeData, "melee")}
+            {renderMatchedItems(sMeleeData, "smelee")}
           </>
         );
       default:

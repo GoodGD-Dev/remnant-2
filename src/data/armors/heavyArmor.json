@@ -1,0 +1,51 @@
+[
+  {
+    "Game Base": [],
+    "The Awakened King": [
+      {
+        "nome": "Crimson Guard Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Crimson Guard Set is a heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost, unless you have at least 2 points in Strong Back which will allow you to wear this set with medium encumbrance.",
+        "link": "https://remnant2.wiki.fextralife.com/Crimson+Guard+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/crimson_guard_remnant_2_wiki_250.png"
+      }
+    ],
+    "The Forgotten Kingdom": [
+      {
+        "nome": "Disciple Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Disciple Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost, unless you have at least 2 points in Strong Back which will allow you to wear this set with medium encumbrance.",
+        "link": "https://remnant2.wiki.fextralife.com/Disciple+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/disciple-set-remnant-2-forgotten-kingdom-wiki-guide-250px.png"
+      }
+    ],
+    "The Dark Horizon": [
+      {
+        "nome": "Nanoplated Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Nanoplated Set is a Light Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
+        "link": "https://remnant2.wiki.fextralife.com/Nanoplated+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/nanoplated_set_armor_set_remnant_2_wiki_guide_200px.png"
+      },
+      {
+        "nome": "Phetyr Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Phetyr Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
+        "link": "https://remnant2.wiki.fextralife.com/Phetyr+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/phetyr_armor_set_remnant_2_wiki_guide_200px.png"
+      }
+    ],
+    "Deluxe/Ultimate Edition": [
+      {
+        "nome": "Radiant Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Radiant Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost. However, 9 points in the Strong Back trait is enough to wear this set with just medium encumbrance.",
+        "link": "https://remnant2.wiki.fextralife.com/Radiant+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/radiant_set_armor_sets_fextralife_wiki_guide_250px.png",
+        "dlc": "Deluxe/Ultimate Edition"
+      },
+      {
+        "nome": "Void Set",
+        "descricao": "Armor Sets focus on aesthetics rather than set bonuses, allowing for more freedom in Build variety, while the weight of an Armor Set plays a crucial role in determining the effectiveness of evasive maneuvers and overall combat proficiency, as lighter sets enable enhanced agility and fluidity of movement, facilitating easier and longer dodges compared to heavier sets. Void Set is a Heavy Armor Set, so you will experience Slow Dodge with a 50% penalty on Stamina cost.",
+        "link": "https://remnant2.wiki.fextralife.com/Void+Set",
+        "imagem": "https://remnant2.wiki.fextralife.com/file/Remnant-2/void_set_armor_sets_fextralife_wiki_guide_250px.png",
+        "dlc": "Deluxe/Ultimate Edition"
+      }
+    ]
+  }
+]
