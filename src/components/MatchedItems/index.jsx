@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { Row, Col, ProgressBar } from "react-bootstrap";
 
 const MatchedItems = ({ title, datas, checkedItems }) => {
   const categoryCounts = {};
@@ -26,17 +27,46 @@ const MatchedItems = ({ title, datas, checkedItems }) => {
   });
 
   return (
-    <div>
-      <h2>{title}</h2>
-      <ul className="category-list">
-        {Object.entries(categoryCounts).map(([categoria, counts]) => (
-          <li key={categoria} className="category-item">
-            <span>Total de itens: {counts.totalItems}</span>,
-            <span> Itens marcados: {counts.matchedItems}</span>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <Row className="g-3">
+      <Col xs={12}>
+        <h2>{title}</h2>
+      </Col>
+      <Col xs={12}>
+        <ul className="list-unstyled d-flex flex-wrap">
+          {Object.entries(categoryCounts).map(([categoria, counts]) => {
+            const matchedPercentage = Math.round(
+              (counts.matchedItems / counts.totalItems) * 100
+            );
+
+            return (
+              <li
+                key={categoria}
+                className="d-flex flex-column align-items-start me-3 mb-3"
+                style={{ minWidth: "150px" }}
+              >
+                <h5>{categoria}</h5>
+                <ProgressBar
+                  now={matchedPercentage}
+                  label={`${matchedPercentage}%`}
+                  style={{
+                    width: "100%",
+                    backgroundColor: "black",
+                    color: "white",
+                  }}
+                  variant="danger" // Define a cor de progresso em vermelho
+                />
+                <div>
+                  <small>
+                    Itens Marcados: {counts.matchedItems} / Total de Itens:{" "}
+                    {counts.totalItems}
+                  </small>
+                </div>
+              </li>
+            );
+          })}
+        </ul>
+      </Col>
+    </Row>
   );
 };
 

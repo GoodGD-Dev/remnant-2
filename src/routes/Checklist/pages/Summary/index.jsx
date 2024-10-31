@@ -48,18 +48,23 @@ const Summary = () => {
   ];
 
   const renderMatchedItems = (data, title) => (
-    <Row>
-      <Col xs={6} sm={4} md={3} lg={12}>
+    <Row className="g-3">
+      <Col xs={12} sm={6} md={4} lg={3}>
         <CategoryCounter data={data} title={`Contagem de ${title}`} />
       </Col>
+
       <Col xs={12}>
-        {" "}
-        {/* Usando Col para o MatchedItems */}
-        <Row>
+        <Row className="g-3 d-flex flex-wrap">
           {Object.keys(data[0]).map((key) => (
-            <Col xs={12} sm={6} md={4} lg={3} key={key}>
-              {" "}
-              {/* Ajuste as larguras conforme necessário */}
+            <Col
+              xs={6}
+              sm={4}
+              md={3}
+              lg={2}
+              key={key}
+              className="d-flex flex-column align-items-start"
+              style={{ minWidth: "150px" }}
+            >
               <MatchedItems
                 title={key}
                 datas={data[0][key]}
