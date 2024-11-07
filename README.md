@@ -1,4 +1,4 @@
-# Remnant 2 site
+# Remnant 2 site (ABANDONADO) ;-;
 
 ## Setup
 
